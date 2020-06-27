@@ -35,6 +35,8 @@
     "newFaction": "New Faction",
     "newRank": "New Rank",
 
+    "factionName": "Faction name",
+
     "editFaction": "Editing faction :name:",
     "editRank": "Editing rank :name:",
 

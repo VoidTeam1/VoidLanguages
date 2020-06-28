@@ -48,6 +48,7 @@
     "factionTag": "Faction tag",
     "subfactionOf": "Subfaction of",
     "factionColor": "Faction color",
+    "factionIcon": "Faction icon",
     "maxMembers": "Max members",
 
     "rankTag": "Rank tag",

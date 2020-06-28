@@ -109,6 +109,13 @@
 
     "viewDetails": "View details",
     "join": "Join",
+    "lastSeen": "Last seen",
+
+    "ago": ":time: ago",
+    "never": "Never",
+    "now": "Now",
+
+    "back": "Back",
 
     "save": "Save",
     "deleteFaction": "Delete faction",

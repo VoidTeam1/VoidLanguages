@@ -91,8 +91,14 @@
     "maxFactionsCreated": "Couldn't create faction :name: because the limit (:limit:) was exceeded!",
     "membersInRankErr": "Couldn't delete rank :name: because there are members inside and they can't be demoted!",
 
+    "memberInvited": "Player :name: was successfully invited to :faction:!",
+    "memberInvitePending": "Player :name: already has a pending invite!",
+    "memberInviteAccepted": "Player :name: accepted your invite!",
+
+    "memberJoinedFaction": "You joined :faction:",
+
     "memberKicked": "Member :name: was successfully kicked!",
-    "memberAdded": "Member :name: was successfully added to faction :faction:!",
+    "memberAdded": "Player :name: was successfully added to faction :faction:!",
 
     "memberRankChanged": ":name:'s rank was set to :rank:!",
     "memberPromoted": "Member :name: was promoted to rank :rank:!",
@@ -108,6 +114,9 @@
 
     "inviteMember": "Invite a new member",
 
+    "factionInvite": "Faction invitation",
+    "invitedTo": "You were invited to",
+
     "viewDetails": "View details",
     "join": "Join",
     "lastSeen": "Last seen",
@@ -122,6 +131,9 @@
     "deleteFaction": "Delete faction",
     "deleteRank": "Delete rank",
 
+    "accept": "Accept",
+    "deny": "Deny",
+    
     "cancel": "Cancel",
 
     "clickToAdd": "Click to add",
@@ -153,6 +165,7 @@
     "experience": "Experience",
     "commands": "Commands",
     "xpmodules": "XP Modules",
+    "invites": "Invites",
 
     "settings_language": "Language",
     "settings_language_desc": "What language should VoidFactions use?",
@@ -162,6 +175,9 @@
 
     "settings_menubind": "Menu keybind",
     "settings_menubind_desc": "What key will be used for opening the menu?",
+
+    "settings_inviteduration": "Invite duration",
+    "settings_inviteduration_desc": "For how long will an invite stay active? (seconds)",
 
     "settings_baselevelupxp": "Level up XP",
     "settings_baselevelupxp_desc": "How much XP do you need to level up?",

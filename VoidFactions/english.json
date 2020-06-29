@@ -96,6 +96,7 @@
     "memberInviteAccepted": "Player :name: accepted your invite!",
 
     "memberJoinedFaction": "You joined :faction:",
+    "memberLeftFaction": "You left :faction:",
 
     "memberKicked": "Member :name: was successfully kicked!",
     "memberAdded": "Player :name: was successfully added to faction :faction:!",
@@ -130,6 +131,8 @@
     "save": "Save",
     "deleteFaction": "Delete faction",
     "deleteRank": "Delete rank",
+
+    "leaveFaction": "Leave faction",
 
     "accept": "Accept",
     "deny": "Deny",

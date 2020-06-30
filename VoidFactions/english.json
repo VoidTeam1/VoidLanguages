@@ -51,6 +51,11 @@
     "factionIcon": "Faction icon",
     "maxMembers": "Max members",
 
+    "canCaptureTerritory": "Can capture territory",
+    "showOnBoard": "Show on board",
+    "inviteRequired": "Requires invite to join",
+    "isDefaultFaction": "Is default faction",
+
     "noRanksAvailable": "No ranks available!",
 
     "rankTag": "Rank tag",

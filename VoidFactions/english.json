@@ -51,6 +51,8 @@
     "factionIcon": "Faction icon",
     "maxMembers": "Max members",
 
+    "noRanksAvailable": "No ranks available!",
+
     "rankTag": "Rank tag",
     "job": "Job",
 
@@ -78,6 +80,9 @@
 
     "success": "Success",
     "error": "Error",
+    "info": "Info",
+
+    "properties": "Properties",
 
     "factionCreated": "Faction :name: was successfully created!",
     "factionUpdated": "Faction :name: was successfully edited!",
@@ -104,6 +109,10 @@
     "memberRankChanged": ":name:'s rank was set to :rank:!",
     "memberPromoted": "Member :name: was promoted to rank :rank:!",
     "memberDemoted": "Member :name: was demoted to rank :rank:!",
+
+    "youPromoted": "You were promoted to rank :rank:!",
+    "youDemoted": "You were demoted to rank :rank:!",
+    "youRankChanged": "Your rank was set to :rank:!",
 
     "nameShort": "Name is too short!",
     "maxMembersLimit": "Max members count is too large!",

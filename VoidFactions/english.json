@@ -122,6 +122,8 @@
 
     "nameShort": "Name is too short!",
     "maxMembersLimit": "Max members count is too large!",
+    "noJobs": "Rank has no assigned jobs!",
+
     "noDefaultFactions": "There are no default factions! VoidFactions will not work correctly!",
 
     "deleteRankPrompt": "Are you sure you want to delete rank :rank:? This action is permanent!",

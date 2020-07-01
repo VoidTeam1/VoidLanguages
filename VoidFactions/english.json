@@ -24,6 +24,7 @@
     "levelUpMsg": "You are now level :level:",
 
     "chooseMode": "Choose your mode",
+    "chooseFaction": "Choose your faction",
 
     "suitedForSerious": "Suited for SeriousRP",
     "suitedForNonSerious": "Suited for Non-SeriousRP",
@@ -121,6 +122,7 @@
 
     "nameShort": "Name is too short!",
     "maxMembersLimit": "Max members count is too large!",
+    "noDefaultFactions": "There are no default factions! VoidFactions will not work correctly!",
 
     "deleteRankPrompt": "Are you sure you want to delete rank :rank:? This action is permanent!",
     "deleteFactionPrompt": "Are you sure you want to delete faction :faction:? This action is permanent!",

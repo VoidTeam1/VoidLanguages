@@ -24,6 +24,7 @@
     "levelUpMsg": "You are now level :level:",
 
     "chooseMode": "Choose your mode",
+    "chooseFaction": "Choose your faction",
 
     "suitedForSerious": "Suited for SeriousRP",
     "suitedForNonSerious": "Suited for Non-SeriousRP",
@@ -34,6 +35,8 @@
 
     "newFaction": "New Faction",
     "newRank": "New Rank",
+
+    "factionName": "Faction name",
 
     "editFaction": "Editing faction :name:",
     "editRank": "Editing rank :name:",
@@ -46,7 +49,15 @@
     "factionTag": "Faction tag",
     "subfactionOf": "Subfaction of",
     "factionColor": "Faction color",
+    "factionIcon": "Faction icon",
     "maxMembers": "Max members",
+
+    "canCaptureTerritory": "Can capture territory",
+    "showOnBoard": "Show on board",
+    "inviteRequired": "Requires invite to join",
+    "isDefaultFaction": "Is default faction",
+
+    "noRanksAvailable": "No ranks available!",
 
     "rankTag": "Rank tag",
     "job": "Job",
@@ -75,6 +86,9 @@
 
     "success": "Success",
     "error": "Error",
+    "info": "Info",
+
+    "properties": "Properties",
 
     "factionCreated": "Faction :name: was successfully created!",
     "factionUpdated": "Faction :name: was successfully edited!",
@@ -88,15 +102,30 @@
     "maxFactionsCreated": "Couldn't create faction :name: because the limit (:limit:) was exceeded!",
     "membersInRankErr": "Couldn't delete rank :name: because there are members inside and they can't be demoted!",
 
+    "memberInvited": "Player :name: was successfully invited to :faction:!",
+    "memberInvitePending": "Player :name: already has a pending invite!",
+    "memberInviteAccepted": "Player :name: accepted your invite!",
+
+    "memberJoinedFaction": "You joined :faction:",
+    "memberLeftFaction": "You left :faction:",
+
     "memberKicked": "Member :name: was successfully kicked!",
-    "memberAdded": "Member :name: was successfully added to faction :faction:!",
+    "memberAdded": "Player :name: was successfully added to faction :faction:!",
 
     "memberRankChanged": ":name:'s rank was set to :rank:!",
     "memberPromoted": "Member :name: was promoted to rank :rank:!",
     "memberDemoted": "Member :name: was demoted to rank :rank:!",
 
+    "youPromoted": "You were promoted to rank :rank:!",
+    "youDemoted": "You were demoted to rank :rank:!",
+    "youRankChanged": "Your rank was set to :rank:!",
+
     "nameShort": "Name is too short!",
     "maxMembersLimit": "Max members count is too large!",
+    "noJobs": "There are no jobs assigned to this rank!",
+
+    "cantJoinNoDefaultFactions": "Default factions will need to be configured before joining a faction!",
+    "noDefaultFactions": "There are no default factions! VoidFactions will not work correctly!",
 
     "deleteRankPrompt": "Are you sure you want to delete rank :rank:? This action is permanent!",
     "deleteFactionPrompt": "Are you sure you want to delete faction :faction:? This action is permanent!",
@@ -105,13 +134,33 @@
 
     "inviteMember": "Invite a new member",
 
+    "factionInvite": "Faction invitation",
+    "invitedTo": "You were invited to",
+
+    "viewDetails": "View details",
+    "join": "Join",
+    "lastSeen": "Last seen",
+
+    "ago": ":time: ago",
+    "never": "Never",
+    "now": "Now",
+
+    "back": "Back",
+
     "save": "Save",
     "deleteFaction": "Delete faction",
     "deleteRank": "Delete rank",
 
+    "leaveFaction": "Leave faction",
+
+    "accept": "Accept",
+    "deny": "Deny",
+    
     "cancel": "Cancel",
 
     "clickToAdd": "Click to add",
+
+    "visual": "Visual",
 
     "members": "Members",
     "actions": "Actions",
@@ -138,6 +187,7 @@
     "experience": "Experience",
     "commands": "Commands",
     "xpmodules": "XP Modules",
+    "invites": "Invites",
 
     "settings_language": "Language",
     "settings_language_desc": "What language should VoidFactions use?",
@@ -147,6 +197,9 @@
 
     "settings_menubind": "Menu keybind",
     "settings_menubind_desc": "What key will be used for opening the menu?",
+
+    "settings_inviteduration": "Invite duration",
+    "settings_inviteduration_desc": "For how long will an invite stay active? (seconds)",
 
     "settings_baselevelupxp": "Level up XP",
     "settings_baselevelupxp_desc": "How much XP do you need to level up?",

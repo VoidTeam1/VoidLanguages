@@ -124,8 +124,11 @@
     "maxMembersLimit": "Max members count is too large!",
     "noJobs": "There are no jobs assigned to this rank!",
 
-    "cantJoinNoDefaultFactions": "Default factions will need to be configured before joining a faction!",
-    "noDefaultFactions": "There are no default factions! VoidFactions will not work correctly!",
+    "nothingToShow": "There is nothing to show!",
+    "thereAreNoMembers": "There are no members!",
+
+    "cantJoinNoDefaultFactions": "Default factions will need to be configured before joining a faction! Make one and reconnect.",
+    "noDefaultFactions": "There are no default factions! They will need to be configured!",
 
     "deleteRankPrompt": "Are you sure you want to delete rank :rank:? This action is permanent!",
     "deleteFactionPrompt": "Are you sure you want to delete faction :faction:? This action is permanent!",

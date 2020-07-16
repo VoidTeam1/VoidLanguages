@@ -46,6 +46,7 @@
     "member": "Member",
 
     "name": "Name",
+    "description": "Description",
     "factionTag": "Faction tag",
     "subfactionOf": "Subfaction of",
     "factionColor": "Faction color",

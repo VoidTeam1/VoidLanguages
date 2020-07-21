@@ -124,6 +124,10 @@
     "maxMembersLimit": "Max members count is too large!",
     "noJobs": "There are no jobs assigned to this rank!",
 
+    "maxMembersErr": "The faction is full!",
+    "maxRankMembersErr": "The rank is full!",
+    "minLevelErr": "You don't have the required level!",
+
     "cantJoinNoDefaultFactions": "Default factions will need to be configured before joining a faction!",
     "noDefaultFactions": "There are no default factions! VoidFactions will not work correctly!",
 

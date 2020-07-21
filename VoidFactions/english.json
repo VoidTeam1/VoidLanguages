@@ -46,6 +46,7 @@
     "member": "Member",
 
     "name": "Name",
+    "description": "Description",
     "factionTag": "Faction tag",
     "subfactionOf": "Subfaction of",
     "factionColor": "Faction color",
@@ -128,8 +129,11 @@
     "maxRankMembersErr": "The rank is full!",
     "minLevelErr": "You don't have the required level!",
 
-    "cantJoinNoDefaultFactions": "Default factions will need to be configured before joining a faction!",
-    "noDefaultFactions": "There are no default factions! VoidFactions will not work correctly!",
+    "nothingToShow": "There is nothing to show!",
+    "thereAreNoMembers": "There are no members!",
+
+    "cantJoinNoDefaultFactions": "Default factions will need to be configured before joining a faction! Make one and reconnect.",
+    "noDefaultFactions": "There are no default factions! They will need to be configured!",
 
     "deleteRankPrompt": "Are you sure you want to delete rank :rank:? This action is permanent!",
     "deleteFactionPrompt": "Are you sure you want to delete faction :faction:? This action is permanent!",

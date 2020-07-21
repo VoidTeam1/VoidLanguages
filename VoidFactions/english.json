@@ -203,6 +203,9 @@
     "settings_menucommand": "Menu command",
     "settings_menucommand_desc": "What command will be used for opening the menu?",
 
+    "settings_promotecanselect": "Select faction on promote",
+    "settings_promotecanselect_desc": "Can select specific faction on promote between factions?",
+
     "settings_menubind": "Menu keybind",
     "settings_menubind_desc": "What key will be used for opening the menu?",
 

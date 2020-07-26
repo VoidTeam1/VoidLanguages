@@ -132,6 +132,9 @@
     "nothingToShow": "There is nothing to show!",
     "thereAreNoMembers": "There are no members!",
 
+    "capturePointCreated": "Capture point created!",
+    "capturePointDeleted": "Capture point deleted!",
+
     "cantJoinNoDefaultFactions": "Default factions will need to be configured before joining a faction! Make one and reconnect.",
     "noDefaultFactions": "There are no default factions! They will need to be configured!",
 
@@ -196,6 +199,7 @@
     "commands": "Commands",
     "xpmodules": "XP Modules",
     "invites": "Invites",
+    "capturepoints": "Capture Points",
 
     "settings_language": "Language",
     "settings_language_desc": "What language should VoidFactions use?",
@@ -211,6 +215,9 @@
 
     "settings_inviteduration": "Invite duration",
     "settings_inviteduration_desc": "For how long will an invite stay active? (seconds)",
+
+    "settings_pointrenderdist": "Render distance",
+    "settings_pointrenderdist_desc": "How far away should the capture point draw?",
 
     "settings_baselevelupxp": "Level up XP",
     "settings_baselevelupxp_desc": "How much XP do you need to level up?",

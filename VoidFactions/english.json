@@ -132,8 +132,12 @@
     "nothingToShow": "There is nothing to show!",
     "thereAreNoMembers": "There are no members!",
 
+    "capturePoint": "Capture Point",
     "capturePointCreated": "Capture point created!",
     "capturePointDeleted": "Capture point deleted!",
+    "capturePointContested": "Contested",
+    "capturing": "Capturing",
+    "notClaimed": "Not claimed",
 
     "cantJoinNoDefaultFactions": "Default factions will need to be configured before joining a faction! Make one and reconnect.",
     "noDefaultFactions": "There are no default factions! They will need to be configured!",
@@ -218,6 +222,12 @@
 
     "settings_pointrenderdist": "Render distance",
     "settings_pointrenderdist_desc": "How far away should the capture point draw?",
+
+    "settings_showpointdistances": "Show distances",
+    "settings_showpointdistances_desc": "Should the capture points distances be displayed?",
+
+    "settings_pointcaptime": "Capture time",
+    "settings_pointcaptime_desc": "How long does it take to capture a point? (seconds)",
 
     "settings_baselevelupxp": "Level up XP",
     "settings_baselevelupxp_desc": "How much XP do you need to level up?",

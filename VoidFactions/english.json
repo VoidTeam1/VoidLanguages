@@ -19,7 +19,7 @@
     "changeJob": "Change job",
     "changeRank": "Change rank",
 
-
+    "assets": "Assets",
 
     "createFaction": "Create faction",
     "joinFaction": "Join faction",
@@ -82,6 +82,9 @@
     "rankTag": "Rank tag",
     "job": "Job",
 
+    "ranking": "Ranking",
+    "totalUpgrades": "Total upgrades",
+
     "you": "You",
 
     "kick": "Kick",
@@ -94,7 +97,12 @@
     "setRanks": "Set ranks",
 
     "manageFaction": "Manage faction",
-    "purchasePerks": "Purchase perks",
+    "purchaseUpgrades": "Purchase upgrades",
+
+    "canWithdrawMoney": "Withdraw money",
+    "canDepositMoney": "Deposit money",
+    "canWithdrawItems": "Withdraw items",
+    "canDepositItems": "Deposit items",
 
     "yes": "Yes",
     "no": "No",
@@ -141,7 +149,9 @@
     "youRankChanged": "Your rank was set to :rank:!",
 
     "nameShort": "Name is too short!",
+    "nameLong": "Name is too long!",
     "tagShort": "Tag is too short!",
+    "tagLong": "Tag is too long!",
     "maxMembersLimit": "Max members count is too large!",
     "noJobs": "There are no jobs assigned to this rank!",
 
@@ -167,7 +177,8 @@
 
     "switch": "Switch",
     "switchType": "Switch faction type",
-    "switchTypePrompt": "Are you sure you want to switch faction types? All factions will be deleted!",
+    "switchTypePrompt": "Are you sure you want to switch faction types? All factions will be deleted! Your server will be restarted after switching types!",
+    "restartingIn": "Restarting server in :time: seconds!",
 
     "changingJobRestricted": "You don't have access to this job!",
 
@@ -192,6 +203,7 @@
     "deleteFaction": "Delete faction",
     "deleteRank": "Delete rank",
 
+    "leave": "Leave",
     "leaveFaction": "Leave faction",
 
     "accept": "Accept",
@@ -236,6 +248,9 @@
 
     "settings_menucommand": "Menu command",
     "settings_menucommand_desc": "What command will be used for opening the menu?",
+
+    "settings_maxtaglength": "Max tag length",
+    "settings_maxtaglength_desc": "How long can the faction tag be?",
 
     "settings_defaultrankname": "Default owner rank name",
     "settings_defaultrankname_desc": "What will be the name of the owner's default rank?",

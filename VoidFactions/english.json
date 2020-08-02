@@ -19,6 +19,13 @@
     "changeJob": "Change job",
     "changeRank": "Change rank",
 
+    "createFaction": "Create faction",
+    "joinFaction": "Join faction",
+    
+    "createFactionOrJoin": "Create a faction or join one",
+    "noFactionText": "You can either create a new faction and be the boss of it or you can join an existing one.",
+    "factionCreateCost": "The creation of a new faction costs :color: :money:.",
+
     "select": "Select",
 
     "factions": "Factions",
@@ -225,6 +232,12 @@
 
     "settings_menucommand": "Menu command",
     "settings_menucommand_desc": "What command will be used for opening the menu?",
+
+    "settings_factioncreatecost": "Faction creation cost",
+    "settings_factioncreatecost_desc": "How much will it cost to create a faction?",
+
+    "settings_factioncreatecurrency": "Faction creation currency",
+    "settings_factioncreatecurrency_desc": "What currency should be used for creating a faction?",
 
     "settings_promotecanselect": "Select faction on promote",
     "settings_promotecanselect_desc": "Can select specific faction on promote between factions?",

@@ -59,6 +59,7 @@
 
     "editFaction": "Editing faction :name:",
     "editRank": "Editing rank :name:",
+    "editUpgrade": "Editing upgrade :name:",
 
     "general": "General",
     "permissions": "Permissions",
@@ -84,6 +85,16 @@
 
     "ranking": "Ranking",
     "totalUpgrades": "Total upgrades",
+
+    "createUpgrade": "Create upgrade",
+    "deleteUpgrade": "Delete upgrade",
+
+    "upgradeModule": "Upgrade module",
+    "moduleValue": "Module value",
+
+    "upgradeCount": ":x: Upgrades",
+
+    "price": "Price",
 
     "you": "You",
 
@@ -111,6 +122,14 @@
     "factionAndSubfactions": "Faction and subfactions",
     "minimumLevel": "Minimum level",
 
+    "upgradeCreated": "Successfully created upgrade :name:!",
+    "upgradeDeleted": "Successfully deleted upgrade :name:!",
+    "upgradeEdited": "Successfully edited upgrade :name:!",
+    "deleteUpgradePrompt": "Are you sure you want to delete upgrade :upgrade:? This action is permanent!",
+
+    "upgr_speedboost": "Speed Boost",
+    "upgr_desc_speedboost": "Raises the players movement speed.",
+    "upgr_descval_speedboost": "How much should a player be faster in %?",
 
     "success": "Success",
     "error": "Error",
@@ -242,6 +261,7 @@
     "xpmodules": "XP Modules",
     "invites": "Invites",
     "capturepoints": "Capture Points",
+    "upgrades": "Upgrades",
 
     "settings_language": "Language",
     "settings_language_desc": "What language should VoidFactions use?",

@@ -134,8 +134,32 @@
     "addUpgrade": "Add new upgrade",
 
     "upgr_speedboost": "Speed Boost",
-    "upgr_desc_speedboost": "Raises the players movement speed.",
+    "upgr_desc_speedboost": "Increases the players movement speed.",
     "upgr_descval_speedboost": "How much should a player be faster in %?",
+
+    "upgr_weapon": "Permanent Weapon",
+    "upgr_desc_weapon": "Gives a weapon to the player on spawn.",
+    "upgr_descval_weapon": "What is the weapon class name?",
+
+    "upgr_jumpboost": "Jump Boost",
+    "upgr_desc_jumpboost": "Increases the players jump power.",
+    "upgr_descval_jumpboost": "How much should a player jump higher in %?",
+
+    "upgr_morehp": "More HP",
+    "upgr_desc_morehp": "Increases the players health.",
+    "upgr_descval_morehp": "How much should a players health get increased in %?",
+
+    "upgr_lockpickspeed": "Faster Lockpick",
+    "upgr_desc_lockpickspeed": "Increases the lockpick speed.",
+    "upgr_descval_lockpickspeed": "What should be the lockpick time in %? (0-100%)",
+
+    "upgr_maxmembers": "Max Members",
+    "upgr_desc_maxmembers": "Increases the max members.",
+    "upgr_descval_maxmembers": "How much max members should be added?",
+
+    "upgr_maxitems": "Max Items",
+    "upgr_desc_upgr_maxitems": "Increases the max items.",
+    "upgr_descval_upgr_maxitems": "How much max items should be added?",
 
     "success": "Success",
     "error": "Error",
@@ -208,6 +232,8 @@
 
     "changingJobRestricted": "You don't have access to this job!",
 
+    "upgradePurchased": "You purchased upgrade :name:!",
+
     "inviteMember": "Invite a new member",
 
     "factionInvite": "Faction invitation",
@@ -215,6 +241,9 @@
 
     "memberCount": ":x:/:total: members",
 
+    "unlock": "Unlock",
+    "neededToUnlock": "Needed to unlock",
+    "details": "Details",
     "viewDetails": "View details",
     "join": "Join",
     "lastSeen": "Last seen",
@@ -260,6 +289,9 @@
     "xp_npckilled": "NPC Kills",
     "xp_npckilled_desc": "How much XP do you get for killing NPC",
 
+    "xp_territorycapped": "Capture point captured",
+    "xp_territorycapped_desc": "How much XP do you get for capturing a point",
+
     "xp_playtime": "Playtime",
     "xp_playtime_desc": "How much XP do you get for what time period",
 
@@ -270,6 +302,9 @@
     "capturepoints": "Capture Points",
     "upgrades": "Upgrades",
     "upgradetree": "Upgrade Tree",
+    "upgradepoints": "Upgrade Points",
+
+    "selectPointToView": "Select an upgrade to view its info...",
 
     "settings_language": "Language",
     "settings_language_desc": "What language should VoidFactions use?",
@@ -282,6 +317,12 @@
 
     "settings_defaultrankname": "Default owner rank name",
     "settings_defaultrankname_desc": "What will be the name of the owner's default rank?",
+
+    "settings_defaultmaxmembers": "Default max members",
+    "settings_defaultmaxmembers_desc": "What will be the max members of a starting faction?",
+
+    "settings_defaultmaxitems": "Default max items",
+    "settings_defaultmaxitems_desc": "What will be the max items of a starting faction?",
 
     "settings_factioncreatecost": "Faction creation cost",
     "settings_factioncreatecost_desc": "How much will it cost to create a faction?",

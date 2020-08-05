@@ -161,6 +161,10 @@
     "upgr_desc_upgr_maxitems": "Increases the max items.",
     "upgr_descval_upgr_maxitems": "How much max items should be added?",
 
+    "upgr_capturetime": "Capture Time",
+    "upgr_desc_capturetime": "Decreases the point capture time.",
+    "upgr_descval_capturetime": "How much seconds to substract from the capture time?",
+
     "success": "Success",
     "error": "Error",
     "info": "Info",
@@ -291,6 +295,9 @@
 
     "xp_territorycapped": "Capture point captured",
     "xp_territorycapped_desc": "How much XP do you get for capturing a point",
+
+    "xp_territoryminute": "Capture point holding",
+    "xp_territoryminute_desc": "How much XP do you get for each capture point per minute",
 
     "xp_playtime": "Playtime",
     "xp_playtime_desc": "How much XP do you get for what time period",

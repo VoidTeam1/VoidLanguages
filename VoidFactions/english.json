@@ -92,6 +92,8 @@
     "upgradeModule": "Upgrade module",
     "moduleValue": "Module value",
 
+    "tools": "Tools",
+
     "upgradeCount": ":x: Upgrades",
 
     "price": "Price",
@@ -126,6 +128,10 @@
     "upgradeDeleted": "Successfully deleted upgrade :name:!",
     "upgradeEdited": "Successfully edited upgrade :name:!",
     "deleteUpgradePrompt": "Are you sure you want to delete upgrade :upgrade:? This action is permanent!",
+
+    "moveTool": "Mover tool",
+    "connectorTool": "Connector tool",
+    "addUpgrade": "Add new upgrade",
 
     "upgr_speedboost": "Speed Boost",
     "upgr_desc_speedboost": "Raises the players movement speed.",
@@ -186,6 +192,7 @@
     "capturePointDeleted": "Capture point deleted!",
     "capturePointContested": "Contested",
     "capturing": "Capturing",
+    "paused": "Paused",
     "notClaimed": "Not claimed",
 
     "cantJoinNoDefaultFactions": "Default factions will need to be configured before joining a faction! Make one and reconnect.",
@@ -262,6 +269,7 @@
     "invites": "Invites",
     "capturepoints": "Capture Points",
     "upgrades": "Upgrades",
+    "upgradetree": "Upgrade Tree",
 
     "settings_language": "Language",
     "settings_language_desc": "What language should VoidFactions use?",

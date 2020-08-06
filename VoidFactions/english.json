@@ -13,6 +13,8 @@
     "balance": "Balance:",
     "itemCount": ":x:/:max: items",
 
+    "transactionHistory": "Transaction history",
+
     "withdraw": "Withdraw",
 
     "currentJob": "Current job",
@@ -158,8 +160,8 @@
     "upgr_descval_maxmembers": "How much max members should be added?",
 
     "upgr_maxitems": "Max Items",
-    "upgr_desc_upgr_maxitems": "Increases the max items.",
-    "upgr_descval_upgr_maxitems": "How much max items should be added?",
+    "upgr_desc_maxitems": "Increases the max items.",
+    "upgr_descval_maxitems": "How much max items should be added?",
 
     "upgr_capturetime": "Capture Time",
     "upgr_desc_capturetime": "Decreases the point capture time.",
@@ -192,6 +194,9 @@
 
     "memberKicked": "Member :name: was successfully kicked!",
     "memberAdded": "Player :name: was successfully added to faction :faction:!",
+
+    "itemDeposited": "Successfully deposited item :name:!",
+    "itemWithdrawn": "Successfully withdrawn item :name:!",
 
     "memberRankChanged": ":name:'s rank was set to :rank:!",
     "memberPromoted": "Member :name: was promoted to rank :rank:!",
@@ -345,6 +350,9 @@
 
     "settings_depositcurrency": "Deposit currency",
     "settings_depositcurrency_desc": "What currency should be used for deposits?",
+
+    "settings_depositinventory": "Deposit inventory",
+    "settings_depositinventory_desc": "What inventory should be used for deposits?",
 
     "settings_inviteduration": "Invite duration",
     "settings_inviteduration_desc": "For how long will an invite stay active? (seconds)",

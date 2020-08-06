@@ -72,6 +72,7 @@
     "factionTag": "Faction tag",
     "subfactionOf": "Subfaction of",
     "factionColor": "Faction color",
+    "icon": "Icon",
     "factionIcon": "Faction icon",
     "maxMembers": "Max members",
 
@@ -140,6 +141,8 @@
     "moveTool": "Mover tool",
     "connectorTool": "Connector tool",
     "addUpgrade": "Add new upgrade",
+
+    "reward_pointscaptured": "Points Captured",
 
     "upgr_speedboost": "Speed Boost",
     "upgr_desc_speedboost": "Increases the players movement speed.",

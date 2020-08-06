@@ -119,6 +119,12 @@
     "canWithdrawItems": "Withdraw items",
     "canDepositItems": "Deposit items",
 
+    "depositMoney": "Deposit money",
+    "withdrawMoney": "Withdraw money",
+
+    "depositMoneyText": "Enter the amount of money you would like to deposit.",
+    "withdrawMoneyText": "Enter the amount of money you would like to withdraw.",
+
     "yes": "Yes",
     "no": "No",
 
@@ -197,6 +203,11 @@
 
     "itemDeposited": "Successfully deposited item :name:!",
     "itemWithdrawn": "Successfully withdrawn item :name:!",
+
+    "moneyDeposited": "Successfully deposited :money:!",
+    "moneyWithdrawn": "Successfully withdrawn :money:!",
+
+    "noFactionMoney": "The faction doesn't have that much money!",
 
     "memberRankChanged": ":name:'s rank was set to :rank:!",
     "memberPromoted": "Member :name: was promoted to rank :rank:!",
@@ -291,6 +302,8 @@
 
     "kickMember": "Kick member",
     "kickMemberPrompt": "Are you sure you want to kick :name: from :faction:?",
+
+    "cantAfford": "You can't afford this!",
 
     "staticFactionsContent": "Staff Members are able to create Factions and decide who will be the leader and which permissions each rank has.",
     "dynamicFactionsContent": "Players can create their own faction and have full control over it. Nobody will tell them how to lead it.",

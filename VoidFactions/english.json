@@ -170,6 +170,18 @@
     "reward_pointscaptured": "Points Captured",
     "reward_desc_pointscaptured": "How many points should be captured in total to unlock this?",
 
+    "reward_itemsdeposited": "Items Deposited",
+    "reward_desc_itemsdeposited": "How many items should be deposited at once to unlock this?",
+
+    "reward_moneydeposited": "Money Deposited",
+    "reward_desc_moneydeposited": "How much money should be deposited at once to unlock this?",
+
+    "reward_upgradesdeposited": "Upgrades Unlocked",
+    "reward_desc_upgradesdeposited": "How many upgrades should be unlocked in total to unlock this?",
+
+    "reward_membersjoined": "Members Joined",
+    "reward_desc_membersjoined": "How many members should be in a faction at once to unlock this?",
+
     "upgr_speedboost": "Speed Boost",
     "upgr_desc_speedboost": "Increases the players movement speed.",
     "upgr_descval_speedboost": "How much should a player be faster in %?",

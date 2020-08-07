@@ -1,0 +1,427 @@
+{
+    "profile": "Perfil",
+    "level": "Nive",
+    "rank": "Rango",
+    "deposit": "Depositar",
+    "rewards": "Recompensas",
+
+    "lastPromote": "Último promovido",
+    "autoPromote": "Auto-promover",
+    "rankTemplate": "Modelo del rango",
+    "nextAutoPromote": "Siguiente auto-promoción",
+    "joined": "se unió",
+    "sessionPlaytime": "Tiempo de juego (sesión)",
+    "totalPlaytime": "Tiempo de juego total",
+
+    "balance": "Balance:",
+    "itemCount": ":x:/:max: objetos",
+
+    "transactionHistory": "Historial de Transacciones",
+
+    "withdraw": "Retirar",
+
+    "currentJob": "Trabajo actual",
+    "changeJob": "Cambiar trabajo",
+    "changeRank": "Cambiar rango",
+
+    "assets": "Propiedades",
+
+    "createFaction": "Crear facción",
+    "joinFaction": "Uniser a la facción",
+    
+    "createFactionOrJoin": "Crea una facción o únete a alguna",
+    "noFactionText": "Puedes crear una facción y ser el jefe o unirte a alguna ya creada.",
+    "factionCreateCost": "La creación de una nueva facción es de :color: :money:.",
+
+    "select": "Seleccionar",
+    "create": "Crear",
+
+    "factions": "Facciones",
+    "dynamic": "Dinámico",
+    "static": "Estático",
+
+    "setup": "Organización",
+    "options": "Opciones",
+
+    "levelUp": "¡Subida de nivel!",
+    "levelUpMsg": "Ahora eres nivel :level:",
+
+    "chooseMode": "Selecciona un modo",
+    "chooseFaction": "Selecciona tu facción",
+
+    "suitedForSerious": "Establecido para SeriousRP",
+    "suitedForNonSerious": "Establecido para Semi-SeriousRP",
+
+    "addFaction": "Agregar nueva facción",
+    "addRank": "Agregar rango",
+    "addMember": "Agregar miembro",
+
+    "newFaction": "Nueva facción",
+    "newRank": "Rango",
+
+    "faction": "Facción",
+    "factionName": "Nombre de facción",
+
+    "editFaction": "Editando nombre de facción :name:",
+    "editRank": "Editando rango :name:",
+    "editUpgrade": "Editando mejora :name:",
+    "editReward": "Editando recompensa :name:",
+
+    "reward": "Recompensa",
+
+    "general": "General",
+    "permissions": "Permisos",
+    "member": "Miembro",
+
+    "name": "Nombre",
+    "description": "Descripción",
+    "factionTag": "Abreviatura de la facción",
+    "subfactionOf": "Sub-facción de",
+    "factionColor": "Color de la facción",
+    "icon": "Ícono",
+    "factionIcon": "Ícono de la facción",
+    "maxMembers": "Máximo de miembros",
+
+    "canCaptureTerritory": "Puede capturar territorio",
+    "showOnBoard": "Mostrar en lista",
+    "inviteRequired": "Requiere invitación para unirse",
+    "isDefaultFaction": "Es una facción por defecto",
+
+    "inviteOnly": "Sólo con invitación",
+
+    "noRanksAvailable": "¡Sin rangos disponibles!",
+
+    "rankTag": "Abreviatura del rango",
+    "job": "Trabajo",
+
+    "ranking": "Clasificación",
+    "totalUpgrades": "Mejoras totales",
+
+    "showingPagination": "Mostrando :from:-:to:",
+    "page": "Página",
+    "from": "Desde",
+
+    "createUpgrade": "Crear mejora",
+    "deleteUpgrade": "Borrar mejora",
+
+    "createReward": "Crear recompensa",
+    "deleteReward": "Borrar recompensa",
+
+    "upgradeModule": "Mejorar módulo",
+    "rewardModule": "Recompensa módulo",
+    "moduleValue": "Valor del módulo",
+
+    "tools": "Herramientas",
+
+    "upgradeCount": ":x: Mejoras",
+    "rewardCount": ":x: Recompensas",
+
+    "price": "Precio",
+
+    "you": "Tú",
+
+    "kick": "Echar",
+    "inviteMembers": "Invitar miembros",
+    "kickMembers": "Echar miembros",
+
+    "promoteMembers": "Promover miembros",
+    "demoteMembers": "Degradar miembros",
+
+    "setRanks": "Establecer rangos",
+
+    "manageFaction": "Gestionar facción",
+    "purchaseUpgrades": "Comprar mejoras",
+
+    "canWithdrawMoney": "Retirar dinero",
+    "canDepositMoney": "Depositar dinero",
+    "canWithdrawItems": "Retirar objetos",
+    "canDepositItems": "Depositar objetos",
+
+    "depositMoney": "Depositar dinero",
+    "withdrawMoney": "Retirar dinero",
+
+    "depositMoneyText": "Ingresa la cantidad de dinero que quieres depositar.",
+    "withdrawMoneyText": "Ingresa la cantidad de dinero que quieres retirar.",
+
+    "yes": "Sí",
+    "no": "No",
+
+    "onlyFactionMembers": "Sólo miembros de facción",
+    "factionAndSubfactions": "Facciones y sub-facciones",
+    "minimumLevel": "Nivel Mínimo",
+
+    "upgradeCreated": "¡Mejora :name: creada con éxito!",
+    "upgradeDeleted": "¡Mejora :name: eliminada correctamente!",
+    "upgradeEdited": "¡Mejora :name: editada con éxito!",
+    "deleteUpgradePrompt": "¿Seguro quieres eliminar la mejora :upgrade:? ¡Esta acción es permanente!",
+
+    "rewardCreated": "¡Recompensa :name: creada con éxito!",
+    "rewardDeleted": "¡Recompensa :name: eliminada correctamente!",
+    "rewardEdited": "¡Recompensa :name: editada con éxito!",
+    "deleteRewardPrompt": "¿Seguro quieres eliminar la recompensa :reward:? ¡Esta acción es permanente!",
+
+    "moveTool": "Herramienta para Mover",
+    "connectorTool": "Herramienta conectora",
+    "addUpgrade": "Agregar nueva mejora",
+
+    "moneyRewarded": "Recompensado con dinero",
+    "xpRewarded": "Recompensado con XP",
+
+    "reward_pointscaptured": "Puntos capturados",
+    "reward_desc_pointscaptured": "¿Cuántos puntos deberían ser capturados para desbloquear esto?",
+
+    "upgr_speedboost": "Mejora de velocidad",
+    "upgr_desc_speedboost": "Incrementa la velocidad de movimiento del jugador.",
+    "upgr_descval_speedboost": "¿Cuánto debería mejorarse en %?",
+
+    "upgr_weapon": "Arma permanente",
+    "upgr_desc_weapon": "Otorga un arma al jugador al reaparecer.",
+    "upgr_descval_weapon": "¿Cuál es el nombre del arma (class_name)?",
+
+    "upgr_jumpboost": "Mejora de Salto",
+    "upgr_desc_jumpboost": "Incrementa lo alto del salto dado por los jugadores.",
+    "upgr_descval_jumpboost": "¿Cuánto debería mejorarse en %?",
+
+    "upgr_morehp": "Más vida",
+    "upgr_desc_morehp": "Incrementa la vida de los jugadores.",
+    "upgr_descval_morehp": "¿Cuánto vida debería sumarse en %?",
+
+    "upgr_lockpickspeed": "Ganzuado velóz",
+    "upgr_desc_lockpickspeed": "Incrementa la velocidad de las ganzúas.",
+    "upgr_descval_lockpickspeed": "¿Cuánto debería durar el robo(ganzuado) en relación al tiempo inicial en %? (0-100%)",
+
+    "upgr_maxmembers": "Máximo de Miembros",
+    "upgr_desc_maxmembers": "Incrementa la capacidad de miembros de la facción.",
+    "upgr_descval_maxmembers": "¿Cuántos espacios para otros jugadores deberían agregarse?",
+
+    "upgr_maxitems": "Máximo de Objetos",
+    "upgr_desc_maxitems": "Incrementa la capacidad de depósito para objetos.",
+    "upgr_descval_maxitems": "¿Cuántos espacios del depósito debería aumentarse?",
+
+    "upgr_capturetime": "Tiempo de Captura",
+    "upgr_desc_capturetime": "Decrece el tiempo necesario para capturar.",
+    "upgr_descval_capturetime": "¿Cuántos segundos se sustraerán?",
+
+    "success": "Éxito",
+    "error": "Error",
+    "info": "Información",
+
+    "properties": "Propiedades",
+
+    "factionCreated": "¡La facción :name: fue creada correctamente!",
+    "factionUpdated": "¡La facción :name: fue editada correctamente!",
+    "factionDeleted": "¡La facción :name: fue eliminada!",
+    "memberCountDemoted": "(:count: miembros fueron degradados)",
+
+    "rankCreated": "¡El rango :name: fue creado correctamente!",
+    "rankUpdated": "¡El rango :name: fue editado correctamente!",
+    "rankDeleted": "¡El rango :name: fue eliminado!",
+    "maxRanksCreated": "¡No se pudo crear el rango :name: porque el límite (:limit:) fue excedido!",
+    "maxFactionsCreated": "¡No se pudo crear la facción :name: porque el límite (:limit:) fue excedido!",
+    "membersInRankErr": "¡No se pudo eliminar el rango :name: porque hay miembros en él y no pueden ser degradados!",
+
+    "memberInvited": "¡El jugador :name: fue invitado a la facción :faction:!",
+    "memberInvitePending": "¡El jugador :name: ya tiene una invitación pendiente!",
+    "memberInviteAccepted": "¡El jugador :name: aceptó tu invitación!",
+
+    "memberJoinedFaction": "Te uniste a :faction:",
+    "memberLeftFaction": "Abandonaste :faction:",
+
+    "memberKicked": "¡El miembro :name: fue echado!",
+    "memberAdded": "¡El jugador :name: fue agregado correctamente a :faction:!",
+
+    "itemDeposited": "¡Objeto :name: depositado correctamente!",
+    "itemWithdrawn": "¡Objeto :name: retirado correctamente!",
+
+    "moneyDeposited": "¡:money: dinero fue depositado correctamente!",
+    "moneyWithdrawn": "¡:money: dinero fue retirado correctamente!",
+
+    "noFactionMoney": "¡La facción no tiene ese dinero!",
+
+    "memberRankChanged": ":name: fue establecido en :rank:!",
+    "memberPromoted": "¡:name: fue promovido a :rank:!",
+    "memberDemoted": "¡:name: fue degradado a :rank:!",
+
+    "youPromoted": "¡Has sido promovido a :rank:!",
+    "youDemoted": "¡Has sido degradado a :rank:!",
+    "youRankChanged": "¡Tu rango fue establecido en :rank:!",
+
+    "nameShort": "¡Nombre muy cort!",
+    "nameLong": "¡Nombre muy largo!",
+    "tagShort": "¡Abreviatura muy corta!",
+    "tagLong": "¡Abreviatura muy larga!",
+    "maxMembersLimit": "¡La lista de miembros máximos es muy grande!",
+    "noJobs": "¡No hay trabajos asignados a este rango!",
+
+    "maxMembersErr": "¡La facción está llena!",
+    "maxRankMembersErr": "¡El rango está lleno!",
+    "minLevelErr": "¡No tienes el nivel requerido!",
+
+    "nothingToShow": "¡No hay nada para mostrar!",
+    "thereAreNoMembers": "¡No hay miembros!",
+
+    "capturePoint": "Punto de captura",
+    "capturePointCreated": "¡Punto de captura creado!",
+    "capturePointDeleted": "¡Punto de captura eliminado!",
+    "capturePointContested": "Disputándose",
+    "capturing": "Capturando",
+    "paused": "Pausado",
+    "claimed": "Reclamado",
+    "notClaimed": "Sin reclamar",
+
+    "unlockedReward": "¡Recompensa :reward: desbloqueada!",
+
+    "cantJoinNoDefaultFactions": "¡Las facciones por defecto deben ser configuradas antes de unirte! Créala y reconecta.",
+    "noDefaultFactions": "¡No existen facciones por defecto! ¡Necesitan ser configuradas!",
+
+    "deleteRankPrompt": "¿Seguro quieres eliminar el rango :rank:? ¡Esta acción es permanente!",
+    "deleteFactionPrompt": "¿Seguro quieres eliminar la facción :faction:? ¡Esta acción es permanente!",
+    "disbandFactionPrompt": "¿Seguro quieres desarmar la facción? ¡Esta acción es permanente!",
+
+    "disbandFaction": "Desarmar facción",
+
+    "switch": "Cambiar",
+    "switchType": "Cambiar tipo de facción",
+    "switchTypePrompt": "¿Seguro quieres cambiar el tipo de facción? ¡Todas las facciones serán eliminadas! ¡Tu servidor se reiniciará luego!",
+    "restartingIn": "¡Reiniciando servidor en :time: segundos!",
+
+    "changingJobRestricted": "¡No tienes acceso a este trabajo!",
+
+    "upgradePurchased": "¡Has comprado la mejora :name:!",
+
+    "inviteMember": "Invitar nuevo miembro",
+
+    "factionInvite": "Invitación de facción",
+    "invitedTo": "Has sido invitado a",
+
+    "memberCount": ":x:/:total: miembros",
+    "factionCount": ":x: facciones",
+
+    "unlock": "Desbloquear",
+    "neededToUnlock": "Necesita ser desbloqueado",
+    "details": "Detalles",
+    "viewDetails": "Ver detalles",
+    "join": "Unirse",
+    "lastSeen": "Última vez visto",
+
+    "ago": ":time: antes",
+    "never": "Nunca",
+    "now": "Ahora",
+
+    "back": "Atrás",
+
+    "save": "Guardar",
+    "deleteFaction": "Eliminar facción",
+    "deleteRank": "Eliminar rango",
+
+    "leave": "Salir",
+    "leaveFaction": "Salir de la facción",
+
+    "accept": "Aceptar",
+    "deny": "Denegar",
+    
+    "cancel": "Cancelar",
+
+    "clickToAdd": "Click para agregar",
+
+    "visual": "Visual",
+
+    "members": "Miembros",
+    "actions": "Acciones",
+
+    "manage": "Gestionar",
+    "disband": "Desarmar",
+    "delete": "Eliminar",
+
+    "loading": "Cargando...",
+
+    "searchByName": "Buscar por nombre",
+
+    "kickMember": "Echar miembro",
+    "kickMemberPrompt": "¿Seguro quieres echar a :name: de :faction:?",
+
+    "cantAfford": "¡No puedes costear esto!",
+
+    "staticFactionsContent": "Los miembros del Staff podrán crear Facciones y decidir quienes serán sus líderes. Además, podrán designar los permisos para cada rango.",
+    "dynamicFactionsContent": "Los jugadores podrán crear su propia facción y tener todo el control en ella. Nadie les dirá cómo hacerlo.",
+
+    "xp_npckilled": "Asesinatos NPC",
+    "xp_npckilled_desc": "La experiencia que ganas por asesinar a un NPC",
+
+    "xp_territorycapped": "Punto de captura conseguido",
+    "xp_territorycapped_desc": "La experiencia que ganas por capturar un punto",
+
+    "xp_territoryminute": "Constancia territorial",
+    "xp_territoryminute_desc": "La experiencia  que ganas por minuto al estar disputando un territorio",
+
+    "xp_playtime": "Tiempo de juego",
+    "xp_playtime_desc": "La experiencia que ganas cada cierto tiempo",
+
+    "experience": "Experiencia",
+    "commands": "Comandos",
+    "xpmodules": "Módulos XP",
+    "invites": "Inviaciones",
+    "capturepoints": "Puntos de captura",
+    "upgrades": "Mejoras|",
+    "upgradetree": "Mejorar árbol",
+    "upgradepoints": "Puntos de mejora",
+
+    "selectPointToView": "Selecciona una mejora para ver su descripción...",
+
+    "settings_language": "Idioma",
+    "settings_language_desc": "¿Qué idioma deberá usar VoidFactions?",
+
+    "settings_menucommand": "Menú de Comandos",
+    "settings_menucommand_desc": "¿Cuál comando será usado para abrir el menú?",
+
+    "settings_maxtaglength": "Tamaño máximo de Abreviatura",
+    "settings_maxtaglength_desc": "¿Cuántos carácteres máximos puede tener la abreviatura?",
+
+    "settings_defaultrankname": "Nombre por defecto del dueño",
+    "settings_defaultrankname_desc": "¿Cuál será el nombre por defecto del dueño de la facción (rango)?",
+
+    "settings_defaultmaxmembers": "Miembros máximos por defecto",
+    "settings_defaultmaxmembers_desc": "¿Cuál será el tamaño máximo inical de una facción?",
+
+    "settings_defaultmaxitems": "Objetos máximos por defecto",
+    "settings_defaultmaxitems_desc": "¿Cuál será el tamaño por defecto del depósito inicial de una facción?",
+
+    "settings_factioncreatecost": "Costo por crear facción",
+    "settings_factioncreatecost_desc": "¿Cuánto costará crear una facción?",
+
+    "settings_factioncreatecurrency": "Selección de moneda",
+    "settings_factioncreatecurrency_desc": "¿Qué moneda/currencia debe ser usada para la creación de la facción?",
+
+    "settings_promotecanselect": "Seleccionar facción al promover",
+    "settings_promotecanselect_desc": "¿Podrá elegir una facción para promoverse entre sí?",
+
+    "settings_menubind": "Menú de Atajos",
+    "settings_menubind_desc": "¿Qué tecla será usada para abrir el menú?",
+
+    "settings_depositcurrency": "Depositar dinero",
+    "settings_depositcurrency_desc": "¿Qué moneda debería usarse para los depósitos?",
+
+    "settings_depositinventory": "Depositar inventario",
+    "settings_depositinventory_desc": "¿Qué inventario debería usarse para los depósitos?",
+
+    "settings_inviteduration": "Duración de Invitación",
+    "settings_inviteduration_desc": "¿Por cuánto tiempo debería estar activa una invitación? (segundos)",
+
+    "settings_pointrenderdist": "Distancia de Dibujado",
+    "settings_pointrenderdist_desc": "¿A cuánta distancia debería empezar a verse el punto de captura?",
+
+    "settings_showpointdistances": "Mostrar distancias",
+    "settings_showpointdistances_desc": "¿Debería mostrarse la distancia faltante al punto de captura?",
+
+    "settings_pointcaptime": "Tiempo de Captura",
+    "settings_pointcaptime_desc": "¿Cuánto tarda en capturarse un  punto? (segundos)",
+
+    "settings_baselevelupxp": "XP para subir de Nivel",
+    "settings_baselevelupxp_desc": "¿Cuánta XP necesitas para subir de nivel?",
+
+    "settings_levelupmultiplier": "Multiplicador de Nivel",
+    "settings_levelupmultiplier_desc": "¿Cuánto se incrementará la XP necesaria para subir de nivel?",
+
+    "settings_maxlevel": "Nivel Máximo",
+    "settings_maxlevel_desc": "¿Cuál debería ser el nivel máximo posible?"
+}

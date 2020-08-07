@@ -3,6 +3,7 @@
     "level": "Level",
     "rank": "Rank",
     "deposit": "Deposit",
+    "rewards": "Rewards",
 
     "lastPromote": "Last promote",
     "nextAutoPromote": "Next auto-promote",
@@ -62,6 +63,9 @@
     "editFaction": "Editing faction :name:",
     "editRank": "Editing rank :name:",
     "editUpgrade": "Editing upgrade :name:",
+    "editReward": "Editing reward :name:",
+
+    "reward": "Reward",
 
     "general": "General",
     "permissions": "Permissions",
@@ -92,12 +96,17 @@
     "createUpgrade": "Create upgrade",
     "deleteUpgrade": "Delete upgrade",
 
+    "createReward": "Create reward",
+    "deleteReward": "Delete reward",
+
     "upgradeModule": "Upgrade module",
+    "rewardModule": "Reward module",
     "moduleValue": "Module value",
 
     "tools": "Tools",
 
     "upgradeCount": ":x: Upgrades",
+    "rewardCount": ":x: Rewards",
 
     "price": "Price",
 
@@ -138,11 +147,20 @@
     "upgradeEdited": "Successfully edited upgrade :name:!",
     "deleteUpgradePrompt": "Are you sure you want to delete upgrade :upgrade:? This action is permanent!",
 
+    "rewardCreated": "Successfully created reward :name:!",
+    "rewardDeleted": "Successfully deleted reward :name:!",
+    "rewardEdited": "Successfully edited reward :name:!",
+    "deleteRewardPrompt": "Are you sure you want to delete reward :reward:? This action is permanent!",
+
     "moveTool": "Mover tool",
     "connectorTool": "Connector tool",
     "addUpgrade": "Add new upgrade",
 
+    "moneyRewarded": "Money rewarded",
+    "xpRewarded": "XP rewarded",
+
     "reward_pointscaptured": "Points Captured",
+    "reward_desc_pointscaptured": "How many points should be captured in total to unlock this?",
 
     "upgr_speedboost": "Speed Boost",
     "upgr_desc_speedboost": "Increases the players movement speed.",
@@ -240,7 +258,10 @@
     "capturePointContested": "Contested",
     "capturing": "Capturing",
     "paused": "Paused",
+    "claimed": "Claimed",
     "notClaimed": "Not claimed",
+
+    "unlockedReward": "Reward :reward: unlocked!",
 
     "cantJoinNoDefaultFactions": "Default factions will need to be configured before joining a faction! Make one and reconnect.",
     "noDefaultFactions": "There are no default factions! They will need to be configured!",

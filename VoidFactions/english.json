@@ -93,6 +93,10 @@
     "ranking": "Ranking",
     "totalUpgrades": "Total upgrades",
 
+    "showingPagination": "Showing :from:-:to:",
+    "page": "Page",
+    "from": "From",
+
     "createUpgrade": "Create upgrade",
     "deleteUpgrade": "Delete upgrade",
 

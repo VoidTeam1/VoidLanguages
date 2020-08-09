@@ -30,7 +30,7 @@
     "joinFaction": "Rejoindre une faction",
     
     "createFactionOrJoin": "Créez une faction ou rejoignez-en une",
-    "noFactionText": "Vous pouvez soit créer une nouvelle faction et en être le chef, soit vous joindre à une faction existante.
+    "noFactionText": "Vous pouvez soit créer une nouvelle faction et en être le chef, soit vous joindre à une faction existante.",
     "factionCreateCost": "La création d'une nouvelle faction coûte :color: :money:.",
 
     "select": "Sélectionner",

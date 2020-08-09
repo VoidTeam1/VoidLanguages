@@ -12,6 +12,7 @@
     "joined": "Joined",
     "sessionPlaytime": "Session playtime",
     "totalPlaytime": "Total playtime",
+    "factionJoined": "Faction joined",
 
     "balance": "Balance:",
     "itemCount": ":x:/:max: items",
@@ -90,6 +91,7 @@
     "inviteOnly": "Invite only",
 
     "noRanksAvailable": "No ranks available!",
+    "none": "None",
 
     "rankTag": "Rank tag",
     "job": "Job",

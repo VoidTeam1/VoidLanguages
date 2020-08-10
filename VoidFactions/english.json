@@ -204,7 +204,7 @@
     "upgr_desc_morearmor": "Increases the players armor.",
     "upgr_descval_morearmor": "How much should a players armor get increased in %?",
 
-    "upgr_memberdmgreduce": "Member damage reduction",
+    "upgr_memberdmgreduce": "Member DMG reduction",
     "upgr_desc_memberdmgreduce": "Decreases friendly-fire damage.",
     "upgr_descval_memberdmgreduce": "How much friendly-fire damage should be reduced in %?",
 

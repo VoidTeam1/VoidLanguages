@@ -283,6 +283,8 @@
     "claimed": "Claimed",
     "notClaimed": "Not claimed",
 
+    "pointCapturedByEnemies": "Your capture point is being captured!",
+
     "unlockedReward": "Reward :reward: unlocked!",
 
     "cantJoinNoDefaultFactions": "Default factions will need to be configured before joining a faction! Make one and reconnect.",

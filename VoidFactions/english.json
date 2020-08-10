@@ -200,6 +200,14 @@
     "upgr_desc_morehp": "Increases the players health.",
     "upgr_descval_morehp": "How much should a players health get increased in %?",
 
+    "upgr_morearmor": "More Armor",
+    "upgr_desc_morearmor": "Increases the players armor.",
+    "upgr_descval_morearmor": "How much should a players armor get increased in %?",
+
+    "upgr_memberdmgreduce": "Member damage reduction",
+    "upgr_desc_memberdmgreduce": "Decreases friendly-fire damage.",
+    "upgr_descval_memberdmgreduce": "How much friendly-fire damage should be reduced in %?",
+
     "upgr_lockpickspeed": "Faster Lockpick",
     "upgr_desc_lockpickspeed": "Increases the lockpick speed.",
     "upgr_descval_lockpickspeed": "What should be the lockpick time in %? (0-100%)",

@@ -1,0 +1,439 @@
+{
+    "profile": "简介",
+    "level": "等级",
+    "rank": "阶级",
+    "deposit": "存款",
+    "rewards": "奖励",
+
+    "lastPromote": "最后一次晋升",
+    "autoPromote": "自我晋升",
+    "rankTemplate": "阶级模板",
+    "nextAutoPromote": "下一次自动晋升",
+    "joined": "加入时间",
+    "sessionPlaytime": "游戏时间",
+    "totalPlaytime": "总游戏时间",
+
+    "balance": "余额：",
+    "itemCount": ":x/:最大:物品",
+
+    "transactionHistory": "交易历史",
+
+    "withdraw": "撤回",
+
+    "currentJob": "当前工作",
+    "changeJob": "更改工作",
+    "changeRank": "更改级别",
+
+    "assets": "资产",
+
+    "createFaction": "创建派系",
+    "joinFaction": "加入派系",
+    
+    "createFactionOrJoin": "创建一个派系或加入一个",
+    "noFactionText": "你可以创建一个新的派系并成为它的首领，也可以加入一个现有的派系。",
+    "factionCreateCost": "创建一个新的派系需要:color:并花费:money:。",
+
+    "select": "选择",
+    "create": "创建",
+
+    "factions": "派系",
+    "dynamic": "动态",
+    "static": "静态",
+
+    "setup": "设置",
+    "options": "选项",
+
+    "levelUp": "升级了！",
+    "levelUpMsg": "目前等级为:level:",
+
+    "chooseMode": "选择你的模式",
+    "chooseFaction": "选择你的派系",
+
+    "suitedForSerious": "适合严肃/硬核RP",
+    "suitedForNonSerious": "适合于非严肃/休闲RP",
+
+    "addFaction": "增加新的派系",
+    "addRank": "增加新的阶级",
+    "addMember": "增加成员",
+
+    "newFaction": "新派系",
+    "newRank": "新阶级",
+
+    "faction": "派系",
+    "factionName": "派系名称",
+
+    "editFaction": "编辑派系:name:",
+    "editRank": "编辑阶级:name:",
+    "editUpgrade": "编辑升级:name:",
+    "editReward": "编辑奖励:name:",
+
+    "reward": "奖励",
+
+    "general": "常规",
+    "permissions": "权限",
+    "member": "成员",
+
+    "name": "名称",
+    "description": "描述",
+    "factionTag": "派系标签",
+    "subfactionOf": "分配至",
+    "factionColor": "派系颜色",
+    "icon": "图标",
+    "factionIcon": "派系图标",
+    "maxMembers": "成员上限",
+
+    "canCaptureTerritory": "可以占领领土",
+    "showOnBoard": "显示在面板上",
+    "inviteRequired": "需要邀请才能加入",
+    "isDefaultFaction": "玩家的默认派系",
+
+    "inviteOnly": "仅限邀请",
+
+    "noRanksAvailable": "无可用阶级！",
+
+    "rankTag": "阶级标签",
+    "job": "职业",
+
+    "ranking": "排名",
+    "totalUpgrades": "总升级数",
+
+    "showingPagination": "显示:from:~:to:",
+    "page": "页数",
+    "from": "来自",
+
+    "createUpgrade": "创建升级",
+    "deleteUpgrade": "删除升级",
+
+    "createReward": "创建奖励",
+    "deleteReward": "删除奖励",
+
+    "upgradeModule": "升级模块",
+    "rewardModule": "奖励模块",
+    "moduleValue": "模块值",
+
+    "tools": "工具",
+
+    "upgradeCount": ":x:个升级",
+    "rewardCount": ":x:个奖励",
+
+    "price": "价格",
+
+    "you": "你",
+
+    "kick": "踢出",
+    "inviteMembers": "邀请成员",
+    "kickMembers": "踢出成员",
+
+    "promoteMembers": "晋升成员",
+    "demoteMembers": "降级成员",
+
+    "setRanks": "设定阶级",
+
+    "manageFaction": "管理派系",
+    "purchaseUpgrades": "购买升级",
+
+    "canWithdrawMoney": "取款",
+    "canDepositMoney": "存款",
+    "canWithdrawItems": "取出物品",
+    "canDepositItems": "存入项目",
+
+    "depositMoney": "存款",
+    "withdrawMoney": "取款",
+
+    "depositMoneyText": "输入你想存入的金额。",
+    "withdrawMoneyText": "输入你想取出的金额。",
+
+    "yes": "是",
+    "no": "否",
+
+    "onlyFactionMembers": "仅限派系成员",
+    "factionAndSubfactions": "派系和分队",
+    "minimumLevel": "最低等级",
+
+    "upgradeCreated": "成功创建升级:name:！",
+    "upgradeDeleted": "成功删除升级:name:！",
+    "upgradeEdited": "成功编辑升级 :name:！",
+    "deleteUpgradePrompt": "你确定要删除升级:upgrade:吗？该过程不可逆！",
+
+    "rewardCreated": "成功创建奖励:name:！",
+    "rewardDeleted": "成功删除奖励:name:！",
+    "rewardEdited": "成功编辑奖励:name:！",
+    "deleteRewardPrompt": "你确定要删除奖励:reward:吗？该过程不可逆！",
+
+    "moveTool": "移动工具",
+    "connectorTool": "连接工具",
+    "addUpgrade": "增加新的升级",
+
+    "moneyRewarded": "金钱奖励",
+    "xpRewarded": "经验奖励",
+
+    "reward_pointscaptured": "占领数",
+    "reward_desc_pointscaptured": "总共应该占领多少领土才能解锁呢？",
+
+    "reward_itemsdeposited": "存放项目数",
+    "reward_desc_itemsdeposited": "应该存入多少物品才能解锁呢？",
+
+    "reward_moneydeposited": "存款数",
+    "reward_desc_moneydeposited": "要存入多少钱才能解锁？",
+
+    "reward_upgradesdeposited": "解锁升级数",
+    "reward_desc_upgradesdeposited": "一共要解锁多少次升级才能解锁呢？",
+
+    "reward_membersjoined": "成员加入数",
+    "reward_desc_membersjoined": "一个派系要同时有多少成员才能解锁？",
+
+    "upgr_speedboost": "速度提升",
+    "upgr_desc_speedboost": "增加玩家的移动速度。",
+    "upgr_descval_speedboost": "玩家的移动速度应该快多少百分比？",
+
+    "upgr_weapon": "永久武器",
+    "upgr_desc_weapon": "在玩家重生时给一把武器。",
+    "upgr_descval_weapon": "武器的路径名称是什么？",
+
+    "upgr_jumpboost": "跳跃提升",
+    "upgr_desc_jumpboost": "增加玩家的跳跃高度。",
+    "upgr_descval_jumpboost": "玩家的跳跃能力应该快多少百分比？",
+
+    "upgr_morehp": "更多的生命值",
+    "upgr_desc_morehp": "增加玩家的生命值。",
+    "upgr_descval_morehp": "玩家的生命值应该增加多少百分比？",
+
+    "upgr_lockpickspeed": "撬锁更快",
+    "upgr_desc_lockpickspeed": "加快撬锁速度。",
+    "upgr_descval_lockpickspeed": "撬锁速度应该快多少百分比？(0-100%)",
+
+    "upgr_maxmembers": "成员容量",
+    "upgr_desc_maxmembers": "增加成员容量。",
+    "upgr_descval_maxmembers": "成员容量应该增加多少？",
+
+    "upgr_maxitems": "物品容量",
+    "upgr_desc_maxitems": "增加物品容量",
+    "upgr_descval_maxitems": "物品容量应该增加多少？",
+
+    "upgr_capturetime": "占领时间",
+    "upgr_desc_capturetime": "缩短占领时间",
+    "upgr_descval_capturetime": "占领时间应该减少多少秒？",
+
+    "success": "成功",
+    "error": "错误",
+    "info": "信息",
+
+    "properties": "属性",
+
+    "factionCreated": "派系:name:创建成功！",
+    "factionUpdated": "派系:name:编辑成功！",
+    "factionDeleted": "派系:name:删除成功！",
+    "memberCountDemoted": "（:count:成员被降级）",
+
+    "rankCreated": "阶级:name:创建成功！",
+    "rankUpdated": "阶级:name:编辑成功！",
+    "rankDeleted": "阶级:name:删除成功！",
+    "maxRanksCreated": "因为超出了:limit:限制，无法创建阶级:name:！",
+    "maxFactionsCreated": "因为超出了:limit:限制，无法创建派系:name:！",
+    "membersInRankErr": "不能删除阶级:name:，因为里面有成员，且无法降级！",
+
+    "memberInvited": "成功邀请玩家:name:至:faction:！",
+    "memberInvitePending": "玩家:name:已经有一个待定的邀请！",
+    "memberInviteAccepted": "玩家:name:已经接受你的邀请！",
+
+    "memberJoinedFaction": "你加入了:faction:",
+    "memberLeftFaction": "你离开了:faction:",
+
+    "memberKicked": "成员:name:已经被成功踢出！",
+    "memberAdded": "玩家:name:已经成功被添加至派系:faction:！",
+
+    "itemDeposited": "成功存入物品:name:！",
+    "itemWithdrawn": "成功取出物品:name:！",
+
+    "moneyDeposited": "成功存款:money:！",
+    "moneyWithdrawn": "成功取款:money:！",
+
+    "noFactionMoney": "该派系没有足够的余额！",
+
+    "memberRankChanged": ":name:的阶级已被修改为:rank:！",
+    "memberPromoted": "成员:name:已晋升为:rank:！",
+    "memberDemoted": "成员:name:已降级为:rank:!",
+
+    "youPromoted": "你已晋级为:rank:！",
+    "youDemoted": "你被降级为:rank:！",
+    "youRankChanged": "你的阶级已被设置为:rank:!",
+
+    "nameShort": "名称过短！",
+    "nameLong": "名称过长！",
+    "tagShort": "标签过短！",
+    "tagLong": "标签过长！",
+    "maxMembersLimit": "成员已达上限！",
+    "noJobs": "没有分配到该阶级的工作",
+
+    "maxMembersErr": "该派系已满！",
+    "maxRankMembersErr": "该阶级已满！",
+    "minLevelErr": "你未达到要求的水平!",
+
+    "nothingToShow": "没有任何东西可以显示！",
+    "thereAreNoMembers": "没有成员！",
+
+    "capturePoint": "领土",
+    "capturePointCreated": "领土已创建！",
+    "capturePointDeleted": "领土已删除！",
+    "capturePointContested": "争夺中",
+    "capturing": "占领中",
+    "paused": "暂停",
+    "claimed": "已占领",
+    "notClaimed": "无人占领",
+
+    "unlockedReward": "奖励:reward:已解锁！",
+
+    "cantJoinNoDefaultFactions": "加入派系前需要配置默认派系! 创造一个默认派系，然后重新连接服务器。",
+    "noDefaultFactions": "没有默认派系! 它们需要进行配置！",
+
+    "deleteRankPrompt": "你确定要删除阶级:rank:？该过程不可逆！",
+    "deleteFactionPrompt": "你确定要删除派系:faction:？该过程不可逆！",
+    "disbandFactionPrompt": "你确定要解散派系？该过程不可能！",
+
+    "disbandFaction": "解散派系",
+
+    "switch": "切换",
+    "switchType": "切换派系类型",
+    "switchTypePrompt": "你确定要切换派系类型吗？所有派系都会被删除！切换类型后，你的服务器将被重新启动！",
+    "restartingIn": "将在:time:秒后重启服务器！",
+
+    "changingJobRestricted": "你没有这份工作的权限!",
+
+    "upgradePurchased": "你购买了升级:name:！",
+
+    "inviteMember": "邀请新成员",
+
+    "factionInvite": "派系邀请",
+    "invitedTo": "你被邀请至",
+
+    "memberCount": ":x:/:total:成员",
+    "factionCount": ":x:派系",
+
+    "unlock": "解锁",
+    "neededToUnlock": "需要解锁",
+    "details": "详细内容",
+    "viewDetails": "查看详情",
+    "join": "加入",
+    "lastSeen": "上一次见到",
+
+    "ago": ":time:之前",
+    "never": "从不",
+    "now": "现在",
+
+    "back": "返回",
+
+    "save": "保存",
+    "deleteFaction": "删除派系",
+    "deleteRank": "删除阶级",
+
+    "leave": "离开",
+    "leaveFaction": "离开派系",
+
+    "accept": "接受",
+    "deny": "拒绝",
+    
+    "cancel": "取消",
+
+    "clickToAdd": "点击添加",
+
+    "visual": "视觉效果",
+
+    "members": "成员",
+    "actions": "行动",
+
+    "manage": "管理",
+    "disband": "解散",
+    "delete": "删除",
+
+    "loading": "正在加载...",
+
+    "searchByName": "按名称搜索",
+
+    "kickMember": "踢出成员",
+    "kickMemberPrompt": "你确定把:name:从:faction:踢出？",
+
+    "cantAfford": "你买不起！",
+
+    "staticFactionsContent": "管理员可以创建派系，并决定谁将成为领袖，以及每个阶级有哪些权限。",
+    "dynamicFactionsContent": "玩家可以创建自己的派系，并完全控制它。没有人会告诉他们如何领导它。",
+
+    "xp_npckilled": "NPC击杀数",
+    "xp_npckilled_desc": "杀死NPC可以获得多少经验？",
+
+    "xp_territorycapped": "占领领土",
+    "xp_territorycapped_desc": "夺取一个点可以获得多少XP？",
+
+    "xp_territoryminute": "持续持有领土",
+    "xp_territoryminute_desc": "每个领土每分钟能获得多少经验？",
+
+    "xp_playtime": "游玩时间",
+    "xp_playtime_desc": "游玩多久可以获得经验？",
+
+    "experience": "经验",
+    "commands": "命令",
+    "xpmodules": "经验模块",
+    "invites": "邀请函",
+    "capturepoints": "领土",
+    "upgrades": "升级",
+    "upgradetree": "升级树",
+    "upgradepoints": "升级点数",
+
+    "selectPointToView": "选择一个升级来查看其信息...",
+
+    "settings_language": "语言",
+    "settings_language_desc": "VoidFactions应该使用哪种语言？",
+
+    "settings_menucommand": "菜单命令",
+    "settings_menucommand_desc": "输入什么命令来打开菜单？",
+
+    "settings_maxtaglength": "最大标签长度",
+    "settings_maxtaglength_desc": "派系标签可以有多长？",
+
+    "settings_defaultrankname": "派系拥有者的默认阶级名",
+    "settings_defaultrankname_desc": "拥有者的阶级名应该叫什么？",
+
+    "settings_defaultmaxmembers": "初始成员数上限",
+    "settings_defaultmaxmembers_desc": "一个新派系的成员上限是多少？",
+
+    "settings_defaultmaxitems": "初始物品数上限",
+    "settings_defaultmaxitems_desc": "一个新派系的物品上限是多少？",
+
+    "settings_factioncreatecost": "派系创建费用",
+    "settings_factioncreatecost_desc": "创建一个派系需要多少钱？",
+
+    "settings_factioncreatecurrency": "派系创建币种",
+    "settings_factioncreatecurrency_desc": "创建派系应该用花费哪种货币？",
+
+    "settings_promotecanselect": "晋升时选择派系",
+    "settings_promotecanselect_desc": "在派系之间晋升时，可以选择特定的派系吗？",
+
+    "settings_menubind": "菜单绑定",
+    "settings_menubind_desc": "按什么键打开菜单？",
+
+    "settings_depositcurrency": "存款币种",
+    "settings_depositcurrency_desc": "存款应该用哪种货币？",
+
+    "settings_depositinventory": "存放库存",
+    "settings_depositinventory_desc": "存放应该用哪种库存？",
+
+    "settings_inviteduration": "邀请时限",
+    "settings_inviteduration_desc": "一个邀请会在多长时间内保持有效？(秒)",
+
+    "settings_pointrenderdist": "渲染距离",
+    "settings_pointrenderdist_desc": "离领土多远才会取消渲染？",
+
+    "settings_showpointdistances": "显示距离",
+    "settings_showpointdistances_desc": "是否显示领土距离？",
+
+    "settings_pointcaptime": "占领时间",
+    "settings_pointcaptime_desc": "占领领土需要多久？(秒)",
+
+    "settings_baselevelupxp": "升级所需经验",
+    "settings_baselevelupxp_desc": "你需要多少经验来升级？",
+
+    "settings_levelupmultiplier": "升级倍数",
+    "settings_levelupmultiplier_desc": "每升一级所需经验会增加多少？",
+
+    "settings_maxlevel": "等级上限",
+    "settings_maxlevel_desc": "你能达到的最高等级是多少？"
+}

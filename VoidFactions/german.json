@@ -1,0 +1,451 @@
+{
+    "profile": "Profil",
+    "level": "Level",
+    "rank": "Rang",
+    "deposit": "Einzahlen",
+    "rewards": "Belohnungen",
+
+    "lastPromote": "Letzte Beförderung",
+    "autoPromote": "Autom. Beförderung",
+    "rankTemplate": "Rang-Vorlage,
+    "nextAutoPromote": "Nächste autom. Beförderung",
+    "joined": "Beigetreten",
+    "sessionPlaytime": "Sitzungsspielzeit",
+    "totalPlaytime": "Gesamte Spielzeit,
+    "factionJoined": "Fraktion beigetreten",
+
+    "balance": "Konto:",
+    "itemCount": ":x:/:max: Gegenstände",
+
+    "transactionHistory": "Transaktionslog",
+
+    "withdraw": "Auszahlen",
+
+    "currentJob": "Aktueller Beruf",
+    "changeJob": "Wechsle Beruf",
+    "changeRank": "Ändere Rang",
+
+    "assets": "Vermögenswerte",
+
+    "createFaction": "Fraktion erstellen",
+    "joinFaction": "Fraktion beitreten",
+    
+    "createFactionOrJoin": "Erstelle eine Fraktion oder trete einer bei",
+    "noFactionText": "Du kannst entweder eine neue Fraktion gründen und deren Leiter sein oder dich einer bestehenden Fraktion anschließen",
+    "factionCreateCost": "Das Erstellen einer Fraktion kostet :color: :money:.",
+
+    "select": "Wählen",
+    "create": "Erstellen",
+
+    "factions": "Fraktionen",
+    "dynamic": "Dynamisch",
+    "static": "Statisch",
+
+    "setup": "Konfiguration",
+    "options": "Optionen",
+
+    "levelUp": "Level aufgestiegen!",
+    "levelUpMsg": "Du bist jetzt Level :level:",
+
+    "chooseMode": "Wähle deinen Modus",
+    "chooseFaction": "Wähle deine Fraktion",
+
+    "suitedForSerious": "Geeignet für SeriousRP",
+    "suitedForNonSerious": "Geeignet für Non-SeriousRP",
+
+    "addFaction": "Erstelle eine neue Fraktion",
+    "addRank": "Erstelle einen neuen Rang",
+    "addMember": "Mitglied hinzufügen",
+
+    "newFaction": "Neue Fraktion",
+    "newRank": "Neuer Rang",
+
+    "faction": "Fraktion",
+    "factionName": "Fraktionsname",
+
+    "editFaction": "Bearbeite die Fraktion :name:",
+    "editRank": "Bearbeite den Rang :name:",
+    "editUpgrade": "Bearbeite die Verbesserung :name:",
+    "editReward": "Bearbeite die Belohnung :name:",
+
+    "reward": "Belohnung",
+
+    "general": "Allgemeines",
+    "permissions": "Berechtigungen",
+    "member": "Mitglied",
+
+    "name": "Name",
+    "description": "Beschreibung",
+    "factionTag": "Fraktionskürzel",
+    "subfactionOf": "Unterfraktion von",
+    "factionColor": "Fraktionsfarbe",
+    "icon": "Symbol",
+    "factionIcon": "Fraktionssymbol",
+    "maxMembers": "Max. Mitglieder",
+
+    "canCaptureTerritory": "Kann Gebiet erobern",
+    "showOnBoard": "Am Board anzeigen",
+    "inviteRequired": "Erfordert eine Einladung zum Beitritt",
+    "isDefaultFaction": "Ist die Standardfraktion",
+
+    "inviteOnly": "Nur durch Einladung",
+
+    "noRanksAvailable": "Keine Ränge verfügbar",
+    "none": "Nichts",
+
+    "rankTag": "Rangkürzel",
+    "job": "Beruf",
+
+    "ranking": "Rangfolge",
+    "totalUpgrades": "Gesamte Verbesserungen",
+
+    "showingPagination": "Zeige :from:-:to:",
+    "page": "Seite",
+    "from": "Von",
+
+    "createUpgrade": "Verbesserung erstellen",
+    "deleteUpgrade": "Verbesserung löschen",
+
+    "createReward": "Belohnung erstellen",
+    "deleteReward": "Belohnung löschen",
+
+    "upgradeModule": "Verbesserungsmodul",
+    "rewardModule": "Belohnungsmodul",
+    "moduleValue": "Modulwert",
+
+    "tools": "Werkzeuge",
+
+    "upgradeCount": ":x: Verbesserungen",
+    "rewardCount": ":x: Belohnungen",
+
+    "price": "Preis",
+
+    "you": "Du",
+
+    "kick": "Rauswerfen",
+    "inviteMembers": "Spieler einladen",
+    "kickMembers": "Spieler rauswerfen",
+
+    "promoteMembers": "Mitglied befördern",
+    "demoteMembers": "Mitglied degradieren",
+
+    "setRanks": "Ränge setzen",
+
+    "manageFaction": "Fraktion verwalten",
+    "purchaseUpgrades": "Verbesserungen kaufen",
+
+    "canWithdrawMoney": "Geld auszahlen",
+    "canDepositMoney": "Geld einzahlen",
+    "canWithdrawItems": "Gegenstände auslagern",
+    "canDepositItems": "Gegenstände einlagern",
+
+    "depositMoney": "Geld einzahlen",
+    "withdrawMoney": "Geld auszahlen",
+
+    "depositMoneyText": "Gebe den Geldbetrag ein, den du einzahlen möchtest.",
+    "withdrawMoneyText": "Gebe den Geldbetrag ein, den du auszahlen möchtest.",
+
+    "yes": "Ja",
+    "no": "Nein",
+
+    "onlyFactionMembers": "Nur Fraktionsmitglieder",
+    "factionAndSubfactions": "Fraktion und Unterfraktionen",
+    "minimumLevel": "Mindestlevel",
+
+    "upgradeCreated": "Erfolgreich die Verbesserung :name: erstellt!",
+    "upgradeDeleted": "Erfolgreich die Verbesserung :name: gelöscht!",
+    "upgradeEdited": "Erfolgreich die Verbesserung :name: bearbeitet!",
+    "deleteUpgradePrompt": "Bist du dir sicher, dass du die Verbesserung :upgrade: löschen möchtest? Diese Aktion ist permanent!",
+
+    "rewardCreated": "Erfolgreich die Belohung :name: erstellt!",
+    "rewardDeleted": "Erfolgreich die Belohung :name: gelöscht!",
+    "rewardEdited": "Erfolgreich die Belohung :name: bearbeitet!",
+    "deleteRewardPrompt": "Bist du dir sicher, dass du die Belohnung :reward: löschen möchtest? Diese Aktion ist permanent!",
+
+    "moveTool": "Bewegungswerkzeug",
+    "connectorTool": "Verbindungswerkzeug",
+    "addUpgrade": "Neue Verbesserung hinzufügen",
+
+    "moneyRewarded": "Mit Geld belohnt",
+    "xpRewarded": "XP erhalten",
+
+    "reward_pointscaptured": "Punkte gesammelt",
+    "reward_desc_pointscaptured": "Wie viele Punkte müssen insgesamt gesammelt werden, um dies freizuschalten?",
+
+    "reward_itemsdeposited": "Gegenstand eingelagert",
+    "reward_desc_itemsdeposited": "Wie viele Gegenstände sollten gleichzeitig eingelagert sein, um dies freizuschalten?",
+
+    "reward_moneydeposited": "Geld eingezahlt",
+    "reward_desc_moneydeposited": "Wie viel Geld soll eingezahlt sein, um dies freizuschalten?",
+
+    "reward_upgradesdeposited": "Verbesserung freigeschaltet",
+    "reward_desc_upgradesdeposited": "Wie viele Verbesserungen sollten insgesamt freigeschaltet werden, um dies freizuschalten?",
+
+    "reward_membersjoined": "Mitglieder beigetreten",
+    "reward_desc_membersjoined": "Wie viele Mitglieder sollen in der Fraktion sein, um dies freizuschalten?",
+
+    "upgr_speedboost": "Geschwindigkeitsschub",
+    "upgr_desc_speedboost": "Erhöht die Bewegungsgeschwindigkeit des Spielers",
+    "upgr_descval_speedboost": "Um wie viel Prozent soll der Spieler schneller sein?",
+
+    "upgr_weapon": "Permanente Waffe",
+    "upgr_desc_weapon": "Gibt dem Spieler beim Spawn eine Waffe",
+    "upgr_descval_weapon": "Wie lautet der Classname der Waffe?",
+
+    "upgr_jumpboost": "Sprungschub",
+    "upgr_desc_jumpboost": "Erhöht die Sprungkraft des Spielers",
+    "upgr_descval_jumpboost": "Um wie viel Prozent soll der Spieler höher springen können?",
+
+    "upgr_morehp": "Mehr HP",
+    "upgr_desc_morehp": "Erhöht die Lebenspunkte des Spielers.",
+    "upgr_descval_morehp": "Um wie viel % soll die Gesundheit des Spielers steigen?",
+
+    "upgr_morearmor": "Mehr Rüstung",
+    "upgr_desc_morearmor": "Erhöht die Rüstungspunkte des Spielers",
+    "upgr_descval_morearmor": "Um wie viel % soll die Rüstung des Spielers steigen?",
+
+    "upgr_memberdmgreduce": "Schadensverringerung für Mitglieder",
+    "upgr_desc_memberdmgreduce": "Verringert den Schaden durch eigenen Beschuss auf Fraktionsmitglieder.",
+    "upgr_descval_memberdmgreduce": "Um wie viel % soll der Friendly-Fire Schaden reduziert werden?",
+
+    "upgr_lockpickspeed": "Schnellerer Lockpick",
+    "upgr_desc_lockpickspeed": "Erhöht die Lockpick-Geschwindigkeit",
+    "upgr_descval_lockpickspeed": "Was soll die Lockpick Zeit in % sein? (0 - 100%)",
+
+    "upgr_maxmembers": "Max. Mitglieder",
+    "upgr_desc_maxmembers": "Erhöht die Mitgliederzahl",
+    "upgr_descval_maxmembers": "Wie viele Mitgliederslots sollen der Gang hinzugefügt werden?",
+
+    "upgr_maxitems": "Max. Gegenstände",
+    "upgr_desc_maxitems": "Erhöht die maximale Anzahl an gelagerten Gegenständen.",
+    "upgr_descval_maxitems": "Um wie viele Gegenstände wird das Lager erweitert?",
+
+    "upgr_capturetime": "Eroberungszeit",
+    "upgr_desc_capturetime": "Verringert die Eroberungszeit von Punkten.",
+    "upgr_descval_capturetime": "Wie viele Sekunden werden von der Eroberungszeit abgezogen?",
+
+    "success": "Erfolg",
+    "error": "Fehler",
+    "info": "Info",
+
+    "properties": "Eigenschaften",
+
+    "factionCreated": "Fraktion :name: wurde erfolgreich erstellt!",
+    "factionUpdated": "Fraktion :name: wurde erfolgreich bearbeitet!",
+    "factionDeleted": "Fraktion :name: wurde erfolgreich gelöscht!",
+    "memberCountDemoted": "(:count: Mitglieder wurden degradiert)",
+
+    "rankCreated": "Rang :name: wurde erfolgreich erstellt!",
+    "rankUpdated": "Rang :name: wurde erfolgreich bearbeitet!",
+    "rankDeleted": "Rang :name: wurde erfolgreich gelöscht!",
+    "maxRanksCreated": "Der Rang :name: konnte nicht erstellt werden, da das Limit (:limit:) erreicht wurde!",
+    "maxFactionsCreated": "Die Fraktion :name: konnte nicht erstellt werden, da das Limit (:limit:) erreicht wurde!",
+    "membersInRankErr": "Der Rang :name: konnte nicht gelöscht werden, da Mitglieder diesen tragen und nicht degradiert werden können!",
+
+    "memberInvited": "Der Spieler :name: wurde erfolgreich eingeladen, der Fraktion :faction: beizutreten!",
+    "memberInvitePending": "Der Spieler :name: wurde bereits eingeladen!",
+    "memberInviteAccepted": "Der Spieler :name: hat die Einladung angenommen!",
+
+    "memberJoinedFaction": "Du bist :faction: beigetreten.",
+    "memberLeftFaction": "Du hast :faction: verlassen.",
+
+    "memberKicked": "Das Mitglied :name: wurde erfolgreich rausgeworfen!",
+    "memberAdded": "Der Spieler :name: wurde erfolgreich der Fraktion :faction: hinzugefügt!",
+
+    "itemDeposited": "Der Gegenstand :name: wurde erfolgreich eingelagert!",
+    "itemWithdrawn": "Der Gegenstand :name: wurde erfolgreich ausgelagert!",
+
+    "moneyDeposited": "Es wurden erfolgreich :money: eingezahlt!",
+    "moneyWithdrawn": "Es wurden erfolgreich :money: ausgezahlt!",
+
+    "noFactionMoney": "Die Fraktion hat nicht so viel Geld!",
+
+    "memberRankChanged": ":name:' wurde auf den Rang :rank: gesetzt!",
+    "memberPromoted": "Das Mitglied :name: wurde auf den Rang :rank: befördert!",
+    "memberDemoted": "Das Mitglied :name: wurde auf den Rang :rank: degradiert!",
+
+    "youPromoted": "Du wurdest auf den Rang :rank: befördert!",
+    "youDemoted": "Du wurdest auf den Rang :rank: degradiert!",
+    "youRankChanged": "Du wurdest auf den Rang :rank: gesetzt!",
+
+    "nameShort": "Der Name ist zu kurz!",
+    "nameLong": "Der Name ist zu lang!",
+    "tagShort": "Das Kürzel ist zu kurz!",
+    "tagLong": "Das Kürzel ist zu lang!",
+    "maxMembersLimit": "Die maximale Mitgliederzahl ist zu groß!",
+    "noJobs": "Diesen Rang sind keine Berufe zugeordnet!",
+
+    "maxMembersErr": "Diese Fraktion ist voll!",
+    "maxRankMembersErr": "Der Rang ist voll!",
+    "minLevelErr": "Du hast nicht das erforderliche Level!",
+
+    "nothingToShow": "Hier ist nichts zu sehen!",
+    "thereAreNoMembers": "Es gibt keine Mitglieder.",
+
+    "capturePoint": "Eroberungspunkt",
+    "capturePointCreated": "Eroberungspunkt erstellt.",
+    "capturePointDeleted": "Eroberungspunkt gelöscht.",
+    "capturePointContested": "Angefochten",
+    "capturing": "Erobern",
+    "paused": "Pausiert",
+    "claimed": "Erobert",
+    "notClaimed": "Nicht erobert",
+
+    "pointCapturedByEnemies": "Dein Eroberungspunkt wird erobert!",
+
+    "unlockedReward": "Die Belohung :reward: wurde freigeschaltet!",
+
+    "cantJoinNoDefaultFactions": "Standardfraktionen mpssen konfugiriert werden, bevor du einer Fraktion beitreten kannst. Verbinde dich erneut mit dem Server.",
+    "noDefaultFactions": "Es gibt keine Standardfraktionen. Diese müssen erst eingerichtet werden!",
+
+    "deleteRankPrompt": "Bist du dir sicher, dass du den Rang :rank: löschen möchtest? Diese Aktion ist permanent!",
+    "deleteFactionPrompt": "Bist du dir sicher, dass du die Fraktion :faction: löschen möchtest? Diese Aktion ist permanent!",
+    "disbandFactionPrompt": "Bist du dir sicher, dass du diese Fraktion auflöschen möchtest? Diese Aktion ist permanent!",
+
+    "disbandFaction": "Fraktion auflösen",
+
+    "switch": "Wechseln",
+    "switchType": "Wechsle Fraktionstyp",
+    "switchTypePrompt": "Bist du dir sicher, dass du den Fraktionstyp wechseln möchtest? Es werden dabei alle Fraktionen gelöscht und der Server wird neugestartet.",
+    "restartingIn": "Der Server wird in :time: Sekunden neugestartet!",
+
+    "changingJobRestricted": "Du hast keinen Zugang zu diesem Beruf!",
+
+    "upgradePurchased": "Du hast die Verbesserung :name: gekauft!",
+
+    "inviteMember": "Lade einen neuen Spieler ein",
+
+    "factionInvite": "Fraktionseinladung",
+    "invitedTo": "Du wurdest  in eine Fraktion eingeladen: ",
+
+    "memberCount": ":x:/:total: Mitglieder",
+    "factionCount": ":x: Fraktionen",
+
+    "unlock": "Freischalten",
+    "neededToUnlock": "Muss freigeschaltet werden",
+    "details": "Details",
+    "viewDetails": "Details ansehen",
+    "join": "Beigetreten",
+    "lastSeen": "Zuletzt gesehen",
+
+    "ago": "vor :time:",
+    "never": "Nie",
+    "now": "Jetzt",
+
+    "back": "Zurück",
+
+    "save": "Speichern",
+    "deleteFaction": "Fraktion löschen",
+    "deleteRank": "Rang löschen",
+
+    "leave": "Verlassen",
+    "leaveFaction": "Fraktion verlassen",
+
+    "accept": "Annehmen",
+    "deny": "Ablehnen",
+    
+    "cancel": "Abbruch",
+
+    "clickToAdd": "Klicke um hinzuzufügen",
+
+    "visual": "Visuell",
+
+    "members": "Mitglieder",
+    "actions": "Aktionen",
+
+    "manage": "Verwalten",
+    "disband": "Auflösen",
+    "delete": "Löschen",
+
+    "loading": "Lade...",
+
+    "searchByName": "Nach Name suchen",
+
+    "kickMember": "Mitglied rauswerfen",
+    "kickMemberPrompt": "Bist du dir sicher, dass du den Spieler :name: aus der Fraktion :faction: werfen möchtest?",
+
+    "cantAfford": "Du kannst dir das nicht leisten!",
+
+    "staticFactionsContent": "Teammitglieder können Fraktionen erstellen und entscheiden, wer der Leiter sein wird und welche Berechtigungen jeder Rang hat.",
+    "dynamicFactionsContent": "Spieler können ihre eigene Fraktion erstellen und diese selbstständig verwalten. Dabei haben sie vollständigen Freiraum.",
+
+    "xp_npckilled": "NPC Tötungen",
+    "xp_npckilled_desc": "Wie viel EXP  man für das Töten eines NPC erhält",
+
+    "xp_territorycapped": "Eroberungspunkt eingenommen",
+    "xp_territorycapped_desc": "Wie viel EXP man für das Einnehmen eines Eroberungspunktes erhält",
+
+    "xp_territoryminute": "Eroberungspunkt halten",
+    "xp_territoryminute_desc": "Wie viel EXP man pro Minute für das Halten eines Eroberungspunkt erhält",
+
+    "xp_playtime": "Spielzeit",
+    "xp_playtime_desc": "Wie viel EXP du für welchen Zeitraum erhälst",
+
+    "experience": "Erfahrung",
+    "commands": "Befehle",
+    "xpmodules": "XP Module",
+    "invites": "Einladungen",
+    "capturepoints": "Eroberungspunkte",
+    "upgrades": "Verbesserungen",
+    "upgradetree": "Verbesserungsbaum",
+    "upgradepoints": "Verbesserungspunkte",
+
+    "selectPointToView": "Wähle eine Verbesserung für mehr Infos...",
+
+    "settings_language": "Sprache",
+    "settings_language_desc": "Welche Sprache soll VoidFactions nutzen?",
+
+    "settings_menucommand": "Menübefehl",
+    "settings_menucommand_desc": "Welcher Befehl öffnet das Fraktionsmenü?",
+
+    "settings_maxtaglength": "Max. Kürzellänge",
+    "settings_maxtaglength_desc": "`Wie lang darf ein Fraktionskürzel sein?",
+
+    "settings_defaultrankname": "Standard Leiter-Name",
+    "settings_defaultrankname_desc": "Wie soll standardmäßig der Leiter-Rang einer Fraktion heißen?",
+
+    "settings_defaultmaxmembers": "Standard max. Mitgliederzahl",
+    "settings_defaultmaxmembers_desc": "Was ist die standardmäßige maximale Mitgliederzahl einer Fraktion?",
+
+    "settings_defaultmaxitems": "Standard max. Gegenstände",
+    "settings_defaultmaxitems_desc": "Was ist die standardmäßige maximale Anzahl an Gegenständen in einer Fraktion?",
+
+    "settings_factioncreatecost": "Fraktionskosten",
+    "settings_factioncreatecost_desc": "Wie viel kostet die Erstellung einer Fraktion?",
+
+    "settings_factioncreatecurrency": "Fraktionserstellung Währung",
+    "settings_factioncreatecurrency_desc": "Welche Währung wird für das Erstellen einer Fraktion genutzt?",
+
+    "settings_promotecanselect": "Wähle Fraktion zum befördern",
+    "settings_promotecanselect_desc": "Kann eine bestimmte Fraktion ausgewählt werden, wenn zwischen Fraktionen befördert wird?",
+
+    "settings_menubind": "Menü Keybind",
+    "settings_menubind_desc": "Welche Taste wird für das Öffnen des Menüs verwendet?",
+
+    "settings_depositcurrency": "Einzahlung - Währung",
+    "settings_depositcurrency_desc": "Welche Währung soll für Einzahlungen verwendet werden?",
+
+    "settings_depositinventory": "Einlagern - Inventar",
+    "settings_depositinventory_desc": "Welches Inventar soll für das Einlagern verwendet werden?",
+
+    "settings_inviteduration": "Einladungsdauer",
+    "settings_inviteduration_desc": "Wie viele Sekunden ist eine Einladung aktiv?",
+
+    "settings_pointrenderdist": "Renderdistanz",
+    "settings_pointrenderdist_desc": "Wie weit soll der Eroberungspunkt entfernt sein?",
+
+    "settings_showpointdistances": "Entferungen anzeigen",
+    "settings_showpointdistances_desc": "Soll die Entferung zum Eroberungspunkt angezeigt werden?",
+
+    "settings_pointcaptime": "Eroberungszeit",
+    "settings_pointcaptime_desc": "Wie viele Sekunden dauert das Einnehmen eines Eroberungspunktes?",
+
+    "settings_baselevelupxp": "Levelaufstieg - XP",
+    "settings_baselevelupxp_desc": "Wie viele EXP werden für einen Levelaufstieg benötigt?",
+
+    "settings_levelupmultiplier": "Levelaufstiegs Multiplikator",
+    "settings_levelupmultiplier_desc": "Um wie viel wird die erforderliche Erfahrung erhöht?",
+
+    "settings_maxlevel": "Maximales Level",
+    "settings_maxlevel_desc": "Was ist das maximale Level, welches eine Fraktion erreichen kann?"
+}

@@ -1,0 +1,434 @@
+{
+    "profile": "Профиль",
+    "level": "Уровень",
+    "rank": "Ранг",
+    "deposit": "Внести",
+    "rewards": "Награды",
+
+    "lastPromote": "Посл повышение",
+    "autoPromote": "Авто повышение",
+    "rankTemplate": "Шаблон ранга",
+    "nextAutoPromote": "След авто повышение",
+    "joined": "Присоединился",
+    "sessionPlaytime": "Время сессии",
+    "totalPlaytime": "Общее время",
+    "factionJoined": "Время во фракции",
+
+    "balance": "Баланс:",
+    "itemCount": ":x:/:max: предметов",
+
+    "transactionHistory": "История транзакции",
+
+    "withdraw": "Снять",
+
+    "currentJob": "Текущая работа",
+    "changeJob": "Сменить работу",
+    "changeRank": "Сменить ранг",
+
+    "assets": "Активы",
+
+    "createFaction": "Создать фракцию",
+    "joinFaction": "Присоеднится к фракции",
+    
+    "createFactionOrJoin": "Создай фракцию или присоединись к существующей",
+    "noFactionText": "Вы можете либо создать новую фракцию и стать её боссом, либо присоединиться к уже существующей..",
+    "factionCreateCost": "Стоимость создания новой фракции :color: :money:.",
+
+    "select": "Выбрать",
+    "create": "Создать",
+
+    "factions": "Фракции",
+    "dynamic": "Динамика",
+    "static": "Статистика",
+
+    "setup": "Установки",
+    "options": "Настройки",
+
+    "levelUp": "Уровень повышен!",
+    "levelUpMsg": "У вас :level: уровень",
+
+    "chooseMode": "Выбери мод",
+    "chooseFaction": "Выбе фракцию",
+
+    "suitedForSerious": "Подходит для SeriousRP",
+    "suitedForNonSerious": "Подходит для несерьезных RP",
+
+    "addFaction": "Добавить новую фракцию",
+    "addRank": "Добавить новый ранг",
+    "addMember": "Добавить участника",
+
+    "newFaction": "Новая фракция",
+    "newRank": "Новый ранг",
+
+    "faction": "Фракция",
+    "factionName": "Имя фракции",
+
+    "editFaction": "Изменить фракцию :name:",
+    "editRank": "Изменить ранг :name:",
+    "editUpgrade": "Изменить улудшение :name:",
+    "editReward": "Изменить награду :name:",
+
+    "reward": "Награды",
+
+    "general": "Основное",
+    "permissions": "Права",
+    "member": "Участники",
+
+    "name": "Название",
+    "description": "Описание",
+    "factionTag": "Тэг фракции",
+    "subfactionOf": "Подфракция",
+    "factionColor": "Цвет фракции",
+    "icon": "Icon",
+    "factionIcon": "Иконка фракции",
+    "maxMembers": "Макс участников",
+
+    "canCaptureTerritory": "Может захватывать территорию",
+    "showOnBoard": "Показать на борде",
+    "inviteRequired": "Требуется приглашение присоединиться",
+    "isDefaultFaction": "Фракция по умолчанию",
+
+    "inviteOnly": "Только по приглашению",
+
+    "noRanksAvailable": "Нет доступных рангов!",
+    "none": "Ничего",
+
+    "rankTag": "Тэг ранга",
+    "job": "Профессия",
+
+    "ranking": "Ранжирование",
+    "totalUpgrades": "Всего улудшений",
+
+    "showingPagination": "Показать :from:-:to:",
+    "page": "Страница",
+    "from": "Из",
+
+    "createUpgrade": "Создать улудшение",
+    "deleteUpgrade": "Удалить улудшение",
+
+    "createReward": "Создать награду",
+    "deleteReward": "Удалить награду",
+
+    "upgradeModule": "Модуль улудшений",
+    "rewardModule": "RМодуль наград",
+    "moduleValue": "Значение модуля",
+
+    "tools": "Tools",
+
+    "upgradeCount": ":x: Улудшений",
+    "rewardCount": ":x: Наград",
+
+    "price": "Цена",
+
+    "you": "Ты",
+
+    "kick": "Выгнать",
+    "inviteMembers": "Приглашённые",
+    "kickMembers": "Выгнаные",
+
+    "promoteMembers": "Список повышенных",
+    "demoteMembers": "Список пониженных",
+
+    "setRanks": "Выдать ранг",
+
+    "manageFaction": "Управляйте фракцией",
+    "purchaseUpgrades": "Купить улудшения",
+
+    "canWithdrawMoney": "Снять денег",
+    "canDepositMoney": "Положить денег",
+    "canWithdrawItems": "Снять предметы",
+    "canDepositItems": "Пополнить предметы",
+
+    "depositMoney": "Положить денег",
+    "withdrawMoney": "Снять денег",
+
+    "depositMoneyText": "Введите сумму денег, которую вы хотите внести.",
+    "withdrawMoneyText": "Введите сумму денег, которую вы хотите снять.",
+
+    "yes": "Да",
+    "no": "Нет",
+
+    "onlyFactionMembers": "Только члены фракции",
+    "factionAndSubfactions": "Фракция и подфракции",
+    "minimumLevel": "Минимальный уровень",
+
+    "upgradeCreated": "Успешно созданное улудшение :name:!",
+    "upgradeDeleted": "Улудшение успешно удалено :name:!",
+    "upgradeEdited": "Улудшение успешно изменено :name:!",
+    "deleteUpgradePrompt": "Вы уверены, что хотите удалить обновление? :upgrade:? Это действие навсегда!",
+
+    "rewardCreated": "Успешно созданна награда :name:!",
+    "rewardDeleted": "Успешно удалена награда :name:!",
+    "rewardEdited": "Успешно изменена награда :name:!",
+    "deleteRewardPrompt": "Вы уверены, что хотите удалить награду :reward:? Это действие навсегда!",
+
+    "moveTool": "Инструмент перемещения",
+    "connectorTool": "Инструмент соединителя",
+    "addUpgrade": "Добавить новое улудшение",
+
+    "moneyRewarded": "Денежная награда",
+    "xpRewarded": "XP награда",
+
+    "reward_pointscaptured": "Захваченные точки",
+    "reward_desc_pointscaptured": "Сколько нужно захватить точек, чтобы открыть это?",
+
+    "reward_itemsdeposited": "Предметов внесено",
+    "reward_desc_itemsdeposited": "Сколько нужно внести предметов, чтобы открыть это?",
+
+    "reward_moneydeposited": "Внесено денег",
+    "reward_desc_moneydeposited": "Сколкьо нужно внести денег, чтобы открыть это?",
+
+    "reward_upgradesdeposited": "Улудшений открыто",
+    "reward_desc_upgradesdeposited": "Сколько нужно открыть улудшений, чтобы открыть это?",
+
+    "reward_membersjoined": "Участников присоеденилось",
+    "reward_desc_membersjoined": "Сколько нужно присоединившихся участников, чтобы открыть это?",
+
+    "upgr_speedboost": "Повышение скорости",
+    "upgr_desc_speedboost": "Увеличивает скорость передвижения игроков.",
+    "upgr_descval_speedboost": "Насколько игрок должен быть быстрее %?",
+
+    "upgr_weapon": "Оружие навсегда",
+    "upgr_desc_weapon": "Дает игроку оружие при появлении.",
+    "upgr_descval_weapon": "Как называется класс оружия?",
+
+    "upgr_jumpboost": "Повышение прыжка",
+    "upgr_desc_jumpboost": "Увеличивает силу прыжка игроков.",
+    "upgr_descval_jumpboost": "На сколько игроку следует прыгнуть выше %?",
+
+    "upgr_morehp": "Больше HP",
+    "upgr_desc_morehp": "Увеличивает здоровье игроков.",
+    "upgr_descval_morehp": "На сколько нужно увеличить здоровье игрока %?",
+
+    "upgr_morearmor": "Больше Брони",
+    "upgr_desc_morearmor": "Увеличивает броню игроков.",
+    "upgr_descval_morearmor": "На сколько нужно увеличить броню игрока %?",
+
+    "upgr_memberdmgreduce": "Урон по своим",
+    "upgr_desc_memberdmgreduce": "Снижает урон по своим.",
+    "upgr_descval_memberdmgreduce": "Насколько нужно уменьшить урон от огня своим %?",
+
+    "upgr_lockpickspeed": "Быстрая отмычка",
+    "upgr_desc_lockpickspeed": "Увеличивает скорость взлома.",
+    "upgr_descval_lockpickspeed": "Каким должно быть время взлома %? (0-100%)",
+
+    "upgr_maxmembers": "Макс участников",
+    "upgr_desc_maxmembers": "Увеличивает максимальное количество участников.",
+    "upgr_descval_maxmembers": "Какое максимальное количество участников должно быть добавлено?",
+
+    "upgr_maxitems": "Макс участников",
+    "upgr_desc_maxitems": "Увеличивает максимальное количество предметов.",
+    "upgr_descval_maxitems": "Сколько макс предметов следует добавить?",
+
+    "upgr_capturetime": "Время захвата",
+    "upgr_desc_capturetime": "Уменьшает время захвата точки.",
+    "upgr_descval_capturetime": "Сколько секунд вычесть из времени захвата?",
+
+    "success": "Успешно",
+    "error": "Ошибка",
+    "info": "Информация",
+
+    "properties": "Свойства",
+
+    "factionCreated": "Фракция :name: успешно создана!",
+    "factionUpdated": "Фракция :name: успешно отредактирована!",
+    "factionDeleted": "Фракция :name: успешно удалена!",
+    "memberCountDemoted": "(:count: участников было понижено)",
+
+    "rankCreated": "Ранг :name: was успешно создан!",
+    "rankUpdated": "Ранг :name: was успешно изменён!",
+    "rankDeleted": "Ранг :name: was успешно удалён!",
+    "maxRanksCreated": "Не удалось создать ранг :name: из-за лимита символов (:limit:)!",
+    "maxFactionsCreated": "Не удалось создать фракцию :name: из-за лимита символов (:limit:)!",
+    "membersInRankErr": "Не удалось удалить ранг :name: Потому что внутри есть участники, и их нельзя понизить!",
+
+    "memberInvited": "Игрок :name: был приглашён в :faction:!",
+    "memberInvitePending": "Игрок :name: уже рассматривает приглашение!",
+    "memberInviteAccepted": "Игрок :name: принял приглашение!",
+
+    "memberJoinedFaction": "Вы присоединились в :faction:",
+    "memberLeftFaction": "Вы покинули :faction:",
+
+    "memberKicked": "Участник :name: был выгнан!",
+    "memberAdded": "Игрок :name: успешно добавлен во фракцию :faction:!",
+
+    "itemDeposited": "Успешно внесён предмет :name:!",
+    "itemWithdrawn": "Успешно снят предмет :name:!",
+
+    "moneyDeposited": "Успешно пополнено :money:!",
+    "moneyWithdrawn": "Успешно снято :money:!",
+
+    "noFactionMoney": "У фракции нет столько денег!",
+
+    "memberRankChanged": "Ранг :name: был изменён на :rank:!",
+    "memberPromoted": "Участник :name: был повышен до :rank:!",
+    "memberDemoted": "Участник :name: был понижен до :rank:!",
+
+    "youPromoted": "Вы получили звание :rank:!",
+    "youDemoted": "Вы были понижены в звании до :rank:!",
+    "youRankChanged": "Ваш ранг был установлен на :rank:!",
+
+    "nameShort": "Имя слишком короткое!",
+    "nameLong": "Имя слишком длинное!",
+    "tagShort": "Тег слишком короткий!",
+    "tagLong": "Тег слишком длинный!",
+    "maxMembersLimit": "Максимально число участников слишком велик!",
+    "noJobs": "В этом ранге нет вакансий!",
+
+    "maxMembersErr": "Фракция заполнена!",
+    "maxRankMembersErr": "Ранг полон!",
+    "minLevelErr": "У вас нет необходимого уровня!",
+
+    "nothingToShow": "Нечего показать!",
+    "thereAreNoMembers": "Нет участников!",
+
+    "capturePoint": "Точка захвата",
+    "capturePointCreated": "Точка захвата создана!",
+    "capturePointDeleted": "Точка захвата удалена!",
+    "capturePointContested": "Оспаривается",
+    "capturing": "Захват",
+    "paused": "Пауза",
+    "claimed": "Захвачена",
+    "notClaimed": "Не захвачена",
+
+    "pointCapturedByEnemies": "Ваша точка захватывается!",
+
+    "unlockedReward": "Награда :reward: открыта!",
+
+    "cantJoinNoDefaultFactions": "Для начала Фракцию необходимо настроить! Сделайте это и снова попробуйте.",
+    "noDefaultFactions": "Фракций по умолчанию нет! Их нужно будет настроить!",
+
+	"deleteRankPrompt": "Вы уверены, что хотите удалить ранг :rank:? Это действие будет необратимым!"
+	"deleteFactionPrompt": "Вы уверены, что хотите удалить фракцию :faction:? Это действие будет необратимым!"
+	"disbandFactionPrompt": "Вы уверены, что хотите распустить свою фракцию? Это действие будет необратимым!"
+	"disbandFaction":"Расформировать фракцию"
+	"switch": "Сменить"
+	"switchType": "Сменить тип фракции"
+	"switchTypePrompt": "Вы уверены, что хотите сменить тип фракции? Все фракции будут удалены! Ваш сервер будет перезагружен после смены типа!"
+	"restartingIn": "Перезапуск сервера через: время: секунды!"
+	"changingJobRestricted": "У вас нет доступа к этой работе!"
+	"upgradePurchased":"Вы приобрели обновление :name!"
+	"inviteMember": "Пригласить нового участника"
+	"factionInvite": "Приглашение фракции"
+	"invitedTo": "Вас пригласили"
+	"memberCount": ":x:/:total: участников"
+	"factionCount": ":x: фракций"
+	"unlock": "Разблокировать"
+	"neededToUnlock": "Необходимо для разблокировки"
+	"details": "Подробности"
+	"viewDetails": "Просмотреть детали"
+	"join": "Присоединиться"
+	"lastSeen": "Последний раз в сети"
+	"ago": ":time: Назад"
+	"never": "Никогда"
+	"now": "Сейчас"
+	"back" : "Назад"
+	"save": "Сохранить"
+	"deleteFaction": "Удалить фракцию"
+	"deleteRank": "Удалить ранг"
+	"leave": "Выйти"
+	"leaveFaction": "Выйти с фракции"
+	"accept": "Подтвердить"
+	"deny": "Отказаться"
+	"cancel": "Отмена"
+	"clickToAdd": "Нажмите чтобы добавить"
+	"visual": "Визуализация"
+	"members": "Участники"
+	"actions": "Действия"
+	
+	"manage": "Управление"
+	"disband": "Расформировать"
+	"delete": "Удалить"
+
+	"loading": "Загрузка..."
+
+	"searchByName": "Поиск по имени"
+
+	"kickMember": "Выгнать участника" 
+	"kickMemberPrompt": "Вы уверены что хотите выгнать :name: из :faction:?"
+
+	"cantAfford": "Вы не можете это сделать!"
+
+	"staticFactionsContent": "Участники персонала могут создавать фракции и решать, кто будет лидером и какие права есть у каждого ранга."
+	"dynamicFactionsContent": "Игроки могут создать свою фракцию и иметь полный контроль над ней. Никто не скажет им, как ею руководить."
+
+	"xp_npckilled": "Персонаж умер"
+	"xp_npckilled_desc": "Сколько опыта вы получаете за убийство NPC"
+
+	"xp_territorycapped": "Точка захвачена"
+	"xp_territorycapped_desc": "Сколько опыта вы получаете за захват точки"
+
+	"xp_territoryminute": "Удерживайте точку"
+	"xp_territoryminute_desc": "Сколько опыта вы получаете за каждую точку захвата в минуту"
+
+	"xp_playtime": "Продолжительность"
+	"xp_playtime_desc": "Сколько опыта вы получаете за какой период времени"
+
+	"experience": "Опыт"
+	"commands": "Команды"
+	"xpmodules": "Модуль опыта"
+	"invites": "Приглашения"
+	"capturepoints": "Точки захвата"
+	"upgrades": "Улучшения"
+	"upgradetree": "Дерево улучшений" 
+	"upgradepoints": "Очки улучшений"
+
+	"selectPointToView": "Выберите обновление, чтобы просмотреть информацию о нем ... "
+
+	"settings_language": "Язык"
+	"settings_language_desc": "На каком языке следует использовать VoidFactions?"
+
+	"settings_menucommand": "Меню команд"
+	"settings_menucommand_desc": "Какая команда будет использоваться для открытия меню?"
+
+	"settings_maxtaglength": "Максимальная длина тега"
+	"settings_maxtaglength_desc": "Продолжительность тега фракции"
+
+	"settings_defaultrankname": "Имя владельца по умолчанию"
+	"settings_defaultrankname_desc": "Как будет называться ранг владельца по умолчанию?"
+
+	"settings_defaultmaxmembers": "Максимальное количество участников по умолчанию"
+	"settings_defaultmaxmembers_desc": "Какое максимальное количество участников стартовой фракции?"
+
+	"settings_defaultmaxitems": "Максимальное количество товаров по умолчанию"
+	"settings_defaultmaxitems_desc": "Какое максимальное количество предметов у стартовой фракции?"
+
+	"settings_factioncreatecost": "Стоимость создания фракции"
+	"settings_factioncreatecost_desc": "Сколько будет стоить создание фракции?"
+
+	"settings_factioncreatecurrency": "Валюта для создания фракции"
+	"settings_factioncreatecurrency_desc": "Какую валюту использовать для создания фракции?"
+
+	"settings_promotecanselect": "Выберите фракцию для продвижения"
+	"settings_promotecanselect_desc": "Можно ли выбрать конкретную фракцию при переходе между фракциями?"
+
+	"settings_menubind": "Связка клавиш для вызова меню"
+	"settings_menubind_desc": "Какая клавиша будет использоваться для открытия меню?"
+
+	"settings_depositcurrency": "Валюта депозита"
+	"settings_depositcurrency_desc": "В какой валюте делать депозиты?"
+
+	"settings_depositinventory": "Инвентарь депозитов"
+	"settings_depositinventory_desc": "Какой инвентарь использовать для депозитов?"
+
+	"settings_inviteduration": "Срок действия приглашения"
+	"settings_inviteduration_desc": "Как долго приглашение будет оставаться активным? (Секунды)"
+
+	"settings_pointrenderdist": "Дистанция прорисовки" 
+	"settings_pointrenderdist_desc": "Как далеко должна нарисоваться точка захвата?"
+
+	"settings_showpointdistances": "Показать расстояние"
+	"settings_showpointdistances_desc": "Следует ли отображать расстояния до точек захвата?"
+
+	"settings_pointcaptime": "Время захвата"
+	"settings_pointcaptime_desc": "Сколько времени нужно, чтобы захватить точку? (Секунды)"
+
+	"settings_baselevelupxp": "Повышение уровня"
+	"settings_baselevelupxp_desc": "Сколько опыта нужно для повышения уровня?"
+
+	"settings_levelupmultiplier": "Множитель повышения уровня"
+	"settings_levelupmultiplier_desc": "Насколько увеличится необходимый опыт?"
+
+	"settings_maxlevel": "Максимальный уровень"
+	"settings_maxlevel_desc": "Какого максимального уровня вы можете достичь?"
+}

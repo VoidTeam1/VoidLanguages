@@ -298,137 +298,137 @@
     "cantJoinNoDefaultFactions": "Для начала Фракцию необходимо настроить! Сделайте это и снова попробуйте.",
     "noDefaultFactions": "Фракций по умолчанию нет! Их нужно будет настроить!",
 
-	"deleteRankPrompt": "Вы уверены, что хотите удалить ранг :rank:? Это действие будет необратимым!"
-	"deleteFactionPrompt": "Вы уверены, что хотите удалить фракцию :faction:? Это действие будет необратимым!"
-	"disbandFactionPrompt": "Вы уверены, что хотите распустить свою фракцию? Это действие будет необратимым!"
-	"disbandFaction":"Расформировать фракцию"
-	"switch": "Сменить"
-	"switchType": "Сменить тип фракции"
-	"switchTypePrompt": "Вы уверены, что хотите сменить тип фракции? Все фракции будут удалены! Ваш сервер будет перезагружен после смены типа!"
-	"restartingIn": "Перезапуск сервера через: время: секунды!"
-	"changingJobRestricted": "У вас нет доступа к этой работе!"
-	"upgradePurchased":"Вы приобрели обновление :name!"
-	"inviteMember": "Пригласить нового участника"
-	"factionInvite": "Приглашение фракции"
-	"invitedTo": "Вас пригласили"
-	"memberCount": ":x:/:total: участников"
-	"factionCount": ":x: фракций"
-	"unlock": "Разблокировать"
-	"neededToUnlock": "Необходимо для разблокировки"
-	"details": "Подробности"
-	"viewDetails": "Просмотреть детали"
-	"join": "Присоединиться"
-	"lastSeen": "Последний раз в сети"
-	"ago": ":time: Назад"
-	"never": "Никогда"
-	"now": "Сейчас"
-	"back" : "Назад"
-	"save": "Сохранить"
-	"deleteFaction": "Удалить фракцию"
-	"deleteRank": "Удалить ранг"
-	"leave": "Выйти"
-	"leaveFaction": "Выйти с фракции"
-	"accept": "Подтвердить"
-	"deny": "Отказаться"
-	"cancel": "Отмена"
-	"clickToAdd": "Нажмите чтобы добавить"
-	"visual": "Визуализация"
-	"members": "Участники"
-	"actions": "Действия"
+	"deleteRankPrompt": "Вы уверены, что хотите удалить ранг :rank:? Это действие будет необратимым!",
+	"deleteFactionPrompt": "Вы уверены, что хотите удалить фракцию :faction:? Это действие будет необратимым!",
+	"disbandFactionPrompt": "Вы уверены, что хотите распустить свою фракцию? Это действие будет необратимым!",
+	"disbandFaction":"Расформировать фракцию",
+	"switch": "Сменить",
+	"switchType": "Сменить тип фракции",
+	"switchTypePrompt": "Вы уверены, что хотите сменить тип фракции? Все фракции будут удалены! Ваш сервер будет перезагружен после смены типа!",
+	"restartingIn": "Перезапуск сервера через: время: секунды!",
+	"changingJobRestricted": "У вас нет доступа к этой работе!",
+	"upgradePurchased":"Вы приобрели обновление :name!",
+	"inviteMember": "Пригласить нового участника",
+	"factionInvite": "Приглашение фракции",
+	"invitedTo": "Вас пригласили",
+	"memberCount": ":x:/:total: участников",
+	"factionCount": ":x: фракций",
+	"unlock": "Разблокировать",
+	"neededToUnlock": "Необходимо для разблокировки",
+	"details": "Подробности",
+	"viewDetails": "Просмотреть детали",
+	"join": "Присоединиться",
+	"lastSeen": "Последний раз в сети",
+	"ago": ":time: Назад",
+	"never": "Никогда",
+	"now": "Сейчас",
+	"back" : "Назад",
+	"save": "Сохранить",
+	"deleteFaction": "Удалить фракцию",
+	"deleteRank": "Удалить ранг",
+	"leave": "Выйти",
+	"leaveFaction": "Выйти с фракции",
+	"accept": "Подтвердить",
+	"deny": "Отказаться",
+	"cancel": "Отмена",
+	"clickToAdd": "Нажмите чтобы добавить",
+	"visual": "Визуализация",
+	"members": "Участники",
+	"actions": "Действия",
 	
-	"manage": "Управление"
-	"disband": "Расформировать"
-	"delete": "Удалить"
+	"manage": "Управление",
+	"disband": "Расформировать",
+	"delete": "Удалить",
 
-	"loading": "Загрузка..."
+	"loading": "Загрузка...",
 
-	"searchByName": "Поиск по имени"
+	"searchByName": "Поиск по имени",
 
-	"kickMember": "Выгнать участника" 
-	"kickMemberPrompt": "Вы уверены что хотите выгнать :name: из :faction:?"
+	"kickMember": "Выгнать участника",
+	"kickMemberPrompt": "Вы уверены что хотите выгнать :name: из :faction:?",
 
-	"cantAfford": "Вы не можете это сделать!"
+	"cantAfford": "Вы не можете это сделать!",
 
-	"staticFactionsContent": "Участники персонала могут создавать фракции и решать, кто будет лидером и какие права есть у каждого ранга."
-	"dynamicFactionsContent": "Игроки могут создать свою фракцию и иметь полный контроль над ней. Никто не скажет им, как ею руководить."
+	"staticFactionsContent": "Участники персонала могут создавать фракции и решать, кто будет лидером и какие права есть у каждого ранга.",
+	"dynamicFactionsContent": "Игроки могут создать свою фракцию и иметь полный контроль над ней. Никто не скажет им, как ею руководить.",
 
-	"xp_npckilled": "Персонаж умер"
-	"xp_npckilled_desc": "Сколько опыта вы получаете за убийство NPC"
+	"xp_npckilled": "Персонаж умер",
+	"xp_npckilled_desc": "Сколько опыта вы получаете за убийство NPC",
 
-	"xp_territorycapped": "Точка захвачена"
-	"xp_territorycapped_desc": "Сколько опыта вы получаете за захват точки"
+	"xp_territorycapped": "Точка захвачена",
+	"xp_territorycapped_desc": "Сколько опыта вы получаете за захват точки",
 
-	"xp_territoryminute": "Удерживайте точку"
-	"xp_territoryminute_desc": "Сколько опыта вы получаете за каждую точку захвата в минуту"
+	"xp_territoryminute": "Удерживайте точку",
+	"xp_territoryminute_desc": "Сколько опыта вы получаете за каждую точку захвата в минуту",
 
-	"xp_playtime": "Продолжительность"
-	"xp_playtime_desc": "Сколько опыта вы получаете за какой период времени"
+	"xp_playtime": "Продолжительность",
+	"xp_playtime_desc": "Сколько опыта вы получаете за какой период времени",
 
-	"experience": "Опыт"
-	"commands": "Команды"
-	"xpmodules": "Модуль опыта"
-	"invites": "Приглашения"
-	"capturepoints": "Точки захвата"
-	"upgrades": "Улучшения"
-	"upgradetree": "Дерево улучшений" 
-	"upgradepoints": "Очки улучшений"
+	"experience": "Опыт",
+	"commands": "Команды",
+	"xpmodules": "Модуль опыта",
+	"invites": "Приглашения",
+	"capturepoints": "Точки захвата",
+	"upgrades": "Улучшения",
+	"upgradetree": "Дерево улучшений",
+	"upgradepoints": "Очки улучшений",
 
-	"selectPointToView": "Выберите обновление, чтобы просмотреть информацию о нем ... "
+	"selectPointToView": "Выберите обновление, чтобы просмотреть информацию о нем ... ",
 
-	"settings_language": "Язык"
-	"settings_language_desc": "На каком языке следует использовать VoidFactions?"
+	"settings_language": "Язык",
+	"settings_language_desc": "На каком языке следует использовать VoidFactions?",
 
-	"settings_menucommand": "Меню команд"
-	"settings_menucommand_desc": "Какая команда будет использоваться для открытия меню?"
+	"settings_menucommand": "Меню команд",
+	"settings_menucommand_desc": "Какая команда будет использоваться для открытия меню?",
 
-	"settings_maxtaglength": "Максимальная длина тега"
-	"settings_maxtaglength_desc": "Продолжительность тега фракции"
+	"settings_maxtaglength": "Максимальная длина тега",
+	"settings_maxtaglength_desc": "Продолжительность тега фракции",
 
-	"settings_defaultrankname": "Имя владельца по умолчанию"
-	"settings_defaultrankname_desc": "Как будет называться ранг владельца по умолчанию?"
+	"settings_defaultrankname": "Имя владельца по умолчанию",
+	"settings_defaultrankname_desc": "Как будет называться ранг владельца по умолчанию?",
 
-	"settings_defaultmaxmembers": "Максимальное количество участников по умолчанию"
-	"settings_defaultmaxmembers_desc": "Какое максимальное количество участников стартовой фракции?"
+	"settings_defaultmaxmembers": "Максимальное количество участников по умолчанию",
+	"settings_defaultmaxmembers_desc": "Какое максимальное количество участников стартовой фракции?",
 
-	"settings_defaultmaxitems": "Максимальное количество товаров по умолчанию"
-	"settings_defaultmaxitems_desc": "Какое максимальное количество предметов у стартовой фракции?"
+	"settings_defaultmaxitems": "Максимальное количество товаров по умолчанию",
+	"settings_defaultmaxitems_desc": "Какое максимальное количество предметов у стартовой фракции?",
 
-	"settings_factioncreatecost": "Стоимость создания фракции"
-	"settings_factioncreatecost_desc": "Сколько будет стоить создание фракции?"
+	"settings_factioncreatecost": "Стоимость создания фракции",
+	"settings_factioncreatecost_desc": "Сколько будет стоить создание фракции?",
 
-	"settings_factioncreatecurrency": "Валюта для создания фракции"
-	"settings_factioncreatecurrency_desc": "Какую валюту использовать для создания фракции?"
+	"settings_factioncreatecurrency": "Валюта для создания фракции",
+	"settings_factioncreatecurrency_desc": "Какую валюту использовать для создания фракции?",
 
-	"settings_promotecanselect": "Выберите фракцию для продвижения"
-	"settings_promotecanselect_desc": "Можно ли выбрать конкретную фракцию при переходе между фракциями?"
+	"settings_promotecanselect": "Выберите фракцию для продвижения",
+	"settings_promotecanselect_desc": "Можно ли выбрать конкретную фракцию при переходе между фракциями?",
 
-	"settings_menubind": "Связка клавиш для вызова меню"
-	"settings_menubind_desc": "Какая клавиша будет использоваться для открытия меню?"
+	"settings_menubind": "Связка клавиш для вызова меню",
+	"settings_menubind_desc": "Какая клавиша будет использоваться для открытия меню?",
 
-	"settings_depositcurrency": "Валюта депозита"
-	"settings_depositcurrency_desc": "В какой валюте делать депозиты?"
+	"settings_depositcurrency": "Валюта депозита",
+	"settings_depositcurrency_desc": "В какой валюте делать депозиты?",
 
-	"settings_depositinventory": "Инвентарь депозитов"
-	"settings_depositinventory_desc": "Какой инвентарь использовать для депозитов?"
+	"settings_depositinventory": "Инвентарь депозитов",
+	"settings_depositinventory_desc": "Какой инвентарь использовать для депозитов?",
 
-	"settings_inviteduration": "Срок действия приглашения"
-	"settings_inviteduration_desc": "Как долго приглашение будет оставаться активным? (Секунды)"
+	"settings_inviteduration": "Срок действия приглашения",
+	"settings_inviteduration_desc": "Как долго приглашение будет оставаться активным? (Секунды)",
 
-	"settings_pointrenderdist": "Дистанция прорисовки" 
-	"settings_pointrenderdist_desc": "Как далеко должна нарисоваться точка захвата?"
+	"settings_pointrenderdist": "Дистанция прорисовки" ,
+	"settings_pointrenderdist_desc": "Как далеко должна нарисоваться точка захвата?",
 
-	"settings_showpointdistances": "Показать расстояние"
-	"settings_showpointdistances_desc": "Следует ли отображать расстояния до точек захвата?"
+	"settings_showpointdistances": "Показать расстояние",
+	"settings_showpointdistances_desc": "Следует ли отображать расстояния до точек захвата?",
 
-	"settings_pointcaptime": "Время захвата"
-	"settings_pointcaptime_desc": "Сколько времени нужно, чтобы захватить точку? (Секунды)"
+	"settings_pointcaptime": "Время захвата",
+	"settings_pointcaptime_desc": "Сколько времени нужно, чтобы захватить точку? (Секунды)",
 
-	"settings_baselevelupxp": "Повышение уровня"
-	"settings_baselevelupxp_desc": "Сколько опыта нужно для повышения уровня?"
+	"settings_baselevelupxp": "Повышение уровня",
+	"settings_baselevelupxp_desc": "Сколько опыта нужно для повышения уровня?",
 
-	"settings_levelupmultiplier": "Множитель повышения уровня"
-	"settings_levelupmultiplier_desc": "Насколько увеличится необходимый опыт?"
+	"settings_levelupmultiplier": "Множитель повышения уровня",
+	"settings_levelupmultiplier_desc": "Насколько увеличится необходимый опыт?",
 
-	"settings_maxlevel": "Максимальный уровень"
+	"settings_maxlevel": "Максимальный уровень",
 	"settings_maxlevel_desc": "Какого максимального уровня вы можете достичь?"
 }

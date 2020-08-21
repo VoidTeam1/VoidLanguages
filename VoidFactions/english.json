@@ -224,6 +224,10 @@
     "upgr_desc_capturetime": "Decreases the point capture time.",
     "upgr_descval_capturetime": "How much seconds to substract from the capture time?",
 
+    "upgr_longercapture": "Longer capture time",
+    "upgr_desc_longercapture": "Your capture points will take longer to capture.",
+    "upgr_descval_longercapture": "How much seconds to add to the capture time for enemies?",
+
     "success": "Success",
     "error": "Error",
     "info": "Info",

@@ -396,7 +396,7 @@
     "settings_language_desc": "Milyen nylevet használjon a VoidFactions?",
 
     "settings_menucommand": "Menu parancs",
-    "settings_menucommand_desc": Mi a kommand a menü megynitásához",
+    "settings_menucommand_desc": "Mi a kommand a menü megynitásához",
 
     "settings_maxtaglength": "Max tag hossz",
     "settings_maxtaglength_desc": "Miylen hosszú lehet a tag?",

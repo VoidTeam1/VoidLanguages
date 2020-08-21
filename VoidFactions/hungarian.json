@@ -1,0 +1,451 @@
+{
+    "profile": "Profil",
+    "level": "Szint",
+    "rank": "Rang",
+    "deposit": "Betét",
+    "rewards": "Jutalom",
+
+    "lastPromote": "Utolsó előléptetés",
+    "autoPromote": "Auto előléptetés",
+    "rankTemplate": "Rang sablon",
+    "nextAutoPromote": "Következő auto előléptetés",
+    "joined": "Belépett",
+    "sessionPlaytime": "Jelenlegi játékidő",
+    "totalPlaytime": "Teljes játékidő",
+    "factionJoined": "Klán belépett",
+
+    "balance": "Egyenleg:",
+    "itemCount": ":x:/:max: tárgyak",
+
+    "transactionHistory": "Utalás történelem",
+
+    "withdraw": "Felvevés",
+
+    "currentJob": "Jelenlegi munka",
+    "changeJob": "Válts munkát",
+    "changeRank": "Vátls rangot",
+
+    "assets": "Kiegészítések",
+
+    "createFaction": "Klán létrehozása",
+    "joinFaction": "Belépés a klánba",
+    
+    "createFactionOrJoin": "Hozz létre vagy lépj be egy klánba",
+    "noFactionText": "Vagy létrehozhat egy új frakciót, és annak főnöke lehet, vagy csatlakozhat egy meglévőhöz.",
+    "factionCreateCost": "Egy új klán létrehozásának az ára  :color: :money:.",
+
+    "select": "Válassz",
+    "create": "Létrehoz",
+
+    "factions": "Klánok",
+    "dynamic": "Dinamikus",
+    "static": "Statikus",
+
+    "setup": "beálítás",
+    "options": "Beállítások",
+
+    "levelUp": "Szint lépés!",
+    "levelUpMsg": "Mostmár ezen a szinten vagy :level:",
+
+    "chooseMode": "Válassz módot",
+    "chooseFaction": "Válassz klánt",
+
+    "suitedForSerious": "Komoly rphez való.",
+    "suitedForNonSerious": "Nem komoly rphez való",
+
+    "addFaction": "Adj hozzá ú klánt",
+    "addRank": "Új rang létrehozása",
+    "addMember": "Tag hozzáadása",
+
+    "newFaction": "Új klán",
+    "newRank": "Új rank",
+
+    "faction": "Klám",
+    "factionName": "Klán név",
+
+    "editFaction": "Szerkeszted ezt a klánt: :name:",
+    "editRank": "Szerkeszted ezt a rangot :name:",
+    "editUpgrade": "Szerkeszted ezt a fejlesztést :name:",
+    "editReward": "Szerkeszted ezt a jutalmat :name:",
+
+    "reward": "Jutalom",
+
+    "general": "Alap",
+    "permissions": "Jogok",
+    "member": "Tag",
+
+    "name": "Név",
+    "description": "Leírás",
+    "factionTag": "Klán tag",
+    "subfactionOf": "Alklán ki",
+    "factionColor": "Klán szín",
+    "icon": "Ikon",
+    "factionIcon": "Klán ikon",
+    "maxMembers": "Max tagok",
+
+    "canCaptureTerritory": "Elfoglalhat zászlót",
+    "showOnBoard": "Mutasd a táblán",
+    "inviteRequired": "Meghiívás kell hozzá",
+    "isDefaultFaction": "alap klán",
+
+    "inviteOnly": "Csak meghívással",
+
+    "noRanksAvailable": "Nincs elérhető rang!",
+    "none": "Semmilyen",
+
+    "rankTag": "Rang név",
+    "job": "Munka",
+
+    "ranking": "Rangok",
+    "totalUpgrades": "Fejlesztések",
+
+    "showingPagination": "Mutatva :from:-:to:",
+    "page": "Oldal",
+    "from": "tól",
+
+    "createUpgrade": "Fejlesztés készítése",
+    "deleteUpgrade": "Dfejlesztés törlése",
+
+    "createReward": "Jutalom készítés",
+    "deleteReward": "Jutalom törlése",
+
+    "upgradeModule": "fejlesztési modul",
+    "rewardModule": "Jutalom modul",
+    "moduleValue": "Modul érték",
+
+    "tools": "Ezközök",
+
+    "upgradeCount": ":x: Fejlesztések",
+    "rewardCount": ":x: Jutalmak",
+
+    "price": "Ár",
+
+    "you": "Te",
+
+    "kick": "Kirugás",
+    "inviteMembers": "Meghívás",
+    "kickMembers": "Játékos kirugása",
+
+    "promoteMembers": "Előléptetés",
+    "demoteMembers": "Hátraléptetés",
+
+    "setRanks": "Rang beállítás",
+
+    "manageFaction": "Klán menedzselés",
+    "purchaseUpgrades": "Fejlesztés vásárlás",
+
+    "canWithdrawMoney": "Pénz felvétel",
+    "canDepositMoney": "Pénz berakás",
+    "canWithdrawItems": "Tárgy kivétel",
+    "canDepositItems": "Tárgy berakása",
+
+    "depositMoney": "Pénz berakás",
+    "withdrawMoney": "Pénz felvétel",
+
+    "depositMoneyText": "Ird be a pénz összeget amit be szeretnél berakni.",
+    "withdrawMoneyText": "Ird be a pénzt amit ki szeretnél kivenni.",
+
+    "yes": "Igen",
+    "no": "Nem",
+
+    "onlyFactionMembers": "Csak klán tagoknak ",
+    "factionAndSubfactions": "Klánok és alkánok",
+    "minimumLevel": "Minimum szint",
+
+    "upgradeCreated": "Fejlesztés létrehozva :name:!",
+    "upgradeDeleted": "Fejlesztés törölve :name:!",
+    "upgradeEdited": "Fejlesztés szerkesztve :name:!",
+    "deleteUpgradePrompt": "Biztos törlöd :upgrade:? Nem visszavonható!",
+
+    "rewardCreated": "Jutalom létrehozva :name:!",
+    "rewardDeleted": "Jutalom törölve :name:!",
+    "rewardEdited": "Jutalom szerkesztve :name:!",
+    "deleteRewardPrompt": "Biztos törlöd :upgrade:? Nem visszavonható",
+
+    "moveTool": "Mozgató ezköz",
+    "connectorTool": "kötő ezköz",
+    "addUpgrade": "Új fejlesztés",
+
+    "moneyRewarded": "Pénz odaadve",
+    "xpRewarded": "XP jutalom",
+
+    "reward_pointscaptured": "Pont elvéve",
+    "reward_desc_pointscaptured": "Menyi pont kell a feloldáshoz?",
+
+    "reward_itemsdeposited": "Tárgyak berakva",
+    "reward_desc_itemsdeposited": "Mennyi tárgy lehet benne?",
+
+    "reward_moneydeposited": "Mennyi pénz lehet berakva",
+    "reward_desc_moneydeposited": "Menyi pénz lehet berakva?",
+
+    "reward_upgradesdeposited": "Fejlesztések berakva",
+    "reward_desc_upgradesdeposited": "Mennyi fejlesztés lehet berakva?",
+
+    "reward_membersjoined": "Tagok belépve",
+    "reward_desc_membersjoined": "Mennyi tag lehet bent egy klánban?",
+
+    "upgr_speedboost": "Sebbeség fejlesztés",
+    "upgr_desc_speedboost": "Fejleszti a sebességed.",
+    "upgr_descval_speedboost": "Mennyivel gyorsabb %?",
+
+    "upgr_weapon": "Örök fegyver",
+    "upgr_desc_weapon": "Egy örök fegyvert ad.",
+    "upgr_descval_weapon": "Mi a fegyver osztálya?",
+
+    "upgr_jumpboost": "Ugrás fejlesztés",
+    "upgr_desc_jumpboost": "Fejleszti az ugrást.",
+    "upgr_descval_jumpboost": "Mennyivel nagyobbat ugorhat %?",
+
+    "upgr_morehp": "Több élet",
+    "upgr_desc_morehp": "Fejleszti az életet.",
+    "upgr_descval_morehp": "Mennyivel fejlesztési az életet %?",
+
+    "upgr_morearmor": "Több pajzs",
+    "upgr_desc_morearmor": "Fejleszti a pajzsot",
+    "upgr_descval_morearmor": "Mennyivel fejleszti a pajzsot %?",
+
+    "upgr_memberdmgreduce": "Tag sebzés csökkentés",
+    "upgr_desc_memberdmgreduce": "Csökkenti a sebzését a tagoknak.",
+    "upgr_descval_memberdmgreduce": "Mennyire csökkentse a sebzést %?",
+
+    "upgr_lockpickspeed": "Gyorsabb feltörés",
+    "upgr_desc_lockpickspeed": "A feltörési sebességet gyorsítja.",
+    "upgr_descval_lockpickspeed": "Mennyi legyen a felörési idő? %? (0-100%)",
+
+    "upgr_maxmembers": "Max tagok",
+    "upgr_desc_maxmembers": "Megemeli a max tagok számát.",
+    "upgr_descval_maxmembers": "Mennyi max tag legyen??",
+
+    "upgr_maxitems": "Max tárgyak",
+    "upgr_desc_maxitems": "Megemeli a tárgyak limitjét.",
+    "upgr_descval_maxitems": "Mennyi a max tárgy  ?",
+
+    "upgr_capturetime": "Elfoglalási idő",
+    "upgr_desc_capturetime": "Csökkenti a zaelfoglalási időt.",
+    "upgr_descval_capturetime": "Mennyi időt vonjon le?",
+
+    "success": "Siker",
+    "error": "Hiba ",
+    "info": "Info",
+
+    "properties": "Tulajdonságok",
+
+    "factionCreated": "Klán :name: létrehozva!",
+    "factionUpdated": "Klán :name: szerkesztve!",
+    "factionDeleted": "Klán :name:törölve!",
+    "memberCountDemoted": "(:count: tagok leléptetve)",
+
+    "rankCreated": "Rang :name: létrehozva!",
+    "rankUpdated": "Rang :name: szerkesztve!",
+    "rankDeleted": "Rang :name: törölve!",
+    "maxRanksCreated": "A  :name: rangot nem lehet lrehozni mivel a limit (:limit:) betelt!",
+    "maxFactionsCreated": "Nem lehet létrehozni a klánt  :name:a limit betelet (:limit:)!",
+    "membersInRankErr": "Nem lehet törölni :name: rangot mivel tagok vannak benne akiket nem lehet leléptetni!",
+
+    "memberInvited": ":name:Sikerresen meghívva  :faction: klánba!",
+    "memberInvitePending": ":name: Van már meghivója!",
+    "memberInviteAccepted": ":name: elfogadta a meghívásod!",
+
+    "memberJoinedFaction": "Beléptél :faction:",
+    "memberLeftFaction": "Kiléptél :faction:",
+
+    "memberKicked": ":name: kirugva!",
+    "memberAdded": ":name: hozzáadva a  :faction:!",
+
+    "itemDeposited": "Tárgy berakva: :name:!",
+    "itemWithdrawn": "Tárgy kivéve :name:!",
+
+    "moneyDeposited": "Pénz berakva :money:!",
+    "moneyWithdrawn": "Pénz kivéve :money:!",
+
+    "noFactionMoney": "Nincs elég pénz !",
+
+    "memberRankChanged": ":name: nek beállitva a rangja erre: :rank:!",
+    "memberPromoted": ":name: előléptetve :rank:!",
+    "memberDemoted": ":name: leléptetve :rank:!",
+
+    "youPromoted": "Elő lettél léptetve :rank:!",
+    "youDemoted": "Lel lettél léptetve :rank:!",
+    "youRankChanged": "A rangod beállitva  :rank:!",
+
+    "nameShort": "Túl rövid név!",
+    "nameLong": "Túl hosszú név!",
+    "tagShort": "Túl rövid tag !",
+    "tagLong": "TTúl hosszű tag!",
+    "maxMembersLimit": "Max tagok túl nagy!",
+    "noJobs": "Nincsenek munkák hozzáadva !",
+
+    "maxMembersErr": "A klán tele!",
+    "maxRankMembersErr": "A rang tele!",
+    "minLevelErr": "Nincs elég szinted!",
+
+    "nothingToShow": "Semmi nincs megmutatni!",
+    "thereAreNoMembers": "Nincsennek tagok!",
+
+    "capturePoint": "Zászló elfoglalása",
+    "capturePointCreated": "Pont lérehozva !",
+    "capturePointDeleted": "Pont törölve!",
+    "capturePointContested": "Pont vitatva",
+    "capturing": "Elfoglalása",
+    "paused": "Megállítva",
+    "claimed": "Elfoglalva",
+    "notClaimed": "Nincs elfoglalva",
+
+    "pointCapturedByEnemies": "elfoglalják a pontod!",
+
+    "unlockedReward": "Jutalom :reward: felnyitva!",
+
+    "cantJoinNoDefaultFactions": "Alap klánk ! Csinálj egyet és lépj be újra.",
+    "noDefaultFactions": "Nincs alap klán csinálj egyet!",
+
+    "deleteRankPrompt": "Biztos törlöd :rank:? !",
+    "deleteFactionPrompt": "Biztos akarod törölnin :faction:? ",
+    "disbandFactionPrompt": "Biztos el akarod hagyni a klánod?!",
+
+    "disbandFaction": "Klán elhagyása",
+
+    "switch": "Váltás",
+    "switchType": "Frakció típus váltás",
+    "switchTypePrompt": "Biztos cserélni akarod ezt nem tudod visszavonni! !",
+    "restartingIn": "Szerever újraindítás  :time: másodperc!",
+
+    "changingJobRestricted": "Nincs ehhez a munkához jogod!",
+
+    "upgradePurchased": "Megvetted a fejlesztést :name:!",
+
+    "inviteMember": "Új tag meghívása",
+
+    "factionInvite": "Klán meghívás",
+    "invitedTo": "Meghívtak",
+
+    "memberCount": ":x:/:total: tagok",
+    "factionCount": ":x: klánok",
+
+    "unlock": "Feloldás",
+    "neededToUnlock": "fel kell oldani",
+    "details": "Részletek",
+    "viewDetails": "Részleten megnézéses",
+    "join": "Belépés",
+    "lastSeen": "Utoljára látva",
+
+    "ago": ":time: ideje",
+    "never": "soha",
+    "now": "most",
+
+    "back": "Back",
+
+    "save": "mentés",
+    "deleteFaction": "Klán törlése",
+    "deleteRank": "Rang törlése",
+
+    "leave": "Kilépés",
+    "leaveFaction": "Lépj ki a klánból",
+
+    "accept": "Elfogad",
+    "deny": "Elutasít",
+    
+    "cancel": "Mégse",
+
+    "clickToAdd": "Hozzáad",
+
+    "visual": "Vizuál",
+
+    "members": "Tagok",
+    "actions": "Actions",
+
+    "manage": "Menedzselés",
+    "disband": "Elhagy",
+    "delete": "Töröl",
+
+    "loading": "Töltés...",
+
+    "searchByName": "Név általi keresés",
+
+    "kickMember": "Tag kirugása",
+    "kickMemberPrompt": "ABiztos vagy hogy :name: kirugod innen:faction:?",
+
+    "cantAfford": "Nincs elég pénzed!",
+
+    "staticFactionsContent": "Adminok látrehozhatnak tartalmakat.",
+    "dynamicFactionsContent": "Játékosok létrehozhatják a saját a saját klánjukat.",
+
+    "xp_npckilled": "NPC ölések",
+    "xp_npckilled_desc": "Mennyi xpzt kapsz egy npc ölésért",
+
+    "xp_territorycapped": "Pont elfoglalva",
+    "xp_territorycapped_desc": "Mennyi xpt kapsz egy pont elfogláláséért ",
+
+    "xp_territoryminute": "Pont tartásag",
+    "xp_territoryminute_desc": "Mennyi xpt kapsz egy pont tartásáért",
+
+    "xp_playtime": "Játékidő",
+    "xp_playtime_desc": "Mennyi xpt kapsz a játékidőért",
+
+    "experience": "Tapasztalat",
+    "commands": "Parancsok",
+    "xpmodules": "XP Modulok",
+    "invites": "Meghívók",
+    "capturepoints": "Capture Points",
+    "upgrades": "Fejlesztések",
+    "upgradetree": "Fejlesztés fa",
+    "upgradepoints": "Upgrade Points",
+
+    "selectPointToView": "SVálasz ki valakit az infoáért...",
+
+    "settings_language": "Nylev",
+    "settings_language_desc": "Milyen nylevet használjon a VoidFactions?",
+
+    "settings_menucommand": "Menu parancs",
+    "settings_menucommand_desc": Mi a kommand a menü megynitásához",
+
+    "settings_maxtaglength": "Max tag hossz",
+    "settings_maxtaglength_desc": "Miylen hosszú lehet a tag?",
+
+    "settings_defaultrankname": "Alap tulaj rang név",
+    "settings_defaultrankname_desc": "Mi az alap tulaj rang név?",
+
+    "settings_defaultmaxmembers": "Alap max tagok",
+    "settings_defaultmaxmembers_desc": "Max tagok?",
+
+    "settings_defaultmaxitems": "Alap max tárgyak",
+    "settings_defaultmaxitems_desc": "Alap max tárgyak?",
+
+    "settings_factioncreatecost": "Klán készítés árat",
+    "settings_factioncreatecost_desc": "Mennyi lesz egy kán készítés ára?",
+
+    "settings_factioncreatecurrency": "Pénzneme:",
+    "settings_factioncreatecurrency_desc": "Mineyl pénznemet használjon?",
+
+    "settings_promotecanselect": "SKlán előreléptetése",
+    "settings_promotecanselect_desc": "Lehet választani melyiket léptesd előre?",
+
+    "settings_menubind": "Menü gomb",
+    "settings_menubind_desc": "Mi nyitja meg a menüt?",
+
+    "settings_depositcurrency": "Pénzem berakása",
+    "settings_depositcurrency_desc": "Milyen pénznemet használjon?",
+
+    "settings_depositinventory": "A hátizsák berakás",
+    "settings_depositinventory_desc": "Milyen hátizsákot rakjon be?",
+
+    "settings_inviteduration": "Meghívó idő",
+    "settings_inviteduration_desc": "Mennyi legyen a meghívó idő? (másodperc)",
+
+    "settings_pointrenderdist": "Számolási távolság",
+    "settings_pointrenderdist_desc": "Milyen messzire látszódjon a pont?",
+
+    "settings_showpointdistances": "Mutasd a távolságot",
+    "settings_showpointdistances_desc": "Mutassa e a pontok távolságát?",
+
+    "settings_pointcaptime": "Foglalási idő",
+    "settings_pointcaptime_desc": "Mennyi idő elfoglalni a pontot? (másodperc)",
+
+    "settings_baselevelupxp": "Szint lépő xp",
+    "settings_baselevelupxp_desc": "Mennyi xp kell a szint lépéshez ?",
+
+    "settings_levelupmultiplier": "Szint lépés többszöröző",
+    "settings_levelupmultiplier_desc": "Mennyivel többszörözze a szint lépést?",
+
+    "settings_maxlevel": "Max szint",
+    "settings_maxlevel_desc": "Mi a max szint?"
+}

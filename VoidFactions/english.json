@@ -142,6 +142,8 @@
     "depositMoney": "Deposit money",
     "withdrawMoney": "Withdraw money",
 
+    "promoteDefaultRanks": "Promote default ranks",
+
     "depositMoneyText": "Enter the amount of money you would like to deposit.",
     "withdrawMoneyText": "Enter the amount of money you would like to withdraw.",
 
@@ -419,6 +421,9 @@
 
     "settings_factioncreatecurrency": "Faction creation currency",
     "settings_factioncreatecurrency_desc": "What currency should be used for creating a faction?",
+
+    "settings_upgradesenabled": "Upgrades enabled",
+    "settings_upgradesenabled_desc": "Should faction upgrades be enabled in static factions?",
 
     "settings_promotecanselect": "Select faction on promote",
     "settings_promotecanselect_desc": "Can select specific faction on promote between factions?",

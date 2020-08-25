@@ -361,7 +361,8 @@
 
     "searchByName": "İsme göre ara",
 
-    "kickMember": "Üyeyi şutla": "Şu kişiyi fraksiyondan şutlamak istediğinden emin misin :name: from :faction:?",
+    "kickMember": "Üyeyi şutla",
+    "kickMemberPrompt": "Şu kişiyi fraksiyondan şutlamak istediğinden emin misin :name: from :faction:?",
 
     "cantAfford": "Bunu karşılayamıyorsun!",
 

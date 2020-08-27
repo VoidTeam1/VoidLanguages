@@ -129,7 +129,7 @@
     "promoteMembers": "Üyeleri yükselt",
     "demoteMembers": "Üyelerin derecesini düşür",
 
-    "setRanks": "	Sıraları belirleyin",
+    "setRanks": "Sıraları belirleyin",
 
     "manageFaction": "Fraksiyonunu yönet",
     "purchaseUpgrades": "Yükseltmeleri satın alın",
@@ -315,7 +315,7 @@
 
     "inviteMember": "Yeni bir üye davet et",
 
-    "factionInvite": "Fraksiyon daveti"
+    "factionInvite": "Fraksiyon daveti",
     "invitedTo": "Davet edildin",
 
     "memberCount": ":x:/:total: üye",

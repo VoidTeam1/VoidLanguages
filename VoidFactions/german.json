@@ -15,7 +15,7 @@
     "factionJoined": "Fraktion beigetreten",
 
     "balance": "Konto:",
-    "itemCount": ":x:/:max: Gegenstände",
+    "itemCount": ":x:/:max: GEGENSTÄNDE",
 
     "transactionHistory": "Transaktionslog",
 
@@ -25,12 +25,12 @@
     "changeJob": "Wechsle Beruf",
     "changeRank": "Ändere Rang",
 
-    "assets": "Vermögenswerte",
+    "assets": "VERMÖGEN",
 
     "createFaction": "Fraktion erstellen",
     "joinFaction": "Fraktion beitreten",
     
-    "createFactionOrJoin": "Erstelle eine Fraktion oder trete einer bei",
+    "createFactionOrJoin": "INFORMATION ZU DEN FRAKTIONEN",
     "noFactionText": "Du kannst entweder eine neue Fraktion gründen und deren Leiter sein oder dich einer bestehenden Fraktion anschließen",
     "factionCreateCost": "Das Erstellen einer Fraktion kostet :color: :money:.",
 
@@ -47,14 +47,14 @@
     "levelUp": "Level aufgestiegen!",
     "levelUpMsg": "Du bist jetzt Level :level:",
 
-    "chooseMode": "Wähle deinen Modus",
-    "chooseFaction": "Wähle deine Fraktion",
+    "chooseMode": "WÄHLE deinen Modus",
+    "chooseFaction": "WÄHLE deine Fraktion",
 
     "suitedForSerious": "Geeignet für SeriousRP",
     "suitedForNonSerious": "Geeignet für Non-SeriousRP",
 
     "addFaction": "Erstelle eine neue Fraktion",
-    "addRank": "Erstelle einen neuen Rang",
+    "addRank": "Neuer Rang",
     "addMember": "Mitglied hinzufügen",
 
     "newFaction": "Neue Fraktion",
@@ -76,7 +76,7 @@
 
     "name": "Name",
     "description": "Beschreibung",
-    "factionTag": "Fraktionskürzel",
+    "factionTag": "FRAKTIONSKÜRZEL",
     "subfactionOf": "Unterfraktion von",
     "factionColor": "Fraktionsfarbe",
     "icon": "Symbol",
@@ -85,7 +85,7 @@
 
     "canCaptureTerritory": "Kann Gebiet erobern",
     "showOnBoard": "Am Board anzeigen",
-    "inviteRequired": "Erfordert eine Einladung zum Beitritt",
+    "inviteRequired": "Beitritt durch Einladung",
     "isDefaultFaction": "Ist die Standardfraktion",
 
     "inviteOnly": "Nur durch Einladung",
@@ -97,7 +97,7 @@
     "job": "Beruf",
 
     "ranking": "Rangfolge",
-    "totalUpgrades": "Gesamte Verbesserungen",
+    "totalUpgrades": "Upgrades",
 
     "showingPagination": "Zeige :from:-:to:",
     "page": "Seite",
@@ -169,10 +169,10 @@
     "moneyRewarded": "Mit Geld belohnt",
     "xpRewarded": "XP erhalten",
 
-    "reward_pointscaptured": "Punkte gesammelt",
-    "reward_desc_pointscaptured": "Wie viele Punkte müssen insgesamt gesammelt werden, um dies freizuschalten?",
+    "reward_pointscaptured": "Eroberungspunkte",
+    "reward_desc_pointscaptured": "Wie viele Eroberungspunkte müssen eingenommen werden, um dies freizuschalten?",
 
-    "reward_itemsdeposited": "Gegenstand eingelagert",
+    "reward_itemsdeposited": "Gelagerte Gegenstände",
     "reward_desc_itemsdeposited": "Wie viele Gegenstände sollten gleichzeitig eingelagert sein, um dies freizuschalten?",
 
     "reward_moneydeposited": "Geld eingezahlt",
@@ -298,11 +298,11 @@
     "cantJoinNoDefaultFactions": "Standardfraktionen mpssen konfugiriert werden, bevor du einer Fraktion beitreten kannst. Verbinde dich erneut mit dem Server.",
     "noDefaultFactions": "Es gibt keine Standardfraktionen. Diese müssen erst eingerichtet werden!",
 
-    "deleteRankPrompt": "Bist du dir sicher, dass du den Rang :rank: löschen möchtest? Diese Aktion ist permanent!",
-    "deleteFactionPrompt": "Bist du dir sicher, dass du die Fraktion :faction: löschen möchtest? Diese Aktion ist permanent!",
-    "disbandFactionPrompt": "Bist du dir sicher, dass du diese Fraktion auflöschen möchtest? Diese Aktion ist permanent!",
+    "deleteRankPrompt": "Bist du dir sicher, dass du den Rang :rank: löschen möchtest? Diese Aktion ist unumkehrbar!",
+    "deleteFactionPrompt": "Bist du dir sicher, dass du die Fraktion :faction: löschen möchtest? Diese Aktion ist unumkehrbar!",
+    "disbandFactionPrompt": "Bist du dir sicher, dass du deine Fraktion auflöschen möchtest? Diese Aktion ist unumkehrbar!",
 
-    "disbandFaction": "Fraktion auflösen",
+    "disbandFaction": "FRAKTION AUFLÖSEN",
 
     "switch": "Wechseln",
     "switchType": "Wechsle Fraktionstyp",
@@ -313,16 +313,16 @@
 
     "upgradePurchased": "Du hast die Verbesserung :name: gekauft!",
 
-    "inviteMember": "Lade einen neuen Spieler ein",
+    "inviteMember": "Spieler einladen",
 
     "factionInvite": "Fraktionseinladung",
-    "invitedTo": "Du wurdest  in eine Fraktion eingeladen: ",
+    "invitedTo": "Du wurdest in eine Fraktion eingeladen: ",
 
     "memberCount": ":x:/:total: Mitglieder",
     "factionCount": ":x: Fraktionen",
 
     "unlock": "Freischalten",
-    "neededToUnlock": "Muss freigeschaltet werden",
+    "neededToUnlock": "Freischaltung",
     "details": "Details",
     "viewDetails": "Details ansehen",
     "join": "Beigetreten",
@@ -332,7 +332,7 @@
     "never": "Nie",
     "now": "Jetzt",
 
-    "back": "Zurück",
+    "back": "ZURÜCK",
 
     "save": "Speichern",
     "deleteFaction": "Fraktion löschen",
@@ -354,8 +354,8 @@
     "actions": "Aktionen",
 
     "manage": "Verwalten",
-    "disband": "Auflösen",
-    "delete": "Löschen",
+    "disband": "AUFLÖSEN",
+    "delete": "LÖSCHEN",
 
     "loading": "Lade...",
 
@@ -376,7 +376,7 @@
     "xp_territorycapped_desc": "Wie viel EXP man für das Einnehmen eines Eroberungspunktes erhält",
 
     "xp_territoryminute": "Eroberungspunkt halten",
-    "xp_territoryminute_desc": "Wie viel EXP man pro Minute für das Halten eines Eroberungspunkt erhält",
+    "xp_territoryminute_desc": "Wie viel EXP pro Minute für das Halten eines Eroberungspunktes",
 
     "xp_playtime": "Spielzeit",
     "xp_playtime_desc": "Wie viel EXP du für welchen Zeitraum erhälst",
@@ -399,7 +399,7 @@
     "settings_menucommand_desc": "Welcher Befehl öffnet das Fraktionsmenü?",
 
     "settings_maxtaglength": "Max. Kürzellänge",
-    "settings_maxtaglength_desc": "`Wie lang darf ein Fraktionskürzel sein?",
+    "settings_maxtaglength_desc": "Wie lang darf ein Fraktionskürzel sein?",
 
     "settings_defaultrankname": "Standard Leiter-Name",
     "settings_defaultrankname_desc": "Wie soll standardmäßig der Leiter-Rang einer Fraktion heißen?",
@@ -408,7 +408,7 @@
     "settings_defaultmaxmembers_desc": "Was ist die standardmäßige maximale Mitgliederzahl einer Fraktion?",
 
     "settings_defaultmaxitems": "Standard max. Gegenstände",
-    "settings_defaultmaxitems_desc": "Was ist die standardmäßige maximale Anzahl an Gegenständen in einer Fraktion?",
+    "settings_defaultmaxitems_desc": "Was ist die standardmäßige maximale Anzahl an Gegenständen?",
 
     "settings_factioncreatecost": "Fraktionskosten",
     "settings_factioncreatecost_desc": "Wie viel kostet die Erstellung einer Fraktion?",

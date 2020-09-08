@@ -15,7 +15,7 @@
     "factionJoined": "Fraktion beigetreten",
 
     "balance": "Konto:",
-    "itemCount": ":x:/:max: GEGENSTÄNDE",
+    "itemCount": ":x:/:max: ITEMS",
 
     "transactionHistory": "Transaktionslog",
 
@@ -122,7 +122,7 @@
 
     "you": "Du",
 
-    "kick": "Rauswerfen",
+    "kick": "Kick",
     "inviteMembers": "Spieler einladen",
     "kickMembers": "Spieler rauswerfen",
 

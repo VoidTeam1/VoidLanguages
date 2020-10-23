@@ -456,5 +456,8 @@
     "settings_levelupmultiplier_desc": "How much will the required experience be increased?",
 
     "settings_maxlevel": "Max level",
-    "settings_maxlevel_desc": "What is the max level you can achieve?"
+    "settings_maxlevel_desc": "What is the max level you can achieve?",
+    
+    "settings_disablenametag" : "Disable Nametag",
+    "settings_disablenametag_desc" : "Disable faction nametag which is shown in the chat."
 }

@@ -423,8 +423,8 @@
     "settings_levelupmultiplier_desc": "De combien le nombre d'expérience requis sera augmenté?",
 
     "settings_maxlevel": "Niveau max",
-    "settings_maxlevel_desc": "Quel est le niveau maximum que vous pouvez atteindre?"
+    "settings_maxlevel_desc": "Quel est le niveau maximum que vous pouvez atteindre?",
 
-    "settings_disablenametag" : "Désactiver les noms",
+    "settings_disablenametag": "Désactiver les noms",
     "settings_disablenametag_desc" : "Désactiver les noms de factions affichés dans le chat."
 }

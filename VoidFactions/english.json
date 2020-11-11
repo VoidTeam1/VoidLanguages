@@ -190,6 +190,10 @@
     "upgr_desc_speedboost": "Increases the players movement speed.",
     "upgr_descval_speedboost": "How much should a player be faster in %?",
 
+    "upgr_memberhalo": "Member Halo",
+    "upgr_desc_memberhalo": "Adds the ability to see your faction-mates through walls.",
+    "upgr_descval_memberhalo": "How many meters far away can the player see through walls?",
+
     "upgr_weapon": "Permanent Weapon",
     "upgr_desc_weapon": "Gives a weapon to the player on spawn.",
     "upgr_descval_weapon": "What is the weapon class name?",
@@ -459,5 +463,5 @@
     "settings_maxlevel_desc": "What is the max level you can achieve?",
     
     "settings_disablenametag" : "Disable Nametag",
-    "settings_disablenametag_desc" : "Disable faction nametag which is shown in the chat."
+    "settings_disablenametag_desc" : "Disable faction nametag which is shown in the chat.",
 }

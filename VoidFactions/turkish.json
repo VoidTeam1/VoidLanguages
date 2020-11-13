@@ -2,42 +2,42 @@
     "profile": "Profil",
     "level": "Seviye",
     "rank": "Rütbe",
-    "deposit": "Depozito",
+    "deposit": "Yatır",
     "rewards": "Ödüller",
 
-    "lastPromote": "Son tanıtım",
-    "autoPromote": "Otomatik tanıtım",
+    "lastPromote": "Son terfi",
+    "autoPromote": "Otomatik terfi",
     "rankTemplate": "Rütbe Şablonu",
-    "nextAutoPromote": "Sonraki otomatik tanıtım",
-    "joined": "Katılım",
+    "nextAutoPromote": "Sonraki otomatik terfi",
+    "joined": "Katıldı",
     "sessionPlaytime": "Oturum süresi",
     "totalPlaytime": "Toplam Süre",
-    "factionJoined": "Frkasiyona katıldı",
+    "factionJoined": "Oluşuma katıldı",
 
-    "balance": "Denge:",
+    "balance": "Bakiye:",
     "itemCount": ":x:/:max: ürünler",
 
     "transactionHistory": "İşlem geçmişi",
 
     "withdraw": "Çek",
 
-    "currentJob": "Şuanki Meslek",
+    "currentJob": "Şu anki Meslek",
     "changeJob": "Mesleğini değiştir",
     "changeRank": "Rütbeni değiştir",
 
     "assets": "Varlıklar",
 
-    "createFaction": "Fraksiyon oluştur",
-    "joinFaction": "Fraksiyona katıl",
+    "createFaction": "Oluşum Oluştur",
+    "joinFaction": "Oluşuma Katıl",
     
-    "createFactionOrJoin": "Bir Fraksiyon oluşturun veya birine katılın",
-    "noFactionText": "Ya yeni bir Fraksiyon oluşturabilir ve onun patronu olabilir ya da var olan birine katılabilirsiniz.",
-    "factionCreateCost": "Yeni bir Fraksiyon yaratma maliyetleri :color: :money:.",
+    "createFactionOrJoin": "Bir oluşum oluşturun veya birine katılın",
+    "noFactionText": "Yeni bir oluşum oluşturarak lideri olabilir ya da başka bir oluşuma katılabilirsiniz.",
+    "factionCreateCost": "Yeni oluşum kurmanın maliyeti :color: :money:.",
 
     "select": "Seç",
-    "create": "Kur",
+    "create": "Oluştur",
 
-    "factions": "Fraksiyonlar",
+    "factions": "Oluşumlar",
     "dynamic": "Dinamik",
     "static": "Statik",
 
@@ -53,20 +53,20 @@
     "suitedForSerious": "SeriousRP için uygundur",
     "suitedForNonSerious": "SeriousRP için uygun değildir",
 
-    "addFaction": "Yeni fraksiyon ekle",
-    "addRank": "Yeni Rütbe ekle",
+    "addFaction": "Yeni oluşum ekle",
+    "addRank": "Yeni rütbe ekle",
     "addMember": "Üye ekle",
 
-    "newFaction": "Yeni Fraksiyon",
+    "newFaction": "Yeni Oluşum",
     "newRank": "Yeni Rütbe",
 
-    "faction": "Fraksiyon",
-    "factionName": "Fraksiyon ismi",
+    "faction": "Oluşum",
+    "factionName": "Oluşum ismi",
 
-    "editFaction": "Fraksiyon'ları düzenle' :name:",
-    "editRank": "Rütbeleri düzenle:name:",
-    "editUpgrade": "Upgrade'leri düzenle:name:",
-    "editReward": "Editing reward :name:",
+    "editFaction": "Oluşumları düzenle :name:",
+    "editRank": "Rütbeleri düzenle :name:",
+    "editUpgrade": "Yükseltmeleri düzenle :name:",
+    "editReward": "Ödülleri düzenle :name:",
 
     "reward": "Ödül",
 
@@ -76,11 +76,11 @@
 
     "name": "İsim",
     "description": "Açıklama",
-    "factionTag": "Fraksiyon Tagı",
-    "subfactionOf": "Alt Fraksiyon",
-    "factionColor": "Fraksiyon Rengi",
-    "icon": "Icon",
-    "factionIcon": "Fraksiyon iconu",
+    "factionTag": "Oluşum Tagı",
+    "subfactionOf": "Alt Oluşum",
+    "factionColor": "Oluşum Rengi",
+    "icon": "İkon",
+    "factionIcon": "Oluşum İkonu",
     "maxMembers": "Maksimum Üye",
 
     "canCaptureTerritory": "Bölgeyi ele geçirebilir",

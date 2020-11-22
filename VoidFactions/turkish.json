@@ -85,12 +85,12 @@
 
     "canCaptureTerritory": "Bölgeyi ele geçirebilir",
     "showOnBoard": "Göster",
-    "inviteRequired": "Katılmak için davet gerektirir",
-    "isDefaultFaction": "Varsayılan Fraksiyon",
+    "inviteRequired": "Katılmak için davet edilmen gerekiyor",
+    "isDefaultFaction": "Varsayılan Oluşum",
 
-    "inviteOnly": "Sadece Davet ile",
+    "inviteOnly": "Sadece Davet",
 
-    "noRanksAvailable": "Mevcut Rütbe yok!",
+    "noRanksAvailable": "Mevcut rütbe yok!",
     "none": "Yok",
 
     "rankTag": "Rütbe Tagı",
@@ -99,7 +99,7 @@
     "ranking": "Sıralama",
     "totalUpgrades": "Toplam yükseltme",
 
-    "showingPagination": "Gösterilen :from:-:to:",
+    "showingPagination": ":from:'dan :to:'a gösteriliyor",
     "page": "Sayfa",
     "from": "İtibaren",
 
@@ -122,25 +122,25 @@
 
     "you": "Sen",
 
-    "kick": "Kick",
+    "kick": "At",
     "inviteMembers": "Üye davet et",
     "kickMembers": "Üye at",
 
-    "promoteMembers": "Üyeleri yükselt",
-    "demoteMembers": "Üyelerin derecesini düşür",
+    "promoteMembers": "Üyeleri terfi et",
+    "demoteMembers": "Üyelerin rütbesini düşür",
 
-    "setRanks": "Sıraları belirleyin",
+    "setRanks": "Rütbeleri ayarla",
 
-    "manageFaction": "Fraksiyonunu yönet",
-    "purchaseUpgrades": "Yükseltmeleri satın alın",
+    "manageFaction": "Oluşumu yönet",
+    "purchaseUpgrades": "Yükseltmeleri satın al",
 
     "canWithdrawMoney": "Para çek",
     "canDepositMoney": "Para yatır",
-    "canWithdrawItems": "Öğeleri çek",
-    "canDepositItems": "Öğeleri yaıtr",
+    "canWithdrawItems": "Eşya al",
+    "canDepositItems": "Eşya depola",
 
     "depositMoney": "Para Yatır",
-    "withdrawMoney": "Para çek",
+    "withdrawMoney": "Para Çek",
 
     "depositMoneyText": "Yatırmak istediğiniz para miktarını giriniz",
     "withdrawMoneyText": "Çekmek istediğiniz para miktarını giriniz",
@@ -148,8 +148,8 @@
     "yes": "Evet",
     "no": "Hayır",
 
-    "onlyFactionMembers": "Sadece Fraksiyon Üyeleri",
-    "factionAndSubfactions": "Fraksiyon ve Alt Fraksiyonlar",
+    "onlyFactionMembers": "Sadece Oluşum Üyeleri",
+    "factionAndSubfactions": "Oluşum ve Alt Oluşumlar",
     "minimumLevel": "Minimum Seviye",
 
     "upgradeCreated": "Yükseltme başarıyla oluşturuldu :name:!",
@@ -172,8 +172,8 @@
     "reward_pointscaptured": "Ele geçirilen Puan",
     "reward_desc_pointscaptured": "Bunun kilidini açmak için toplamda kaç puan ele geçirilmelidir?",
 
-    "reward_itemsdeposited": "Yatırılan Öğeler",
-    "reward_desc_itemsdeposited": "Bunun kilidini açmak için aynı anda kaç öğe yatırılmalıdır?",
+    "reward_itemsdeposited": "Depolanan Eşya",
+    "reward_desc_itemsdeposited": "Bunun kilidini açmak için aynı anda kaç eşya depolanmalıdır?",
 
     "reward_moneydeposited": "Yatırılan Para",
     "reward_desc_moneydeposited": "Bunun kilidini açmak için tek seferde ne kadar para yatırılmalı?",
@@ -230,52 +230,52 @@
 
     "properties": "Özellikleri",
 
-    "factionCreated": "Fraksiyon: name: başarıyla oluşturuldu!",
-    "factionUpdated": "Fraksiyon: name: başarıyla düzenlendi!",
-    "factionDeleted": "Fraksiyon: name: başarıyla silindi!",
+    "factionCreated": "Oluşum: name: başarıyla oluşturuldu!",
+    "factionUpdated": "Oluşum: name: başarıyla düzenlendi!",
+    "factionDeleted": "Oluşum: name: başarıyla silindi!",
     "memberCountDemoted": "(:count: üyelerin sıralaması düşürüldü))",
 
     "rankCreated": "Rank :name: başarıyla yaratıldı!",
     "rankUpdated": "Rank :name: başarıyla düzenlendi!",
     "rankDeleted": "Rank :name: başarıyla silindi!",
     "maxRanksCreated": "Rütbe yaratılamadı :name: çünkü (limit:) limite ulaşıldı!",
-    "maxFactionsCreated": "Fraksiyon yaratılamadı :name: çünkü limite (:limit:) ulaşıldı",
+    "maxFactionsCreated": "Oluşum yaratılamadı :name: çünkü limite (:limit:) ulaşıldı",
     "membersInRankErr": "Rütbe silinemedi :name: çünkü bu rütbeye sahip olan üyelerin var!",
 
     "memberInvited": "Kişi :name: başarıyla klanınıza davet edildi :faction:!",
     "memberInvitePending": "Bu kişinin  :name: halihazırda sahip olduğu bir daveti var !",
     "memberInviteAccepted": "Kişi :name: daveti kabul etti!",
 
-    "memberJoinedFaction": "Şu fraksiyona katıldın :faction:",
-    "memberLeftFaction": "Fraksiyondan ayrıldın :faction:",
+    "memberJoinedFaction": "Şu oluşuma katıldın :faction:",
+    "memberLeftFaction": "Oluşumdan ayrıldın :faction:",
 
-    "memberKicked": "Üye :name: fraksiyondan şutlandı!",
-    "memberAdded": "Üye :name: başarıyla fraksiyona katıldı :faction:!",
+    "memberKicked": "Üye :name: oluşumdan atıldı!",
+    "memberAdded": "Üye :name: başarıyla :faction: oluşumuna katıldı!",
 
-    "itemDeposited": "Bu eşya başarıyla yatırıldı :name:!",
-    "itemWithdrawn": "Bu eşya başarıyla alındı :name:!",
+    "itemDeposited": ":name: eşyası başarıyla depolandı!",
+    "itemWithdrawn": ":name: eşyası başarıyla depodan alındı!",
 
-    "moneyDeposited": "Başarıyla şu kadar para yatırdın :money:!",
-    "moneyWithdrawn": "Başarıyla şu kadar para çektin :money:!",
+    "moneyDeposited": ":money: para yatırdın!",
+    "moneyWithdrawn": ":money: para çektin!",
 
-    "noFactionMoney": "Fraksiyonun bu eylem için yeteri kadar fonu yok!",
+    "noFactionMoney": "Oluşumun bu eylem için yeteri kadar fonu yok!",
 
-    "memberRankChanged": ":name:'ın rütbesi değiştirildi :rank:!",
-    "memberPromoted": "Üye :name: başarıyla şu rütbeye terfi etti :rank:!",
-    "memberDemoted": "Üye :name: şu rütbeye düşürüldü :rank:!",
+    "memberRankChanged": ":name:'in rütbesi :rank:'e değiştirildi!",
+    "memberPromoted": "Üye :name:, :rank: rütbesine terfi etti!",
+    "memberDemoted": "Üye :name:, :rank: rütbesine düşürüldü!",
 
-    "youPromoted": "Şu rütbeye terfi ettin :rank:!",
-    "youDemoted": "Şu rütbeye düşürüldün :rank:!",
-    "youRankChanged": "Yeni rütben şu :rank:!",
+    "youPromoted": ":rank: rütbesine terfi ettin!",
+    "youDemoted": ":rank: rütbesinden tenzil edildin!",
+    "youRankChanged": "Yeni rütben :rank:!",
 
     "nameShort": "İsim çok kısa!",
     "nameLong": "İsim çok uzun!",
     "tagShort": "Tag çok kısa!",
     "tagLong": "Tag çok uzun!",
-    "maxMembersLimit": "Klanına bu kadar adam alamazsın!",
+    "maxMembersLimit": "Oluşumuna daha fazla adam alamazsın!",
     "noJobs": "Bu rütbeye bağlı bir meslek yok!",
 
-    "maxMembersErr": "Fraksiyon dolu!",
+    "maxMembersErr": "Oluşum dolu!",
     "maxRankMembersErr": "Bu rütbe dolu!",
     "minLevelErr": "Yeteri seviyeye sahip değilsin!",
 
@@ -288,38 +288,38 @@
     "capturePointContested": "İtiraz edildi",
     "capturing": "Ele geçiriliyor",
     "paused": "Duraklatıldı",
-    "claimed": "Sahipli",
-    "notClaimed": "Sahipsiz",
+    "claimed": "Ele Geçirildi",
+    "notClaimed": "Ele Geçirilmedi",
 
-    "pointCapturedByEnemies": "Bölgeni ele geçiriyolar koş!",
+    "pointCapturedByEnemies": "Bölgeni ele geçiriyolar!",
 
-    "unlockedReward": "Ödül :reward: açıldı!",
+    "unlockedReward": ":reward: ödülü açıldı!",
 
-    "cantJoinNoDefaultFactions": "Bir fraksiyona katılmadan önce fraksiyonunu yapılandır! Yap ve tekrardan bağlan.",
-    "noDefaultFactions": "Varsayılan bir fraksiyon yok! Özelleştirilmeleri gerek!",
+    "cantJoinNoDefaultFactions": "Bir oluşuma katılmadan önce oluşumunu yapılandır! Yap ve tekrardan bağlan.",
+    "noDefaultFactions": "Varsayılan bir oluşum yok! Özelleştirilmeleri gerek!",
 
-    "deleteRankPrompt": "Şu rütbeyi silmek istediğinden emin misin :rank:? Bu kalıcı olacak dünya yok bile olsa!",
-    "deleteFactionPrompt": "Fraksiyonunuzu silmek istediğinizden emin misiniz :faction:? Bu kalıcı olacak dünya yok bile olsa!",
-    "disbandFactionPrompt": "Fraksiyonunu dağıtmak istiyor musun? Bu kalıcı olacak dünya yok bile olsa!",
+    "deleteRankPrompt": ":rank: rütbesini silmek istediğinizden emin misiniz? Bu kalıcı bir değişikliktir!",
+    "deleteFactionPrompt": ":faction: oluşumunu silmek istediğinizden emin misiniz? Bu kalıcı bir değişikliktir!",
+    "disbandFactionPrompt": "Oluşumunu dağıtmak istiyor musun? Bu kalıcı bir değişikliktir!",
 
-    "disbandFaction": "Fraksiyonu sil",
+    "disbandFaction": "Oluşumu sil",
 
     "switch": "Değiştir",
-    "switchType": "Fraksiyon tipini değiştir",
-    "switchTypePrompt": "Fraksiyon tiplerini değiştirmek istiyor musun? Bu işlemden sonra tüm fraksiyonlar gidecek!",
-    "restartingIn": "Sunucu şu kadar süre içinde tekrar açılıyor :time: saniye!",
+    "switchType": "Oluşum tipini değiştir",
+    "switchTypePrompt": "Oluşum tiplerini değiştirmek istiyor musun? Bu işlemden sonra tüm oluşumlar gidecek!",
+    "restartingIn": ":time: saniye içerisinde tekrardan başlatılacak!",
 
     "changingJobRestricted": "Bu meslek için iznin yok!",
 
-    "upgradePurchased": "Şu yükseltmeyi satın aldın :name:!",
+    "upgradePurchased": ":name: yükseltmesini satın aldın!",
 
     "inviteMember": "Yeni bir üye davet et",
 
-    "factionInvite": "Fraksiyon daveti",
+    "factionInvite": "Oluşum daveti",
     "invitedTo": "Davet edildin",
 
     "memberCount": ":x:/:total: üye",
-    "factionCount": ":x: fraksiyonlar",
+    "factionCount": ":x: oluşumlar",
 
     "unlock": "Kilidi aç",
     "neededToUnlock": "Kilidinin açılması gerekiyor",
@@ -335,11 +335,11 @@
     "back": "Geri",
 
     "save": "Kaydet",
-    "deleteFaction": "Fraksiyonu sil",
+        "deleteFaction": "Oluşumu sil",
     "deleteRank": "Rütbeyi sil",
 
     "leave": "Ayrıl",
-    "leaveFaction": "Fraksiyondan ayrıl",
+    "leaveFaction": "Oluşumdan ayrıl",
 
     "accept": "Kabul et",
     "deny": "Reddet",
@@ -361,25 +361,25 @@
 
     "searchByName": "İsme göre ara",
 
-    "kickMember": "Üyeyi şutla",
-    "kickMemberPrompt": "Şu kişiyi fraksiyondan şutlamak istediğinden emin misin :name: from :faction:?",
+    "kickMember": "Üyeyi at",
+    "kickMemberPrompt": ":name:'i :faction: oluşumundan atmak istediğinize emin misiniz?",
 
     "cantAfford": "Bunu karşılayamıyorsun!",
 
-    "staticFactionsContent": "Yetkili üyelerin kendi fraksiyonlarını oluşturma hakları vardır",
-    "dynamicFactionsContent": "Oyuncular kendi fraksiyonlarını oluşturup istediği gibi kontrol edebilirler.Kimse onlara karışamaz.",
-    "xp_npckilled": "NPC Kills",
+    "staticFactionsContent": "Yetkili üyelerin kendi oluşumlarını oluşturma hakları vardır",
+    "dynamicFactionsContent": "Oyuncular kendi oluşumlarını oluşturup istediği gibi kontrol edebilirler. Kimse onlara karışamaz.",
+    "xp_npckilled": "NPC Öldürmeleri",
     "xp_npckilled_desc": "Bir NPC öldürünce ne kadar XP alıyorsun",
     "xp_territorycapped": "Ele geçirme noktası ele geçirildi",
     "xp_territorycapped_desc": "Bir yeri ele geçirince ne kadar XP alıyorsun",
 
     "xp_territoryminute": "Ele geçirme noktası tutuluyor",
-    "xp_territoryminute_desc": "Kaç ele geçirme noktasından dakikada kaç XP alıyorsun",
+    "xp_territoryminute_desc": "Ele geçirme noktasında dakikada kaç XP alıyorsun",
 
     "xp_playtime": "Oynama süresi",
     "xp_playtime_desc": "Ne kadar süre periyodunda kaç XP alıyorsun",
 
-    "experience": "Ustalık",
+    "experience": "Tecrübe",
     "commands": "Komutlar",
     "xpmodules": "XP Modülleri",
     "invites": "Davetler",
@@ -397,33 +397,33 @@
     "settings_menucommand_desc": "Menüyü açmak için hangi komutu kullanmalısın?",
 
     "settings_maxtaglength": "Maksimum tag uzunluğu",
-    "settings_maxtaglength_desc": "Fraksiyon tagı maksimum ne kadar uzunlukta olsun?",
+    "settings_maxtaglength_desc": "Oluşum tagı maksimum ne kadar uzunlukta olsun?",
 
-    "settings_defaultrankname": "Varsayılan sahip rütbesi",
-    "settings_defaultrankname_desc": "Varsayılan sahip rütbesinin ismi ne olsun?",
+    "settings_defaultrankname": "Varsayılan lider rütbesi",
+    "settings_defaultrankname_desc": "Varsayılan oluşum lideri rütbesinin ismi ne olsun?",
 
     "settings_defaultmaxmembers": "Varsayılan maksimum üye",
-    "settings_defaultmaxmembers_desc": "Fraksiyonu başlatırken maksimum üye sayısı kaç olsun?",
+    "settings_defaultmaxmembers_desc": "Oluşumu kurarken maksimum üye sayısı kaç olsun?",
 
     "settings_defaultmaxitems": "Varsayılan maksimum eşya",
-    "settings_defaultmaxitems_desc": "Fraksiyonu başlatırken maksimum eşya sayısı kaç olsun?",
-    "settings_factioncreatecost": "Fraksiyon yaratma ücreti",
-    "settings_factioncreatecost_desc": "Fraksiyon yaratma ücreti ne kadar olsun",
+    "settings_defaultmaxitems_desc": "Oluşumu kurarken maksimum eşya sayısı kaç olsun?",
+    "settings_factioncreatecost": "Oluşumu kurma ücreti",
+    "settings_factioncreatecost_desc": "Oluşumu kurma ücreti ne kadar olsun",
 
-    "settings_factioncreatecurrency": "Fraksiyon yaratma kuru",
-    "settings_factioncreatecurrency_desc": "Hangi kur fraksiyon yaratmak için kullanılsın?",
+    "settings_factioncreatecurrency": "Oluşumu kuru",
+    "settings_factioncreatecurrency_desc": "Hangi kur oluşum kurmak için kullanılsın?",
 
-    "settings_promotecanselect": "Yükseltirken fraksiyonu seç",
-    "settings_promotecanselect_desc": "Fraksiyon arasında terfi için belirli bir fraksiyon seçilebilsin mi?",
+    "settings_promotecanselect": "Yükseltirken oluşum seç",
+    "settings_promotecanselect_desc": "Statik oluşumlarda oluşum yükseltmeleri açılsın mı?",
 
     "settings_menubind": "Menü  tuş ataması",
     "settings_menubind_desc": "Menüyü açmak için hangi tuş kullanılsın?",
 
-    "settings_depositcurrency": "Kuru yatır",
-    "settings_depositcurrency_desc": "Yatırılmışlar için hangi kur kullanılsın?",
+    "settings_depositcurrency": "Para kuru",
+    "settings_depositcurrency_desc": "Yatırılan para için hangi kur kullanılsın?",
 
-    "settings_depositinventory": "Envanteri yatır",
-    "settings_depositinventory_desc": "Yatırılmışlar için hangi envanter kullanılsın?",
+    "settings_depositinventory": "Eşyaları depola",
+    "settings_depositinventory_desc": "Depolanan eşyalar için hangi envanter kullanılsın?",
 
     "settings_inviteduration": "Davet süresi",
     "settings_inviteduration_desc": "Davet ne kadar süre aktif olsun? (seconds)",

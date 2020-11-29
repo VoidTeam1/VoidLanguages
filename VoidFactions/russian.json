@@ -433,5 +433,8 @@
 	"settings_maxlevel_desc": "Какого максимального уровня вы можете достичь?",
 
 	"settings_disablenametag" : "Отключить тег имени",
-	"settings_disablenametag_desc" : "Отключить тег с названием фракции который отображается в чате."
+	"settings_disablenametag_desc" : "Отключить тег с названием фракции который отображается в чате.",
+
+	"settings_skipfirstrank" : "Пропустить первый ранг?",
+	"settings_skipfirstrank_desc" : "Должен ли быть пропущен первый ранг при возвращении в стандартную фракцию?"
 }

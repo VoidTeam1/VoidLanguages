@@ -469,5 +469,8 @@
     "settings_skipfirstrank_desc" : "Should the first rank be skipped, if kicked back into default faction?",
 
     "settings_disablexpsystem" : "Disable XP system?",
-    "settings_disablexpsystem_desc" : "Do you want to disable the integrated XP system?"
+    "settings_disablexpsystem_desc" : "Do you want to disable the integrated XP system?",
+    
+    "settings_nametagsdisabled" : "Disable nametags?",
+    "settings_nametagsdisabled_desc" : "Do you want to disable the faction tag infront of the name?"
 }

@@ -430,5 +430,8 @@
 	"settings_levelupmultiplier_desc": "Насколько увеличится необходимый опыт?",
 
 	"settings_maxlevel": "Максимальный уровень",
-	"settings_maxlevel_desc": "Какого максимального уровня вы можете достичь?"
+	"settings_maxlevel_desc": "Какого максимального уровня вы можете достичь?",
+
+	"settings_disablenametag" : "Отключить тег имени",
+	"settings_disablenametag_desc" : "Отключить тег с названием фракции который отображается в чате."
 }

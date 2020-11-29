@@ -466,5 +466,8 @@
     "settings_disablenametag_desc" : "Disable faction nametag which is shown in the chat.",
 
     "settings_skipfirstrank" : "Skip first rank?",
-    "settings_skipfirstrank_desc" : "Should the first rank be skipped, if kicked back into default faction?"
+    "settings_skipfirstrank_desc" : "Should the first rank be skipped, if kicked back into default faction?",
+
+    "settings_disablexpsystem" : "Disable XP system?",
+    "settings_disablexpsystem_desc" : "Do you want to disable the integrated XP system?"
 }

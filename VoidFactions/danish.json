@@ -1,0 +1,476 @@
+{
+    "profile": "Profil",
+    "level": "Niveau",
+    "rank": "Rang",
+    "deposit": "Deponere",
+    "rewards": "Belønninger",
+
+    "lastPromote": "Sidste promovering",
+    "autoPromote": "Autoprote",
+    "rankTemplate": "Rang skabelon",
+    "nextAutoPromote": "Næste auto-promovering",
+    "joined": "Gik sammen",
+    "sessionPlaytime": "Sessionens spilletid",
+    "totalPlaytime": "Samlet spilletid",
+    "factionJoined": "Fraktion deltog",
+
+    "balance": "Balance:",
+    "itemCount": ":x:/:max: genstande",
+
+    "transactionHistory": "Transaktionshistorik",
+
+    "withdraw": "Træk dig tilbage",
+
+    "currentJob": "Nuværende arbejde",
+    "changeJob": "Skift job",
+    "changeRank": "Skift rang",
+
+    "assets": "Aktiver",
+
+    "createFaction": "Opret fraktion",
+    "joinFaction": "Deltag i fraktion",
+    
+    "createFactionOrJoin": "Opret en fraktion eller deltag i en",
+    "noFactionText": "Du kan enten oprette en ny fraktion og være chef for den, eller du kan deltage i en eksisterende.",
+    "factionCreateCost": "Oprettelsen af en ny fraktion koster :color: :money:.",
+
+    "select": "Vælg",
+    "create": "skab",
+
+    "factions": "Fraktioner",
+    "dynamic": "Dynamisk",
+    "static": "Statisk",
+
+    "setup": "Opsætning",
+    "options": "Muligheder",
+
+    "levelUp": "Niveau op!",
+    "levelUpMsg": "Du er nu i niveau :level:",
+
+    "chooseMode": "Vælg din tilstand",
+    "chooseFaction": "Vælg din fraktion",
+
+    "suitedForSerious": "Velegnet til SeriousRP",
+    "suitedForNonSerious": "Velegnet til ikke-seriøs RP",
+
+    "addFaction": "Tilføj ny fraktion",
+    "addRank": "Tilføj ny rang",
+    "addMember": "Tilføj medlem",
+
+    "newFaction": "Ny fraktion",
+    "newRank": "Ny rang",
+
+    "faction": "Fraktion",
+    "factionName": "Fraktionsnavn",
+
+    "editFaction": "Redigering af fraktion :name:",
+    "editRank": "Redigeringsrang :name:",
+    "editUpgrade": "Redigering af opgradering :name:",
+    "editReward": "Redigering af belønning :name:",
+
+    "reward": "Belønning",
+
+    "general": "Generel",
+    "permissions": "Tilladelser",
+    "member": "Medlem",
+
+    "name": "Navn",
+    "description": "Beskrivelse",
+    "factionTag": "Fraktionsmærke",
+    "subfactionOf": "Underafdeling af",
+    "factionColor": "Fraktionsfarve",
+    "icon": "Ikon",
+    "factionIcon": "Fraktionsikon",
+    "maxMembers": "Maks. Medlemmer",
+
+    "canCaptureTerritory": "Kan fange territorium",
+    "showOnBoard": "Vis om bord",
+    "inviteRequired": "Kræver invitation til at deltage",
+    "isDefaultFaction": "Er standardfraktion",
+
+    "inviteOnly": "Inviter kun",
+
+    "noRanksAvailable": "Ingen ranger tilgængelige!",
+    "none": "Ingen",
+
+    "rankTag": "Rangmærke",
+    "job": "Job",
+
+    "ranking": "Ranking",
+    "totalUpgrades": "Samlede opgraderinger",
+
+    "showingPagination": "Viser :from:-:to:",
+    "page": "Side",
+    "from": "Fra",
+
+    "createUpgrade": "Opret opgradering",
+    "deleteUpgrade": "Slet opgradering",
+
+    "createReward": "Opret belønning",
+    "deleteReward": "Slet belønning",
+
+    "upgradeModule": "Opgrader modul",
+    "rewardModule": "Belønningsmodul",
+    "moduleValue": "Modulværdi",
+
+    "tools": "Værktøjer",
+
+    "upgradeCount": ":x: Opgraderinger",
+    "rewardCount": ":x: Belønninger",
+
+    "price": "Pris",
+
+    "you": "Du",
+
+    "kick": "Sparke",
+    "inviteMembers": "Inviter medlemmer",
+    "kickMembers": "Kick medlemmer",
+
+    "promoteMembers": "Fremme medlemmer",
+    "demoteMembers": "Nedrykke medlemmer",
+
+    "setRanks": "Angiv rækker",
+
+    "manageFaction": "Administrer fraktion",
+    "purchaseUpgrades": "Køb opgraderinger",
+
+    "canWithdrawMoney": "Hæve penge",
+    "canDepositMoney": "Indsætte penge",
+    "canWithdrawItems": "Træk genstande tilbage",
+    "canDepositItems": "Depositum",
+
+    "depositMoney": "Indsætte penge",
+    "withdrawMoney": "Hæve penge",
+
+    "promoteDefaultRanks": "Fremme standardranger",
+
+    "depositMoneyText": "Indtast det beløb, du vil indbetale.",
+    "withdrawMoneyText": "Indtast det beløb, du vil hæve.",
+
+    "yes": "Ja",
+    "no": "Ingen",
+
+    "onlyFactionMembers": "Kun fraktionsmedlemmer",
+    "factionAndSubfactions": "Fraktion og underfaktioner",
+    "minimumLevel": "Minimumniveau",
+
+    "upgradeCreated": "Opgraderingen blev oprettet :name:!",
+    "upgradeDeleted": "Opgraderingen blev slettet :name:!",
+    "upgradeEdited": "Redigeret opgradering :name:!",
+    "deleteUpgradePrompt": "Er du sikker på, at du vil slette opgraderingen :upgrade:? Denne handling er permanent!",
+
+    "rewardCreated": "Vellykket oprettet belønning :name:!",
+    "rewardDeleted": "Belønningen blev slettet :name:!",
+    "rewardEdited": "Redigeret belønning :name:!",
+    "deleteRewardPrompt": "Er du sikker på, at du vil slette belønningen :reward:? Denne handling er permanent!",
+
+    "moveTool": "Flytteværktøj",
+    "connectorTool": "Stikværktøj",
+    "addUpgrade": "Tilføj ny opgradering",
+
+    "moneyRewarded": "Penge belønnet",
+    "xpRewarded": "XP belønnet",
+
+    "reward_pointscaptured": "Point fanget",
+    "reward_desc_pointscaptured": "Hvor mange point skal der fanges i alt for at låse op for dette?",
+
+    "reward_itemsdeposited": "Varer deponeret",
+    "reward_desc_itemsdeposited": "Hvor mange genstande skal deponeres på én gang for at låse op for dette?",
+
+    "reward_moneydeposited": "Deponerede penge",
+    "reward_desc_moneydeposited": "Hvor mange penge skal deponeres på én gang for at låse op for dette?",
+
+    "reward_upgradesdeposited": "Opgraderinger ulåst",
+    "reward_desc_upgradesdeposited": "Hvor mange opgraderinger skal i alt låses op for at låse op for dette?",
+
+    "reward_membersjoined": "Medlemmer tilmeldt sig",
+    "reward_desc_membersjoined": "Hvor mange medlemmer skal være i en fraktion på én gang for at låse dette op?",
+
+    "upgr_speedboost": "Speed ​​Boost",
+    "upgr_desc_speedboost": "Øger spillerens bevægelseshastighed.",
+    "upgr_descval_speedboost": "Hvor meget skal en spiller være hurtigere i%?",
+
+    "upgr_memberhalo": "Medlem Halo",
+    "upgr_desc_memberhalo": "Tilføjer muligheden for at se dine fraktionsmedlemmer gennem vægge.",
+    "upgr_descval_memberhalo": "Hvor mange meter langt væk kan spilleren se gennem væggene?",
+
+    "upgr_weapon": "Permanent våben",
+    "upgr_desc_weapon": "Giver et våben til spilleren på gyde.",
+    "upgr_descval_weapon": "Hvad er våbenklassens navn?",
+
+    "upgr_jumpboost": "Jump Boost",
+    "upgr_desc_jumpboost": "Øger spillernes hoppekraft.",
+    "upgr_descval_jumpboost": "Hvor meget skal en spiller hoppe højere i%?",
+
+    "upgr_morehp": "Mere HP",
+    "upgr_desc_morehp": "Øger spillernes sundhed.",
+    "upgr_descval_morehp": "Hvor meget skal spillerens sundhed øges i%?",
+
+    "upgr_morearmor": "Mere rustning",
+    "upgr_desc_morearmor": "Øger spillernes rustning.",
+    "upgr_descval_morearmor": "Hvor meget skal en spillers rustning få øget i%?",
+
+    "upgr_memberdmgreduce": "Medlem DMG reduktion",
+    "upgr_desc_memberdmgreduce": "Mindsker venlig brandskade.",
+    "upgr_descval_memberdmgreduce": "Hvor meget venlige brandskader skal reduceres i%?",
+
+    "upgr_lockpickspeed": "Hurtigere Lockpick",
+    "upgr_desc_lockpickspeed": "Øger lockpick-hastigheden.",
+    "upgr_descval_lockpickspeed": "Hvad skal lockpick-tiden være i%? (0-100%)",
+
+    "upgr_maxmembers": "Maks. Medlemmer",
+    "upgr_desc_maxmembers": "Øger det maksimale antal medlemmer.",
+    "upgr_descval_maxmembers": "Hvor mange maksimale medlemmer skal tilføjes?",
+
+    "upgr_maxitems": "Maks. Varer",
+    "upgr_desc_maxitems": "Øger de maksimale varer.",
+    "upgr_descval_maxitems": "Hvor mange maksimale varer skal tilføjes?",
+
+    "upgr_capturetime": "Optagelsestid",
+    "upgr_desc_capturetime": "Reducerer punktoptagelsestiden.",
+    "upgr_descval_capturetime": "Hvor mange sekunder trækkes der fra fangsttiden?",
+
+    "upgr_longercapture": "Længere fangsttid",
+    "upgr_desc_longercapture": "Det tager længere tid at fange dine fangstpunkter.",
+    "upgr_descval_longercapture": "Hvor mange sekunder tilføjes fjendernes fangsttid?",
+
+    "success": "Succes",
+    "error": "Fejl",
+    "info": "Info",
+
+    "properties": "Ejendomme",
+
+    "factionCreated": "Fraktion :name: blev oprettet med succes!",
+    "factionUpdated": "Fraktion :name: blev redigeret med succes!",
+    "factionDeleted": "Fraktion :name: blev slettet!",
+    "memberCountDemoted": "(:count: medlemmer blev degraderet)",
+
+    "rankCreated": "Rang :name: blev oprettet med succes!",
+    "rankUpdated": "Rang :name: blev redigeret med succes!",
+    "rankDeleted": "Rang :name: blev slettet!",
+    "maxRanksCreated": "Kunne ikke oprette rang :name: fordi grænsen (:limit:) blev overskredet!",
+    "maxFactionsCreated": "Kunne ikke oprette fraktion :name: fordi grænsen (:limit:) blev overskredet!",
+    "membersInRankErr": "Kunne ikke slette rang :name: fordi der er medlemmer indeni, og de kan ikke nedrykkes!",
+
+    "memberInvited": "Spiller :name: blev med succes inviteret til :faction:!",
+    "memberInvitePending": "Spiller :name: har allerede en afventende invitation!",
+    "memberInviteAccepted": "Spiller :name: accepteret din invitation!",
+
+    "memberJoinedFaction": "Du sluttede dig :faction:",
+    "memberLeftFaction": "Du gik :faction:",
+
+    "memberKicked": "Medlem :name: blev med succes sparket!",
+    "memberAdded": "Spiller :name: blev med succes føjet til fraktion :faction:!",
+
+    "itemDeposited": "Deponeret genstand :name:!",
+    "itemWithdrawn": "Tilbagetrukket vare :name:!",
+
+    "moneyDeposited": "Deponeret med succes :money:!",
+    "moneyWithdrawn": "Tilbagetrukket :money:!",
+
+    "noFactionMoney": "Fraktionen har ikke så mange penge!",
+
+    "memberRankChanged": ":name:'s rang blev sat til :rank:!",
+    "memberPromoted": "Medlem :name: blev forfremmet til rang :rank:!",
+    "memberDemoted": "Medlem :name: blev degraderet til rang :rank:!",
+
+    "youPromoted": "Du blev forfremmet til rang :rank:!",
+    "youDemoted": "Du blev degraderet til rang :rank:!",
+    "youRankChanged": "Din rang var sat til :rank:!",
+
+    "nameShort": "Navnet er for kort!",
+    "nameLong": "Navnet er for langt!",
+    "tagShort": "Tagget er for kort!",
+    "tagLong": "Tag er for langt!",
+    "maxMembersLimit": "Maksimalt antal medlemmer er for stort!",
+    "noJobs": "Der er ingen job tildelt denne rang!",
+
+    "maxMembersErr": "Fraktionen er fuld!",
+    "maxRankMembersErr": "Rangen er fuld!",
+    "minLevelErr": "Du har ikke det krævede niveau!",
+
+    "nothingToShow": "Der er intet at vise!",
+    "thereAreNoMembers": "Der er ingen medlemmer!",
+
+    "capturePoint": "Fangstpunkt",
+    "capturePointCreated": "Fangstpunkt oprettet!",
+    "capturePointDeleted": "Fangstpunkt slettet!",
+    "capturePointContested": "Bestridt",
+    "capturing": "Optagelse",
+    "paused": "Pauset",
+    "claimed": "Påstået",
+    "notClaimed": "Ikke påberåbt",
+
+    "pointCapturedByEnemies": "Dit fangstpunkt bliver fanget!",
+
+    "unlockedReward": "Belønning :reward: ulåst!",
+
+    "cantJoinNoDefaultFactions": "Standardfraktioner skal konfigureres, før de tilmelder sig en fraktion! Opret en, og opret forbindelse igen.",
+    "noDefaultFactions": "Der er ingen standardfraktioner! De skal konfigureres!",
+
+    "deleteRankPrompt": "Er du sikker på, at du vil slette rang :rank:? Denne handling er permanent!",
+    "deleteFactionPrompt": "Er du sikker på, at du vil slette fraktion :faction:? Denne handling er permanent!",
+    "disbandFactionPrompt": "Er du sikker på, at du vil opløse din fraktion? Denne handling er permanent!",
+
+    "disbandFaction": "Opløs fraktion",
+
+    "switch": "Kontakt",
+    "switchType": "Skift fraktionstype",
+    "switchTypePrompt": "Er du sikker på, at du vil skifte fraktionstyper? Alle fraktioner slettes! Din server genstartes efter skift af typer!",
+    "restartingIn": "Genstarter serveren i :time: sekunder!",
+
+    "changingJobRestricted": "Du har ikke adgang til dette job!",
+
+    "upgradePurchased": "Du købte opgradering :name:!",
+
+    "inviteMember": "Inviter et nyt medlem",
+
+    "factionInvite": "Fraktionsinvitation",
+    "invitedTo": "Du blev inviteret til",
+
+    "memberCount": ":x:/:total: medlemmer",
+    "factionCount": ":x: fraktioner",
+
+    "unlock": "Lås op",
+    "neededToUnlock": "Nødvendigt for at låse op",
+    "details": "detaljer",
+    "viewDetails": "Se detaljer",
+    "join": "Tilslutte",
+    "lastSeen": "Sidst set",
+
+    "ago": ":time: siden",
+    "never": "Aldrig",
+    "now": "Nu",
+
+    "back": "Tilbage",
+
+    "save": "Gemme",
+    "deleteFaction": "Slet fraktion",
+    "deleteRank": "Slet rang",
+
+    "leave": "Forlade",
+    "leaveFaction": "Forlad fraktionen",
+
+    "accept": "Acceptere",
+    "deny": "Nægte",
+    
+    "cancel": "Afbestille",
+
+    "clickToAdd": "Klik for at tilføje",
+
+    "visual": "Visuel",
+
+    "members": "Medlemmer",
+    "actions": "Handlinger",
+
+    "manage": "Styre",
+    "disband": "Opløse",
+    "delete": "Slet",
+
+    "loading": "Indlæser...",
+
+    "searchByName": "Søg efter navn",
+
+    "kickMember": "Kick-medlem",
+    "kickMemberPrompt": "Er du sikker på, at du vil sparke :name: fra :faction:?",
+
+    "cantAfford": "Du har ikke råd til dette!",
+
+    "staticFactionsContent": "Medarbejdere er i stand til at oprette fraktioner og beslutte, hvem der skal være leder, og hvilke tilladelser hver rang har.",
+    "dynamicFactionsContent": "Spillere kan oprette deres egen fraktion og have fuld kontrol over det. Ingen vil fortælle dem, hvordan de skal føre det.",
+
+    "xp_npckilled": "NPC dræber",
+    "xp_npckilled_desc": "Hvor meget XP får du for at dræbe NPC",
+
+    "xp_territorycapped": "Optagelsespunkt fanget",
+    "xp_territorycapped_desc": "Hvor meget XP får du for at fange et punkt",
+
+    "xp_territoryminute": "Fangstpunkt holder",
+    "xp_territoryminute_desc": "Hvor meget XP får du for hvert fangstpunkt pr. Minut",
+
+    "xp_playtime": "Lege tid",
+    "xp_playtime_desc": "Hvor meget XP får du for hvilken tidsperiode ",
+
+    "experience": "Erfaring",
+    "commands": "Kommandoer",
+    "xpmodules": "XP-moduler",
+    "invites": "Inviterer",
+    "capturepoints": "Optag point",
+    "upgrades": "Opgraderinger",
+    "upgradetree": "Opgrader træet",
+    "upgradepoints": "Opgrader point",
+
+    "selectPointToView": "Vælg en opgradering for at se dens info ...",
+
+    "settings_language": "Sprog",
+    "settings_language_desc": "Hvilket sprog skal VoidFactions bruge?",
+
+    "settings_menucommand": "Menu kommando",
+    "settings_menucommand_desc": "Hvilken kommando bruges til at åbne menuen?",
+
+    "settings_maxtaglength": "Maks. Taglængde",
+    "settings_maxtaglength_desc": "Hvor lang kan fraktionsmærket være?",
+
+    "settings_defaultrankname": "Standard ejer rangnavn",
+    "settings_defaultrankname_desc": "Hvad hedder ejerens standardrang?",
+
+    "settings_defaultmaxmembers": "Standard maks. Medlemmer",
+    "settings_defaultmaxmembers_desc": "Hvad vil maksimalt være medlemmer af en startende fraktion?",
+
+    "settings_defaultmaxitems": "Standard maks. Poster",
+    "settings_defaultmaxitems_desc": "Hvad bliver de maksimale poster i en startende fraktion?",
+
+    "settings_factioncreatecost": "Fraktion til oprettelse af fraktioner",
+    "settings_factioncreatecost_desc": "Hvor meget koster det at oprette en fraktion?",
+
+    "settings_factioncreatecurrency": "Fraktionsoprettelsesvaluta",
+    "settings_factioncreatecurrency_desc": "Hvilken valuta skal bruges til at skabe en fraktion?",
+
+    "settings_upgradesenabled": "Opgraderinger aktiveret",
+    "settings_upgradesenabled_desc": "Bør fraktionsopgraderinger aktiveres i statiske fraktioner?",
+
+    "settings_promotecanselect": "Vælg fraktion om promovering",
+    "settings_promotecanselect_desc": "Kan du vælge en bestemt fraktion til at promovere mellem fraktioner?",
+
+    "settings_menubind": "Menu tastebind",
+    "settings_menubind_desc": "Hvilken tast bruges til at åbne menuen?",
+
+    "settings_depositcurrency": "Depositum valuta",
+    "settings_depositcurrency_desc": "Hvilken valuta skal bruges til indskud?",
+
+    "settings_depositinventory": "Indbetalingsbeholdning",
+    "settings_depositinventory_desc": "Hvilken beholdning skal bruges til indskud?",
+
+    "settings_inviteduration": "Inviter varighed",
+    "settings_inviteduration_desc": "Hvor længe forbliver en invitation aktiv? (sekunder)",
+
+    "settings_pointrenderdist": "Gør afstand",
+    "settings_pointrenderdist_desc": "Hvor langt væk skal indfangningspunktet trække?",
+
+    "settings_showpointdistances": "Vis afstande",
+    "settings_showpointdistances_desc": "Skal afstandspunkterne for fangstpunkter vises?",
+
+    "settings_pointcaptime": "Optag tid",
+    "settings_pointcaptime_desc": "Hvor lang tid tager det at fange et punkt? (sekunder)",
+
+    "settings_baselevelupxp": "Niveau XP op",
+    "settings_baselevelupxp_desc": "Hvor meget XP har du brug for for at niveauere?",
+
+    "settings_levelupmultiplier": "Niveau op multiplikator",
+    "settings_levelupmultiplier_desc": "Hvor meget øges den krævede erfaring?",
+
+    "settings_maxlevel": "Maks. Niveau",
+    "settings_maxlevel_desc": "Hvad er det maksimale niveau, du kan opnå?",
+    
+    "settings_disablenametag" : "Deaktiver navneskilt",
+    "settings_disablenametag_desc" : "Deaktiver fraktionsnavnetiketten, der vises i chatten.",
+
+    "settings_skipfirstrank" : "Springe over første rang?",
+    "settings_skipfirstrank_desc" : "Bør den første rang springes over, hvis den kastes tilbage til standardfraktionen?",
+
+    "settings_disablexpsystem" : "Deaktivere XP-system?",
+    "settings_disablexpsystem_desc" : "Vil du deaktivere det integrerede XP-system?",
+    
+    "settings_nametagsdisabled" : "Deaktiver navneskilte?",
+    "settings_nametagsdisabled_desc" : "Vil du deaktivere fraktionsmærket foran navnet?"
+}

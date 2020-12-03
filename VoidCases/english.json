@@ -185,6 +185,15 @@
 	"keys": "Keys",
 	"other": "Other",
 
+	"delete_confirm": "Item deletion",
+	"delete_confirm_text": "Are you sure you want to delete the item :name: from your inventory?",
+	"delete_confirm_ask": "How many of :name: do you want to delete from your inventory?",
+
+	"success": "Success",
+	"delete_success": "Successfully deleted :amount: :name: from your inventory!",
+
+	"delete_lower": "Delete",
+
 	"settings_menubind": "Menu keybind",
 	"settings_menubind_desc": "Keybind that opens the VoidCases menu."
 }

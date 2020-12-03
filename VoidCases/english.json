@@ -179,6 +179,12 @@
 	"annouce_win": "%s just unboxed :var2:!",
 	"opening_case": "OPENING CASE: %s",
 
+	"cases": "Cases",
+	"weapons": "Weapons",
+	"skins": "Skins",
+	"keys": "Keys",
+	"other": "Other",
+
 	"settings_menubind": "Menu keybind",
 	"settings_menubind_desc": "Keybind that opens the VoidCases menu."
 }

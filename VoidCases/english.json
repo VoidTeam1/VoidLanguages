@@ -194,6 +194,9 @@
 
 	"delete_lower": "Delete",
 
+	"settings_3dspinunbox": "Spinning unbox in 3D",
+	"settings_3dspinunbox_desc": "Should the 2D spinning unbox be displayed in-world above the case?",
+
 	"settings_menubind": "Menu keybind",
 	"settings_menubind_desc": "Keybind that opens the VoidCases menu."
 }

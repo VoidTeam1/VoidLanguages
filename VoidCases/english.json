@@ -179,6 +179,8 @@
 	"annouce_win": "%s just unboxed :var2:!",
 	"opening_case": "OPENING CASE: %s",
 
+	"edit_items": "Edit items",
+
 	"cases": "Cases",
 	"weapons": "Weapons",
 	"skins": "Skins",

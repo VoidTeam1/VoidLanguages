@@ -176,7 +176,7 @@
 	"limit_reached_perma": "You can only equip %s perma weapons!",
 	"trading_requestsent": "Trade request sent",
 	"dont_annouce": "Don't annouce",
-	"annouce_win": "%s just unboxed :var2:!",
+	"annouce_win": "%s just unboxed %s!",
 	"opening_case": "OPENING CASE: %s",
 
 	"edit_items": "Edit items",
@@ -186,6 +186,8 @@
 	"skins": "Skins",
 	"keys": "Keys",
 	"other": "Other",
+
+	"best_sellers": "Best Sellers",
 
 	"delete_confirm": "Item deletion",
 	"delete_confirm_text": "Are you sure you want to delete the item :name: from your inventory?",

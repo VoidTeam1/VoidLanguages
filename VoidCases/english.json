@@ -189,6 +189,12 @@
 
 	"best_sellers": "Best Sellers",
 
+	"force_unbox_type": "Force unbox type",
+
+	"any": "Any",
+	"csgo_unboxing": "CS:GO Unboxing",
+	"world_unboxing": "World Unboxing",
+
 	"delete_confirm": "Item deletion",
 	"delete_confirm_text": "Are you sure you want to delete the item :name: from your inventory?",
 	"delete_confirm_ask": "How many of :name: do you want to delete from your inventory?",

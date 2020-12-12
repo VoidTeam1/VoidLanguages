@@ -199,10 +199,17 @@
 	"delete_confirm_text": "Are you sure you want to delete the item :name: from your inventory?",
 	"delete_confirm_ask": "How many of :name: do you want to delete from your inventory?",
 
+	"sold_offline": "You sold :num: items while you were offline!",
+
 	"success": "Success",
 	"delete_success": "Successfully deleted :amount: :name: from your inventory!",
 
 	"delete_lower": "Delete",
+
+	"settings_maxmarketplacelistings": "Maximum marketplace listings",
+	"settings_maxmarketplacelistings_desc": "How many marketplace listings can a player have at once?",
+
+	"too_many_listings": "You have too many marketplace listings! Maximum is :x:!",
 
 	"settings_3dspinunbox": "Spinning unbox in 3D",
 	"settings_3dspinunbox_desc": "Should the 2D spinning unbox be displayed in-world above the case?",

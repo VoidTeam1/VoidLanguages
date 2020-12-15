@@ -214,6 +214,21 @@
 	"settings_3dspinunbox": "Spinning unbox in 3D",
 	"settings_3dspinunbox_desc": "Should the 2D spinning unbox be displayed in-world above the case?",
 
+	"add_money": "Add money",
+	"trade_chat": "Trade chat",
+	"add_item": "Add item",
+
+	"send_offer": "Send offer",
+	"trade_complete": "Trade complete",
+	"confirm_trade": "Confirm trade",
+	"unconfirm_trade": "Unconfirm trade",
+	"waiting_for_partner": "Waiting for partner",
+	"partner_ready": "Partner ready",
+	"waiting_for_both": "Waiting for acceptation",
+	"inventories": "Inventories",
+
+	"viewing_inventory": "Viewing inventory of :name:",
+
 	"settings_menubind": "Menu keybind",
 	"settings_menubind_desc": "Keybind that opens the VoidCases menu."
 }

@@ -227,6 +227,8 @@
 	"waiting_for_both": "Waiting for acceptation",
 	"inventories": "Inventories",
 
+	"win_chance": "Win chance",
+
 	"viewing_inventory": "Viewing inventory of :name:",
 
 	"settings_menubind": "Menu keybind",

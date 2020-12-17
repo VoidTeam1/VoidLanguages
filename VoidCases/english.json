@@ -229,9 +229,13 @@
 	"inventories": "Inventories",
 
 	"win_chance": "Win chance",
+	"rarities": "Rarities",
+	"add_rarity": "Create rarity",
 
 	"viewing_inventory": "Viewing inventory of :name:",
+	"pointshop_money": "Pointshop :x: Money",
 
+	
 	"settings_menubind": "Menu keybind",
 	"settings_menubind_desc": "Keybind that opens the VoidCases menu."
 }

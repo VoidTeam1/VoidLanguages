@@ -1,8 +1,10 @@
 {
 	"not_enough_items": "Du besitzt diese Anzahl nicht!",
 	"sell_in_shop": "IM SHOP VERKAUFEN",
+	
 	"settings_despawn": "Zeit bis die Kiste verschwindet",
 	"settings_marketplace_lifetime_desc": "Wie lange soll das Angebot auf dem Marktplatz verfügbar sein? (In Stunden)",
+	
 	"unboxing": "Unboxing",
 	"equipped_item": "Ausgerüstetes Item:",
 	"requires_key": "ERFORDERT SCHLÜSSEL",
@@ -45,8 +47,10 @@
 	"purchase": "KAUFEN",
 	"delete_confirmation": "Bist du sicher, dass du %s LÖSCHEN möchtest? Dies ist unumkehrbar!",
 	"available_amount": "VERFÜGBARE MENGE",
+	
 	"trading_confirmed": "BESTÄTIGT",
 	"trading_partner": "HANDELSPARTNER",
+	
 	"pointshop2_item": "Pointshop 2 Item",
 	"minute": "Minute",
 	"search_for_items": "Suche nach Items..",
@@ -130,18 +134,18 @@
 	"pointshopsh_item": "Pointshop SH Item",
 	"not_enough_money": "Das kannst du dir nicht leisten!",
 	"settings_language_desc": "Die Sprache, die das Addon verwenden soll",
-	"key_skin": "SCHLÜSSEL SKIN",
+	"key_skin": "SCHLÜSSEL AUSSEHEN",
 	"mp_not_enough_items": "Der Verkäufer hat nicht die angegebene Menge zum Verkauf!",
 	"plastic_crate": "Plastikkiste",
-	"price_per_item": "PREIS PRO ITEM",
+	"price_per_item": "PREIS PRO STÜCK",
 	"wooden_crate": "Holzkiste",
 	"pointshop_item": "Pointshop 1 Item",
-	"winnable_items": "GEWINNFÄHIGE ITEMS",
+	"winnable_items": "GEWINNBARE ITEMS",
 	"entity_class": "ENTITY KLASSE",
 	"month": "Monat",
 	"day": "Tag",
 	"money": "Geld",
-	"world_opening": "IN-WORLD OPENING",
+	"world_opening": "IN-WELT 3D ÖFFNUNG",
 	"trading_waiting": "WARTEN",
 	"usergroups": "ERLAUBTE BENUTZERGRUPPEN",
 	"couldnt_purchase": "Konnte nicht gekauft werden:",
@@ -151,14 +155,14 @@
 	"create_market": "VERKAUFE ITEM",
 	"no": "Nein",
 	"trading_toply": "zu %s",
-	"create_new": "ERSTELLE NEUE/S...",
+	"create_new": "ERSTELLE...",
 	"general": "Allgemein",
 	"model_path": "MODELL PFAD",
 	"key": "SCHLÜSSEL",
 	"item_fov": "MODELL FOV",
-	"editing": "BEARBEITEN: %s",
+	"editing": "BEARBEITE: %s",
 	"bulk_purchase": "INSGESAMT ZU KAUFENDE ITEMS",
-	"custom_image_id": "INDIVIDUELLE BILD-ID",
+	"custom_image_id": "BILD VON IMGUR-ID",
 	"scifi_key": "Sci-Fi Schlüssel",
 	"save": "Speichern",
 	"weapon_skin": "Waffen Skin",
@@ -168,7 +172,7 @@
 	"item_icon": "ITEM ICON TYP",
 	"item_preview": "ITEM VORSCHAU",
 	"item_limitations": "EINSCHRÄNKUNGEN",
-	"case_place": "Platziere Kiste",
+	"case_place": "Kiste Platzieren",
 	"weapon_class": "WAFFENKLASSE",
 	"just_bought": "Du hast gerade gekauft:",
 	"just_got_bought": "Dein Item wurde gerade gekauft:",
@@ -177,7 +181,7 @@
 	"limit_reached_perma": "Du kannst nur %s Permawaffen ausrüsten!",
 	"trading_requestsent": "Handelsanfrage gesendet",
 	"dont_annouce": "Nicht ankündigen",
-	"annouce_win": "%s hat %s aus eine Kiste gezogen!",
+	"annouce_win": "%s hat %s aus einer Kiste gezogen!",
 	"opening_case": "KISTE ÖFFNEN: %s",
 
 	"edit_items": "Editiere Items",
@@ -190,17 +194,17 @@
 
 	"best_sellers": "Bestseller",
 
-	"force_unbox_type": "Unbox-Typ erzwingen",
+	"force_unbox_type": "Öffnungs Typ erzwingen",
 
 	"any": "Beliebig",
-	"csgo_unboxing": "CS:GO Unboxing",
-	"world_unboxing": "Welt Unboxing",
+	"csgo_unboxing": "CS:GO Style",
+	"world_unboxing": "In-Welt öffnen",
 
 	"delete_confirm": "Item löschen",
 	"delete_confirm_text": "Bist du sicher, dass du den Gegenstand :name: aus deinem Inventar löschen möchtest?",
-	"delete_confirm_ask": "Wie viele von :name: möchtest du aus deinem Inventar löschen?",
+	"delete_confirm_ask": "Wie viele :name: möchtest du aus deinem Inventar löschen?",
 
-	"sold_offline": "Du hast :num: Item/s verkauft, während du offline warst!",
+	"sold_offline": "Du hast :num: Items verkauft, während du offline warst!",
 
 	"success": "Erfolg",
 	"delete_success": "Erfolgreich :amount: :name: aus deinem Inventar gelöscht!",
@@ -211,9 +215,6 @@
 	"settings_maxmarketplacelistings_desc": "Wie viele Marktplatzeinträge kann ein Spieler auf einmal haben?",
 
 	"too_many_listings": "Du hast zu viele Marktplatzeinträge! Das Maximum ist :x:!",
-
-	"settings_3dspinunbox": "Drehe unbox in 3D",
-	"settings_3dspinunbox_desc": "Soll der sich drehende 2D-Unbox in der Welt über der Kiste angezeigt werden?",
 
 	"add_money": "Geld hinzufügen",
 	"trade_chat": "Handels-Chat",
@@ -235,7 +236,6 @@
 	"viewing_inventory": "Anzeigen des Inventars von :name:",
 	"pointshop_money": "Pointshop :x: Geld",
 
-	
 	"settings_menubind": "Menü-Tastenbelegung",
 	"settings_menubind_desc": "Tastenbelegung zum Öffnen des Menüs VoidCases."
 }

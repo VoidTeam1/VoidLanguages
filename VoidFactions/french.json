@@ -13,15 +13,15 @@
     "sessionPlaytime": "Temps de jeu de session",
     "totalPlaytime": "Temps de jeu total",
 
-    "balance": "Équilibre:",
+    "balance": "Equilibre:",
     "itemCount": ":x:/:max: objets",
 
-    "transactionHistory": "Historique de transaction",
+    "transactionHistory": "Historique des transactions",
 
     "withdraw": "Retirer",
 
-    "currentJob": "Job actuel",
-    "changeJob": "Changer de job",
+    "currentJob": "Métier actuel",
+    "changeJob": "Changer de métier",
     "changeRank": "Changer de rang",
 
     "assets": "Atouts",
@@ -43,29 +43,29 @@
     "setup": "Installer",
     "options": "Options",
 
-    "levelUp": "Niveau supérieur!",
+    "levelUp": "Niveau supérieur !",
     "levelUpMsg": "Vous êtes maintenant au niveau :level:",
 
     "chooseMode": "Choisissez votre mode",
     "chooseFaction": "Choisissez votre faction",
 
-    "suitedForSerious": "Convient pour du SeriousRP",
-    "suitedForNonSerious": "Convient pour du Non-SeriousRP",
+    "suitedForSerious": "Conviens pour du SeriousRP",
+    "suitedForNonSerious": "Conviens pour du Semi-SeriousRP",
 
     "addFaction": "Ajouter une nouvelle faction",
     "addRank": "Ajouter un nouveau rang",
     "addMember": "Ajouter un membre",
 
-    "newFaction": "Nouvelle Faction",
-    "newRank": "Nouveau Rang",
+    "newFaction": "Nouvelle faction",
+    "newRank": "Nouveau rang",
 
     "faction": "Faction",
-    "factionName": "Nom de faction",
+    "factionName": "Nom de la faction",
 
-    "editFaction": "Éditer la faction :name:",
-    "editRank": "Éditer le rang :name:",
-    "editUpgrade": "Éditer l'amélioration :name:",
-    "editReward": "Éditer la récompense :name:",
+    "editFaction": "Editer la faction :name:",
+    "editRank": "Editer le rang :name:",
+    "editUpgrade": "Editer l'amélioration :name:",
+    "editReward": "Editer la récompense :name:",
 
     "reward": "Récompense",
 
@@ -75,9 +75,9 @@
 
     "name": "Nom",
     "description": "Description",
-    "factionTag": "Tag de fation",
+    "factionTag": "Tag de la faction",
     "subfactionOf": "Sous-faction de",
-    "factionColor": "Couleur de faction",
+    "factionColor": "Couleur de la faction",
     "icon": "Icône",
     "factionIcon": "Icône de faction",
     "maxMembers": "Membres max",
@@ -89,10 +89,10 @@
 
     "inviteOnly": "Invitation seulement",
 
-    "noRanksAvailable": "Aucun rangs disponibles!",
+    "noRanksAvailable": "Aucun rang disponible !",
 
     "rankTag": "Tag de rang",
-    "job": "Job",
+    "job": "Métier",
 
     "ranking": "Classement",
     "totalUpgrades": "Améliorations totales",
@@ -150,15 +150,15 @@
     "factionAndSubfactions": "Faction et sous-faction",
     "minimumLevel": "Niveau minimum",
 
-    "upgradeCreated": "Amélioration créée avec succès :name:!",
-    "upgradeDeleted": "Amélioration supprimée avec succès :name:!",
-    "upgradeEdited": "Amélioration éditée avec succès :name:!",
-    "deleteUpgradePrompt": "Êtes-vous sûr de vouloir supprimer l'amélioration :upgrade:? Cette action est permanente!",
+    "upgradeCreated": "Amélioration créée avec succès :name: !",
+    "upgradeDeleted": "Amélioration supprimée avec succès :name: !",
+    "upgradeEdited": "Amélioration éditée avec succès :name: !",
+    "deleteUpgradePrompt": "Êtes-vous sûr de vouloir supprimer l'amélioration :upgrade: ? Cette action est définitive !",
 
-    "rewardCreated": "Récompense créée avec succès :name:!",
-    "rewardDeleted": "Récompense supprimée avec succès :name:!",
-    "rewardEdited": "Récompense éditée avec succès :name:!",
-    "deleteRewardPrompt": "Êtes-vous sûr de vouloir supprimer la récompense :reward:? Cette action est permanente!",
+    "rewardCreated": "Récompense créée avec succès :name: !",
+    "rewardDeleted": "Récompense supprimée avec succès :name: !",
+    "rewardEdited": "Récompense éditée avec succès :name: !",
+    "deleteRewardPrompt": "Êtes-vous sûr de vouloir supprimer la récompense :reward: ? Cette action est définitive !",
 
     "moveTool": "Outil de déplacement",
     "connectorTool": "Outil de connexion",
@@ -167,40 +167,40 @@
     "moneyRewarded": "Argent gagné",
     "xpRewarded": "XP gagné",
 
-    "reward_pointscaptured": "Points Capturés",
-    "reward_desc_pointscaptured": "Combien de points faut-il capturer au total pour débloquer cela?",
+    "reward_pointscaptured": "Points capturés",
+    "reward_desc_pointscaptured": "Combien de points faut-il capturer au total pour débloquer cela ?",
 
     "upgr_speedboost": "Boost de vitesse",
     "upgr_desc_speedboost": "Augmente la vitesse de déplacement des joueurs.",
-    "upgr_descval_speedboost": "De combien un joueur devrait-il être plus rapide en %?",
+    "upgr_descval_speedboost": "De combien un joueur devrait-il être plus rapide en % ?",
 
-    "upgr_weapon": "Arme Permanente",
+    "upgr_weapon": "Arme permanente",
     "upgr_desc_weapon": "Donne une arme au joueur lors de son apparition.",
-    "upgr_descval_weapon": "Quel est le nom de la classe de l'arme?",
+    "upgr_descval_weapon": "Quel est le nom de la classe de l'arme ?",
 
     "upgr_jumpboost": "Boost de saut",
     "upgr_desc_jumpboost": "Augmente la puissance de saut des joueurs.",
-    "upgr_descval_jumpboost": "De combien un joueur devrait-il sauter plus haut en %?",
+    "upgr_descval_jumpboost": "De combien un joueur devrait-il sauter plus haut en % ?",
 
-    "upgr_morehp": "Plus de Santé",
+    "upgr_morehp": "Plus de santé",
     "upgr_desc_morehp": "Augmente la santé des joueurs.",
-    "upgr_descval_morehp": "De combien la santé d'un joueur devrait-elle augmenter en %?",
+    "upgr_descval_morehp": "De combien la santé d'un joueur devrait-elle augmenter en % ?",
 
     "upgr_lockpickspeed": "Crochetage plus rapide",
     "upgr_desc_lockpickspeed": "Augmente la vitesse du crochetage",
-    "upgr_descval_lockpickspeed": "De combien devrait être le temps de crochetage en %? (0-100%)",
+    "upgr_descval_lockpickspeed": "De combien devrait être le temps de crochetage en % ? (0-100%)",
 
-    "upgr_maxmembers": "Membres Max",
+    "upgr_maxmembers": "Membres max",
     "upgr_desc_maxmembers": "Augmente le nombre maximum de membres.",
     "upgr_descval_maxmembers": "Combien de membres maximum peuvent être ajoutés ?",
 
     "upgr_maxitems": "Objets Max",
-    "upgr_desc_maxitems": "Augmente le nombre maximum d'objets..",
-    "upgr_descval_maxitems": "Combien d'objets maximum peuvent être ajoutés?",
+    "upgr_desc_maxitems": "Augmente le nombre maximum d'objets.",
+    "upgr_descval_maxitems": "Combien d'objets maximum peuvent être ajoutés ?",
 
     "upgr_capturetime": "Temps de Capture",
     "upgr_desc_capturetime": "Diminue le temps de capture des points.",
-    "upgr_descval_capturetime": "Combien de secondes à soustraire du temps de capture?",
+    "upgr_descval_capturetime": "Combien de secondes à soustraire du temps de capture ?",
 
     "success": "Succès",
     "error": "Erreur",
@@ -208,86 +208,86 @@
 
     "properties": "Propriétés",
 
-    "factionCreated": "La faction :name: a été créée avec succès!",
-    "factionUpdated": "La faction :name: a été éditée avec succès!",
-    "factionDeleted": "La faction :name: a été supprimée avec succès!",
+    "factionCreated": "La faction :name: a été créée avec succès !",
+    "factionUpdated": "La faction :name: a été éditée avec succès !",
+    "factionDeleted": "La faction :name: a été supprimée avec succès !",
     "memberCountDemoted": "(:count: membres ont été rétrogradés)",
 
-    "rankCreated": "Le rang :name: a été créé avec succès!",
-    "rankUpdated": "Le rang :name: a été édité avec succès!",
-    "rankDeleted": "Le rang :name: a été supprimé avec succès!",
-    "maxRanksCreated": "Impossible de créer le rang :name: parce que la limite (:limit:) a été dépassée!",
-    "maxFactionsCreated": "Impossible de créer la faction :name: parce que la limite (:limit:) a été dépassée!",
-    "membersInRankErr": "Impossible de supprimer le rang :name: car il y a des membres à l'intérieur et ils ne peuvent pas être rétrogradés!",
+    "rankCreated": "Le rang :name: a été créé avec succès !",
+    "rankUpdated": "Le rang :name: a été édité avec succès !",
+    "rankDeleted": "Le rang :name: a été supprimé avec succès !",
+    "maxRanksCreated": "Impossible de créer le rang :name: parce que la limite (:limit:) a été dépassée !",
+    "maxFactionsCreated": "Impossible de créer la faction :name: parce que la limite (:limit:) a été dépassée !",
+    "membersInRankErr": "Impossible de supprimer le rang :name: car il y a des membres à l'intérieur et ils ne peuvent pas être rétrogradés !",
 
-    "memberInvited": "Le joueur :name: a été invité avec succès à :faction:!",
-    "memberInvitePending": "Le joueur :name: a déjà une invitation en attente!",
-    "memberInviteAccepted": "Le joueur :name: a accepté votre invitation!",
+    "memberInvited": "Le joueur :name: a été invité avec succès à :faction: !",
+    "memberInvitePending": "Le joueur :name: a déjà une invitation en attente !",
+    "memberInviteAccepted": "Le joueur :name: a accepté votre invitation !",
 
     "memberJoinedFaction": "Vous avez rejoint :faction:",
     "memberLeftFaction": "Vous avez quitté :faction:",
 
-    "memberKicked": "Le membre :name: a été expulsé avec succès!",
-    "memberAdded": "Le joueur :name: a été ajouté avec succès à la faction :faction:!",
+    "memberKicked": "Le membre :name: a été expulsé avec succès !",
+    "memberAdded": "Le joueur :name: a été ajouté avec succès à la faction :faction: !",
 
-    "itemDeposited": "L'objet :name: a été déposé avec succès!",
-    "itemWithdrawn": "L'objet :name: a été retiré avec succès!",
+    "itemDeposited": "L'objet :name: a été déposé avec succès !",
+    "itemWithdrawn": "L'objet :name: a été retiré avec succès !",
 
-    "moneyDeposited": ":money: déposé avec succès!",
-    "moneyWithdrawn": ":money: retiré avec succès!",
+    "moneyDeposited": ":money: déposé avec succès !",
+    "moneyWithdrawn": ":money: retiré avec succès !",
 
-    "noFactionMoney": "La faction n'a pas autant d'argent!",
+    "noFactionMoney": "La faction n'a pas autant d'argent !",
 
-    "memberRankChanged": "Le rang de :name: a été réglé sur :rank:!",
-    "memberPromoted": "Le membre :name: a été promu au rang :rank:!",
-    "memberDemoted": "Le membre :name: a été rétrogradé au rang :rank:!",
+    "memberRankChanged": "Le rang de :name: a été réglé sur :rank: !",
+    "memberPromoted": "Le membre :name: a été promu au rang :rank: !",
+    "memberDemoted": "Le membre :name: a été rétrogradé au rang :rank: !",
 
-    "youPromoted": "Vous avez été promu au rang :rank:!",
-    "youDemoted": "Vous avez été rétrogradé au rang :rank:!",
-    "youRankChanged": "Votre rang a été réglé à :rank:!",
+    "youPromoted": "Vous avez été promu au rang :rank: !",
+    "youDemoted": "Vous avez été rétrogradé au rang :rank: !",
+    "youRankChanged": "Votre rang a été réglé à :rank: !",
 
-    "nameShort": "Le nom est trop court!",
-    "nameLong": "Le nom est trop long!",
-    "tagShort": "Le tag est trop court!",
-    "tagLong": "Le tag est trop long!",
-    "maxMembersLimit": "Le nombre maximum de membres est trop grand!",
-    "noJobs": "Il n'y a aucun job attribué à ce rang!",
+    "nameShort": "Le nom est trop court !",
+    "nameLong": "Le nom est trop long !",
+    "tagShort": "Le tag est trop court !",
+    "tagLong": "Le tag est trop long !",
+    "maxMembersLimit": "Le nombre maximum de membres est trop grand !",
+    "noJobs": "Il n'y a aucun métier attribué à ce rang !",
 
-    "maxMembersErr": "La faction est pleine!",
-    "maxRankMembersErr": "Le rang est complet!",
-    "minLevelErr": "Vous n'avez pas le niveau requis!",
+    "maxMembersErr": "La faction est complète !",
+    "maxRankMembersErr": "Le rang est complet !",
+    "minLevelErr": "Vous n'avez pas le niveau requis !",
 
-    "nothingToShow": "Il n'y a rien à montrer!",
-    "thereAreNoMembers": "Il n'y a pas de membres!",
+    "nothingToShow": "Il n'y a rien à montrer !",
+    "thereAreNoMembers": "Il n'y a pas de membres !",
 
-    "capturePoint": "Point de Capture",
-    "capturePointCreated": "Point de capture créé!",
-    "capturePointDeleted": "Point de capture supprimé!",
+    "capturePoint": "Point de capture",
+    "capturePointCreated": "Point de capture créé !",
+    "capturePointDeleted": "Point de capture supprimé !",
     "capturePointContested": "Contesté",
     "capturing": "Capture",
     "paused": "Pause",
     "claimed": "Obtenu",
     "notClaimed": "Non obtenu",
 
-    "unlockedReward": "Récompense :reward: débloquée!",
+    "unlockedReward": "Récompense :reward: débloquée !",
 
-    "cantJoinNoDefaultFactions": "Les factions par défaut devront être configurées avant de rejoindre une faction! Faites-en une et reconnectez-vous.",
-    "noDefaultFactions": "Il n'y a pas de factions par défaut! Elles devront être configurées!",
+    "cantJoinNoDefaultFactions": "Les factions par défaut devront être configurées avant de rejoindre une faction ! Faites-en une et reconnectez-vous.",
+    "noDefaultFactions": "Il n'y a pas de factions par défaut ! Elles devront être configurées !",
 
-    "deleteRankPrompt": "Êtes-vous sûr de vouloir supprimer le rang :rank:? Cette action est permanente!",
-    "deleteFactionPrompt": "Êtes-vous sûr de vouloir supprimer la faction :faction:? Cette action est permanente!",
-    "disbandFactionPrompt": "Êtes-vous vraiment sûr de vouloir dissoudre votre faction? Cette action est permanente!",
+    "deleteRankPrompt": "Êtes-vous sûr de vouloir supprimer le rang :rank:? Cette action est permanente !",
+    "deleteFactionPrompt": "Êtes-vous sûr de vouloir supprimer la faction :faction:? Cette action est permanente !",
+    "disbandFactionPrompt": "Êtes-vous vraiment sûr de vouloir dissoudre votre faction? Cette action est permanente !",
 
     "disbandFaction": "Dissoudre la faction",
 
     "switch": "Changer",
     "switchType": "Changer le type de faction",
-    "switchTypePrompt": "Voulez-vous vraiment changer de type de faction? Toutes les factions seront supprimées! Votre serveur sera redémarré après le changement de type!",
-    "restartingIn": "Redémarrage du serveur dans :time: secondes!",
+    "switchTypePrompt": "Voulez-vous vraiment changer de type de faction? Toutes les factions seront supprimées! Votre serveur sera redémarré après le changement de type !",
+    "restartingIn": "Redémarrage du serveur dans :time: secondes !",
 
-    "changingJobRestricted": "Vous n'avez pas accès à ce job!",
+    "changingJobRestricted": "Vous n'avez pas accès à ce job !",
 
-    "upgradePurchased": "Vous avez acheté l'amélioration :name:!",
+    "upgradePurchased": "Vous avez acheté l'amélioration :name: !",
 
     "inviteMember": "Inviter un nouveau membre",
 
@@ -318,7 +318,7 @@
     "leaveFaction": "Quitter la faction",
 
     "accept": "Accepter",
-    "deny": "Nier",
+    "deny": "Refuser",
     
     "cancel": "Annuler",
 
@@ -338,24 +338,24 @@
     "searchByName": "Recherche par nom",
 
     "kickMember": "Expulser un membre",
-    "kickMemberPrompt": "Etes-vous sûr de vouloir expulser :name: de :faction:?",
+    "kickMemberPrompt": "Etes-vous sûr de vouloir expulser :name: de :faction: ?",
 
-    "cantAfford": "Vous ne pouvez pas vous permettre cela!",
+    "cantAfford": "Vous ne pouvez pas vous permettre cela !",
 
     "staticFactionsContent": "Les membres du personnel sont capables de créer des factions et de décider qui sera le chef et quelles autorisations ont chaque rang.",
     "dynamicFactionsContent": "Les joueurs peuvent créer leur propre faction et en avoir un contrôle total. Personne ne leur dira comment les diriger.",
 
     "xp_npckilled": "NPC tués",
-    "xp_npckilled_desc": "Combien d'XP obtenez-vous pour avoir tué un NPC",
+    "xp_npckilled_desc": "Combien d'XP obtenez-vous pour avoir tué un NPC ?",
 
     "xp_territorycapped": "Point de capture capturé",
-    "xp_territorycapped_desc": "Combien d'XP obtenez-vous pour avoir capturé un point",
+    "xp_territorycapped_desc": "Combien d'XP obtenez-vous pour avoir capturé un point ?",
 
     "xp_territoryminute": "Prise de point de capture",
-    "xp_territoryminute_desc": "Combien d'XP obtenez-vous pour chaque point de capture par minute",
+    "xp_territoryminute_desc": "Combien d'XP obtenez-vous pour chaque point de capture par minute ?",
 
     "xp_playtime": "Temps de jeu",
-    "xp_playtime_desc": "Combien d'XP obtenez-vous pour quelle période",
+    "xp_playtime_desc": "Combien d'XP obtenez-vous pour quelle période ?",
 
     "experience": "Expérience",
     "commands": "Commandes",
@@ -369,31 +369,31 @@
     "selectPointToView": "Sélectionnez une amélioration pour afficher ses informations...",
 
     "settings_language": "Langage",
-    "settings_language_desc": "Quelle langue doit utiliser VoidFactions?",
+    "settings_language_desc": "Quelle langue doit utiliser VoidFactions ?",
 
     "settings_menucommand": "Commande de menu",
-    "settings_menucommand_desc": "Quelle commande sera utilisée pour ouvrir le menu?",
+    "settings_menucommand_desc": "Quelle commande sera utilisée pour ouvrir le menu ?",
 
     "settings_maxtaglength": "Longueur max du tag ",
     "settings_maxtaglength_desc": "De quelle taille peut être le tag de faction ?",
 
     "settings_defaultrankname": "Nom de rang du propriétaire par défaut",
-    "settings_defaultrankname_desc": "Quel sera le nom du rang par défaut du propriétaire?",
+    "settings_defaultrankname_desc": "Quel sera le nom du rang par défaut du propriétaire ?",
 
     "settings_defaultmaxmembers": "Membres max par défaut",
-    "settings_defaultmaxmembers_desc": "Quel sera le nombre max de membres au commencement de la faction?",
+    "settings_defaultmaxmembers_desc": "Quel sera le nombre max de membres au commencement de la faction ?",
 
     "settings_defaultmaxitems": "Objets max par défaut",
-    "settings_defaultmaxitems_desc": "Quel sera le nombre max d'objets au commencement de la faction?",
+    "settings_defaultmaxitems_desc": "Quel sera le nombre max d'objets au commencement de la faction ?",
 
-    "settings_factioncreatecost": "Coût de création de faction",
-    "settings_factioncreatecost_desc": "Combien cela coûtera-t-il pour créer une faction?",
+    "settings_factioncreatecost": "Coût de la création d'une faction",
+    "settings_factioncreatecost_desc": "Combien cela coûtera-t-il pour créer une faction ?",
 
-    "settings_factioncreatecurrency": "Monnaie de création de faction",
-    "settings_factioncreatecurrency_desc": "Quelle monnaie doit être utilisée pour la création d'une faction?",
+    "settings_factioncreatecurrency": "Monnaie de la création d'une faction",
+    "settings_factioncreatecurrency_desc": "Quelle monnaie doit être utilisée pour la création d'une faction ?",
 
     "settings_promotecanselect": "Sélectionnez la faction lors de la promotion",
-    "settings_promotecanselect_desc": "Peut-on sélectionner une faction spécifique lors de la promotion entre les factions?",
+    "settings_promotecanselect_desc": "Peut-on sélectionner une faction spécifique lors de la promotion entre les factions ?",
 
     "settings_menubind": "Association de touches de menu",
     "settings_menubind_desc": "Quelle touche sera utilisée pour ouvrir le menu?",

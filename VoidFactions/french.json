@@ -13,7 +13,7 @@
     "sessionPlaytime": "Temps de jeu de session",
     "totalPlaytime": "Temps de jeu total",
 
-    "balance": "Equilibre:",
+    "balance": "Solde :",
     "itemCount": ":x:/:max: objets",
 
     "transactionHistory": "Historique des transactions",
@@ -49,8 +49,8 @@
     "chooseMode": "Choisissez votre mode",
     "chooseFaction": "Choisissez votre faction",
 
-    "suitedForSerious": "Conviens pour du SeriousRP",
-    "suitedForNonSerious": "Conviens pour du Semi-SeriousRP",
+    "suitedForSerious": "Convient pour du SeriousRP",
+    "suitedForNonSerious": "Convient pour du Semi-SeriousRP",
 
     "addFaction": "Ajouter une nouvelle faction",
     "addRank": "Ajouter un nouveau rang",
@@ -62,10 +62,10 @@
     "faction": "Faction",
     "factionName": "Nom de la faction",
 
-    "editFaction": "Editer la faction :name:",
-    "editRank": "Editer le rang :name:",
-    "editUpgrade": "Editer l'amélioration :name:",
-    "editReward": "Editer la récompense :name:",
+    "editFaction": "Éditer la faction :name:",
+    "editRank": "Éditer le rang :name:",
+    "editUpgrade": "Éditer l'amélioration :name:",
+    "editReward": "Éditer la récompense :name:",
 
     "reward": "Récompense",
 
@@ -83,8 +83,8 @@
     "maxMembers": "Membres max",
 
     "canCaptureTerritory": "Peut capturer un territoire",
-    "showOnBoard": "Montrer au tableau",
-    "inviteRequired": "Nécessite une invitation pour rejoindre",
+    "showOnBoard": "Montrer sur le tableau",
+    "inviteRequired": "Invitation requise",
     "isDefaultFaction": "Est la faction par défaut",
 
     "inviteOnly": "Invitation seulement",
@@ -120,7 +120,7 @@
 
     "you": "Vous",
 
-    "kick": "Expulser",
+    "kick": "Exclure",
     "inviteMembers": "Inviter des membres",
     "kickMembers": "Expulser des membres",
 
@@ -132,10 +132,10 @@
     "manageFaction": "Gérer la faction",
     "purchaseUpgrades": "Acheter des améliorations",
 
-    "canWithdrawMoney": "Retirer de l'argent",
-    "canDepositMoney": "Déposer de l'argent",
-    "canWithdrawItems": "Retirer des objets",
-    "canDepositItems": "Déposer des objets",
+    "canWithdrawMoney": "Peut retirer de l'argent",
+    "canDepositMoney": "Peut déposer de l'argent",
+    "canWithdrawItems": "Peut retirer des objets",
+    "canDepositItems": "Peut déposer des objets",
 
     "depositMoney": "Déposer de l'argent",
     "withdrawMoney": "Retirer de l'argent",
@@ -227,7 +227,7 @@
     "memberJoinedFaction": "Vous avez rejoint :faction:",
     "memberLeftFaction": "Vous avez quitté :faction:",
 
-    "memberKicked": "Le membre :name: a été expulsé avec succès !",
+    "memberKicked": "Le membre :name: a été exclu avec succès !",
     "memberAdded": "Le joueur :name: a été ajouté avec succès à la faction :faction: !",
 
     "itemDeposited": "L'objet :name: a été déposé avec succès !",
@@ -274,15 +274,15 @@
     "cantJoinNoDefaultFactions": "Les factions par défaut devront être configurées avant de rejoindre une faction ! Faites-en une et reconnectez-vous.",
     "noDefaultFactions": "Il n'y a pas de factions par défaut ! Elles devront être configurées !",
 
-    "deleteRankPrompt": "Êtes-vous sûr de vouloir supprimer le rang :rank:? Cette action est permanente !",
-    "deleteFactionPrompt": "Êtes-vous sûr de vouloir supprimer la faction :faction:? Cette action est permanente !",
-    "disbandFactionPrompt": "Êtes-vous vraiment sûr de vouloir dissoudre votre faction? Cette action est permanente !",
+    "deleteRankPrompt": "Êtes-vous sûr de vouloir supprimer le rang :rank:? Cette action est définitive !",
+    "deleteFactionPrompt": "Êtes-vous sûr de vouloir supprimer la faction :faction:? Cette action est définitive !",
+    "disbandFactionPrompt": "Êtes-vous vraiment sûr de vouloir dissoudre votre faction? Cette action est définitive !",
 
     "disbandFaction": "Dissoudre la faction",
 
     "switch": "Changer",
     "switchType": "Changer le type de faction",
-    "switchTypePrompt": "Voulez-vous vraiment changer de type de faction? Toutes les factions seront supprimées! Votre serveur sera redémarré après le changement de type !",
+    "switchTypePrompt": "Voulez-vous vraiment changer de type de faction ? Toutes les factions seront supprimées! Votre serveur sera redémarré après le changement de type !",
     "restartingIn": "Redémarrage du serveur dans :time: secondes !",
 
     "changingJobRestricted": "Vous n'avez pas accès à ce job !",
@@ -302,7 +302,7 @@
     "details": "Détails",
     "viewDetails": "Voir les détails",
     "join": "Rejoindre",
-    "lastSeen": "Dernièrement vue",
+    "lastSeen": "Vu en dernier",
 
     "ago": "Il y a :time:",
     "never": "Jamais",
@@ -337,8 +337,8 @@
 
     "searchByName": "Recherche par nom",
 
-    "kickMember": "Expulser un membre",
-    "kickMemberPrompt": "Etes-vous sûr de vouloir expulser :name: de :faction: ?",
+    "kickMember": "Exclure un membre",
+    "kickMemberPrompt": "Êtes-vous sûr de vouloir expulser :name: de :faction: ?",
 
     "cantAfford": "Vous ne pouvez pas vous permettre cela !",
 
@@ -355,7 +355,7 @@
     "xp_territoryminute_desc": "Combien d'XP obtenez-vous pour chaque point de capture par minute ?",
 
     "xp_playtime": "Temps de jeu",
-    "xp_playtime_desc": "Combien d'XP obtenez-vous pour quelle période ?",
+    "xp_playtime_desc": "Combien d'XP obtenez-vous et en combien de temps ?",
 
     "experience": "Expérience",
     "commands": "Commandes",
@@ -396,13 +396,13 @@
     "settings_promotecanselect_desc": "Peut-on sélectionner une faction spécifique lors de la promotion entre les factions ?",
 
     "settings_menubind": "Association de touches de menu",
-    "settings_menubind_desc": "Quelle touche sera utilisée pour ouvrir le menu?",
+    "settings_menubind_desc": "Quelle touche sera utilisée pour ouvrir le menu ?",
 
     "settings_depositcurrency": "Monnaie de dépôt",
-    "settings_depositcurrency_desc": "Quelle monnaie doit-être utilisée pour les dépôts?",
+    "settings_depositcurrency_desc": "Quelle monnaie doit-être utilisée pour les dépôts ?",
 
     "settings_depositinventory": "Dépôt d'inventaire",
-    "settings_depositinventory_desc": "Quel inventaire doit être utilisé pour les dépôts?",
+    "settings_depositinventory_desc": "Quel inventaire doit être utilisé pour les dépôts ?",
 
     "settings_inviteduration": "Durée de l'invitation",
     "settings_inviteduration_desc": "Pendant combien de temps une invitation restera-t-elle active? (secondes)",
@@ -411,19 +411,19 @@
     "settings_pointrenderdist_desc": "À quelle distance le point de capture doit-il être affiché?",
 
     "settings_showpointdistances": "Afficher les distances",
-    "settings_showpointdistances_desc": "Les distances des points de capture doivent-elles être affichées?",
+    "settings_showpointdistances_desc": "Les distances des points de capture doivent-elles être affichées ?",
 
     "settings_pointcaptime": "Temps de capture",
     "settings_pointcaptime_desc": "Combien de temps faut-il pour capturer un point? (secondes)",
 
     "settings_baselevelupxp": "Niveau supérieur XP",
-    "settings_baselevelupxp_desc": "Combien d'XP faut-il pour augmenter de niveau?",
+    "settings_baselevelupxp_desc": "Combien d'XP faut-il pour augmenter de niveau ?",
 
     "settings_levelupmultiplier": "Niveau supérieur multiplicateur",
-    "settings_levelupmultiplier_desc": "De combien le nombre d'expérience requis sera augmenté?",
+    "settings_levelupmultiplier_desc": "De combien le nombre d'expérience requis sera augmenté ?",
 
     "settings_maxlevel": "Niveau max",
-    "settings_maxlevel_desc": "Quel est le niveau maximum que vous pouvez atteindre?",
+    "settings_maxlevel_desc": "Quel est le niveau maximum que vous pouvez atteindre ?",
 
     "settings_disablenametag": "Désactiver les noms",
     "settings_disablenametag_desc" : "Désactiver les noms de factions affichés dans le chat."

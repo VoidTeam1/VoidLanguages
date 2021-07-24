@@ -65,7 +65,7 @@
 
     "editFaction": "Изменить фракцию :name:",
     "editRank": "Изменить ранг :name:",
-    "editUpgrade": "Изменить улудшение :name:",
+    "editUpgrade": "Изменить улучшение :name:",
     "editReward": "Изменить награду :name:",
 
     "reward": "Награды",
@@ -83,9 +83,9 @@
     "factionIcon": "Иконка фракции",
     "maxMembers": "Макс участников",
 
-    "canCaptureTerritory": "Может захватывать территорию",
-    "showOnBoard": "Показать на борде",
-    "inviteRequired": "Требуется приглашение присоединиться",
+    "canCaptureTerritory": "Может захватывать точки",
+    "showOnBoard": "Показывать на доске",
+    "inviteRequired": "Требуется приглашение",
     "isDefaultFaction": "Фракция по умолчанию",
 
     "inviteOnly": "Только по приглашению",
@@ -97,25 +97,25 @@
     "job": "Профессия",
 
     "ranking": "Ранжирование",
-    "totalUpgrades": "Всего улудшений",
+    "totalUpgrades": "Всего улучшений",
 
     "showingPagination": "Показать :from:-:to:",
     "page": "Страница",
     "from": "Из",
 
-    "createUpgrade": "Создать улудшение",
-    "deleteUpgrade": "Удалить улудшение",
+    "createUpgrade": "Создать улучшение",
+    "deleteUpgrade": "Удалить улучшение",
 
     "createReward": "Создать награду",
     "deleteReward": "Удалить награду",
 
-    "upgradeModule": "Модуль улудшений",
+    "upgradeModule": "Модуль улучшений",
     "rewardModule": "RМодуль наград",
     "moduleValue": "Значение модуля",
 
     "tools": "Tools",
 
-    "upgradeCount": ":x: Улудшений",
+    "upgradeCount": ":x: Улучшений",
     "rewardCount": ":x: Наград",
 
     "price": "Цена",
@@ -123,16 +123,16 @@
     "you": "Ты",
 
     "kick": "Выгнать",
-    "inviteMembers": "Приглашённые",
-    "kickMembers": "Выгнаные",
+    "inviteMembers": "Приглашать",
+    "kickMembers": "Выгонять",
 
-    "promoteMembers": "Список повышенных",
-    "demoteMembers": "Список пониженных",
+    "promoteMembers": "Повышать",
+    "demoteMembers": "Понижать",
 
     "setRanks": "Выдать ранг",
 
     "manageFaction": "Управляйте фракцией",
-    "purchaseUpgrades": "Купить улудшения",
+    "purchaseUpgrades": "Покупка улучшений",
 
     "canWithdrawMoney": "Снять денег",
     "canDepositMoney": "Положить денег",
@@ -152,9 +152,9 @@
     "factionAndSubfactions": "Фракция и подфракции",
     "minimumLevel": "Минимальный уровень",
 
-    "upgradeCreated": "Успешно созданное улудшение :name:!",
-    "upgradeDeleted": "Улудшение успешно удалено :name:!",
-    "upgradeEdited": "Улудшение успешно изменено :name:!",
+    "upgradeCreated": "Успешно созданное улучшение :name:!",
+    "upgradeDeleted": "Улучшение успешно удалено :name:!",
+    "upgradeEdited": "Улучшение успешно изменено :name:!",
     "deleteUpgradePrompt": "Вы уверены, что хотите удалить обновление? :upgrade:? Это действие навсегда!",
 
     "rewardCreated": "Успешно созданна награда :name:!",
@@ -164,7 +164,7 @@
 
     "moveTool": "Инструмент перемещения",
     "connectorTool": "Инструмент соединителя",
-    "addUpgrade": "Добавить новое улудшение",
+    "addUpgrade": "Добавить новое улучшение",
 
     "moneyRewarded": "Денежная награда",
     "xpRewarded": "XP награда",
@@ -178,8 +178,8 @@
     "reward_moneydeposited": "Внесено денег",
     "reward_desc_moneydeposited": "Сколкьо нужно внести денег, чтобы открыть это?",
 
-    "reward_upgradesdeposited": "Улудшений открыто",
-    "reward_desc_upgradesdeposited": "Сколько нужно открыть улудшений, чтобы открыть это?",
+    "reward_upgradesdeposited": "Улучшений открыто",
+    "reward_desc_upgradesdeposited": "Сколько нужно открыть улучшений, чтобы открыть это?",
 
     "reward_membersjoined": "Участников присоеденилось",
     "reward_desc_membersjoined": "Сколько нужно присоединившихся участников, чтобы открыть это?",
@@ -307,8 +307,8 @@
 	"switchTypePrompt": "Вы уверены, что хотите сменить тип фракции? Все фракции будут удалены! Ваш сервер будет перезагружен после смены типа!",
 	"restartingIn": "Перезапуск сервера через: время: секунды!",
 	"changingJobRestricted": "У вас нет доступа к этой работе!",
-	"upgradePurchased":"Вы приобрели обновление :name!",
-	"inviteMember": "Пригласить нового участника",
+	"upgradePurchased":"Вы приобрели обновление :name:!",
+	"inviteMember": "Пригласить игрока",
 	"factionInvite": "Приглашение фракции",
 	"invitedTo": "Вас пригласили",
 	"memberCount": ":x:/:total: участников",
@@ -327,7 +327,7 @@
 	"deleteFaction": "Удалить фракцию",
 	"deleteRank": "Удалить ранг",
 	"leave": "Выйти",
-	"leaveFaction": "Выйти с фракции",
+	"leaveFaction": "Выйти из фракции",
 	"accept": "Подтвердить",
 	"deny": "Отказаться",
 	"cancel": "Отмена",
@@ -349,7 +349,7 @@
 
 	"cantAfford": "Вы не можете это сделать!",
 
-	"staticFactionsContent": "Участники персонала могут создавать фракции и решать, кто будет лидером и какие права есть у каждого ранга.",
+	"staticFactionsContent": "Администрация может создавать фракции и решать, кто будет лидером и какие права есть у каждого ранга.",
 	"dynamicFactionsContent": "Игроки могут создать свою фракцию и иметь полный контроль над ней. Никто не скажет им, как ею руководить.",
 
 	"xp_npckilled": "Персонаж умер",
@@ -373,7 +373,7 @@
 	"upgradetree": "Дерево улучшений",
 	"upgradepoints": "Очки улучшений",
 
-	"selectPointToView": "Выберите обновление, чтобы просмотреть информацию о нем ... ",
+	"selectPointToView": "Выберите улучшение, чтобы просмотреть информацию о нем ... ",
 
 	"settings_language": "Язык",
 	"settings_language_desc": "На каком языке следует использовать VoidFactions?",
@@ -415,7 +415,7 @@
 	"settings_inviteduration_desc": "Как долго приглашение будет оставаться активным? (Секунды)",
 
 	"settings_pointrenderdist": "Дистанция прорисовки" ,
-	"settings_pointrenderdist_desc": "Как далеко должна нарисоваться точка захвата?",
+	"settings_pointrenderdist_desc": "Как далеко должна прорисовываться точка захвата?",
 
 	"settings_showpointdistances": "Показать расстояние",
 	"settings_showpointdistances_desc": "Следует ли отображать расстояния до точек захвата?",
@@ -436,5 +436,11 @@
 	"settings_disablenametag_desc" : "Отключить тег с названием фракции который отображается в чате.",
 
 	"settings_skipfirstrank" : "Пропустить первый ранг?",
-	"settings_skipfirstrank_desc" : "Должен ли быть пропущен первый ранг при возвращении в стандартную фракцию?"
+	"settings_skipfirstrank_desc" : "Должен ли быть пропущен первый ранг при возвращении в стандартную фракцию?",
+
+        "settings_disablexpsystem" : "Отключить XP систему?",
+        "settings_disablexpsystem_desc" : "Вы хотите отключить встроенную XP систему?",
+
+        "usergroups" : "Требуется группа",
+        "wrongUsergroup" : "У вас неправильная группа!"
 }

@@ -429,6 +429,9 @@
     "settings_upgradesenabled": "Upgrades enabled",
     "settings_upgradesenabled_desc": "Should faction upgrades be enabled in static factions?",
 
+    "settings_depositenabled": "Deposits enabled",
+    "settings_depositenabled_desc": "Should faction deposits be enabled in static factions?",
+
     "settings_promotecanselect": "Select faction on promote",
     "settings_promotecanselect_desc": "Can select specific faction on promote between factions?",
 

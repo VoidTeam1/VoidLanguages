@@ -5,10 +5,10 @@
     "deposit": "Внести",
     "rewards": "Награды",
 
-    "lastPromote": "Посл повышение",
-    "autoPromote": "Авто повышение",
+    "lastPromote": "Последнее повышение",
+    "autoPromote": "Автоматическое повышение",
     "rankTemplate": "Шаблон ранга",
-    "nextAutoPromote": "След авто повышение",
+    "nextAutoPromote": "Следущее авто повышение",
     "joined": "Присоединился",
     "sessionPlaytime": "Время сессии",
     "totalPlaytime": "Общее время",
@@ -28,9 +28,9 @@
     "assets": "Активы",
 
     "createFaction": "Создать фракцию",
-    "joinFaction": "Присоеднится к фракции",
+    "joinFaction": "Присоедниться к фракции",
     
-    "createFactionOrJoin": "Создай фракцию или присоединись к существующей",
+    "createFactionOrJoin": "Создайте фракцию или присоединитесь к существующей",
     "noFactionText": "Вы можете либо создать новую фракцию и стать её боссом, либо присоединиться к уже существующей..",
     "factionCreateCost": "Стоимость создания новой фракции :color: :money:.",
 
@@ -38,20 +38,20 @@
     "create": "Создать",
 
     "factions": "Фракции",
-    "dynamic": "Динамика",
-    "static": "Статистика",
+    "dynamic": "Динамические",
+    "static": "Статичные",
 
-    "setup": "Установки",
+    "setup": "Виды фракций",
     "options": "Настройки",
 
     "levelUp": "Уровень повышен!",
-    "levelUpMsg": "У вас :level: уровень",
+    "levelUpMsg": "У вас теперь :level: уровень",
 
-    "chooseMode": "Выбери мод",
-    "chooseFaction": "Выбе фракцию",
+    "chooseMode": "Выберите режим",
+    "chooseFaction": "Выберите фракцию",
 
-    "suitedForSerious": "Подходит для SeriousRP",
-    "suitedForNonSerious": "Подходит для несерьезных RP",
+    "suitedForSerious": "Подходит для серьёзных РП",
+    "suitedForNonSerious": "Подходит для несерьезных РП",
 
     "addFaction": "Добавить новую фракцию",
     "addRank": "Добавить новый ранг",
@@ -79,12 +79,12 @@
     "factionTag": "Тэг фракции",
     "subfactionOf": "Подфракция",
     "factionColor": "Цвет фракции",
-    "icon": "Icon",
+    "icon": "Иконка",
     "factionIcon": "Иконка фракции",
     "maxMembers": "Макс участников",
 
     "canCaptureTerritory": "Может захватывать точки",
-    "showOnBoard": "Показывать на доске",
+    "showOnBoard": "Показывать на доске лидеров",
     "inviteRequired": "Требуется приглашение",
     "isDefaultFaction": "Фракция по умолчанию",
 
@@ -113,7 +113,7 @@
     "rewardModule": "RМодуль наград",
     "moduleValue": "Значение модуля",
 
-    "tools": "Tools",
+    "tools": "Инструменты",
 
     "upgradeCount": ":x: Улучшений",
     "rewardCount": ":x: Наград",
@@ -196,11 +196,11 @@
     "upgr_desc_jumpboost": "Увеличивает силу прыжка игроков.",
     "upgr_descval_jumpboost": "На сколько игроку следует прыгнуть выше %?",
 
-    "upgr_morehp": "Больше HP",
+    "upgr_morehp": "Больше здоровья",
     "upgr_desc_morehp": "Увеличивает здоровье игроков.",
     "upgr_descval_morehp": "На сколько нужно увеличить здоровье игрока %?",
 
-    "upgr_morearmor": "Больше Брони",
+    "upgr_morearmor": "Больше брони",
     "upgr_desc_morearmor": "Увеличивает броню игроков.",
     "upgr_descval_morearmor": "На сколько нужно увеличить броню игрока %?",
 
@@ -235,9 +235,9 @@
     "factionDeleted": "Фракция :name: успешно удалена!",
     "memberCountDemoted": "(:count: участников было понижено)",
 
-    "rankCreated": "Ранг :name: was успешно создан!",
-    "rankUpdated": "Ранг :name: was успешно изменён!",
-    "rankDeleted": "Ранг :name: was успешно удалён!",
+    "rankCreated": "Ранг :name: был успешно создан!",
+    "rankUpdated": "Ранг :name: был успешно изменён!",
+    "rankDeleted": "Ранг :name: был успешно удалён!",
     "maxRanksCreated": "Не удалось создать ранг :name: из-за лимита символов (:limit:)!",
     "maxFactionsCreated": "Не удалось создать фракцию :name: из-за лимита символов (:limit:)!",
     "membersInRankErr": "Не удалось удалить ранг :name: Потому что внутри есть участники, и их нельзя понизить!",
@@ -376,7 +376,7 @@
 	"selectPointToView": "Выберите улучшение, чтобы просмотреть информацию о нем ... ",
 
 	"settings_language": "Язык",
-	"settings_language_desc": "На каком языке следует использовать VoidFactions?",
+	"settings_language_desc": "На каком языке использовать VoidFactions?",
 
 	"settings_menucommand": "Меню команд",
 	"settings_menucommand_desc": "Какая команда будет использоваться для открытия меню?",
@@ -441,6 +441,6 @@
         "settings_disablexpsystem" : "Отключить XP систему?",
         "settings_disablexpsystem_desc" : "Вы хотите отключить встроенную XP систему?",
 
-        "usergroups" : "Требуется группа",
-        "wrongUsergroup" : "У вас неправильная группа!"
+        "usergroups" : "Требуется ранг",
+        "wrongUsergroup" : "У вас неправильный ранг!"
 }

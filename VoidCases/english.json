@@ -242,6 +242,12 @@
 	
 	"equip_all_confirm": "Are you sure you want to equip all of :item:?",
 	"equip_multiple_confirm": "How many of :item: do you want to equip?",
+	"move_to_category": "Move to category",
+	"select_category": "Select the category you want to move item :item: to.",
+	"change": "Change",
+
+	"settings_npcmodel": "NPC Model",
+	"settings_npcmodel_desc": "The model that will be used for the NPC",
 
 	"settings_menubind": "Menu keybind",
 	"settings_menubind_desc": "Keybind that opens the VoidCases menu."

@@ -241,7 +241,7 @@
 	"equip_multiple": "Equip Multiple",
 	
 	"equip_all_confirm": "Are you sure you want to equip all of :item:?",
-	"equip_multiple_confirm": "Are you sure you want to equip :num:x of :item:?",
+	"equip_multiple_confirm": "How many of :item: do you want to equip?",
 
 	"settings_menubind": "Menu keybind",
 	"settings_menubind_desc": "Keybind that opens the VoidCases menu."

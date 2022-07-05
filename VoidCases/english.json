@@ -236,7 +236,13 @@
 	"pointshop_money": "Pointshop :x: Money",
 
 	"lua_code": "Lua Code",
+	"put_to_inventory": "Put to inventory",
+	"equip_all": "Equip All",
+	"equip_multiple": "Equip Multiple",
 	
+	"equip_all_confirm": "Are you sure you want to equip all of :item:?",
+	"equip_multiple_confirm": "Are you sure you want to equip :num:x of :item:?",
+
 	"settings_menubind": "Menu keybind",
 	"settings_menubind_desc": "Keybind that opens the VoidCases menu."
 }

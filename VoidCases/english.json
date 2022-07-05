@@ -246,6 +246,9 @@
 	"select_category": "Select the category you want to move item :item: to.",
 	"change": "Change",
 
+	"duplicate": "Duplicate",
+	"duplicate_confirm": "Are you sure you want to duplicate item :item:",
+
 	"settings_npcmodel": "NPC Model",
 	"settings_npcmodel_desc": "The model that will be used for the NPC",
 

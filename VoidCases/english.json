@@ -235,6 +235,7 @@
 	"viewing_inventory": "Viewing inventory of :name:",
 	"pointshop_money": "Pointshop :x: Money",
 
+	"lua_code": "Lua Code",
 	
 	"settings_menubind": "Menu keybind",
 	"settings_menubind_desc": "Keybind that opens the VoidCases menu."

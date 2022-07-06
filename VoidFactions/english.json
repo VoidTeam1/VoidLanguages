@@ -478,5 +478,7 @@
     "settings_nametagsdisabled_desc" : "Do you want to disable the faction tag infront of the name?",
     
     "usergroups" : "Usergroup Needed",
-    "wrongUsergroup" : "You have an incorrect usergroup!"
+    "wrongUsergroup" : "You have an incorrect usergroup!",
+    
+    "duplicate": "Duplicate"
 }

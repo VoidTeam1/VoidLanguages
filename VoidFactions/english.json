@@ -480,5 +480,6 @@
     "usergroups" : "Usergroup Needed",
     "wrongUsergroup" : "You have an incorrect usergroup!",
     
-    "duplicate": "Duplicate"
+    "duplicate": "Duplicate",
+    "duplicate_confirm": "Are you sure you want to duplicate faction :faction:?",
 }

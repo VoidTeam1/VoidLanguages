@@ -4,6 +4,9 @@
     "rank": "Rank",
     "deposit": "Deposit",
     "rewards": "Rewards",
+    
+    "promote": "Promote",
+    "demote": "Demote",
 
     "lastPromote": "Last promote",
     "autoPromote": "Autopromote",

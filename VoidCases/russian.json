@@ -235,6 +235,22 @@
 	"viewing_inventory": "Просмотр инвентаря :name:",
 	"pointshop_money": "Pointshop :x: валюты",
 
+	"lua_code": "Код Lua",
+	"put_to_inventory": "Поместить в инвентарь",
+	"equip_all": "Взять всё",
+	"equip_multiple": "Взять несколько",
+	
+	"equip_all_confirm": "Вы уверены, что хотите взять все :item:?",
+	"equip_multiple_confirm": "Сколько из :item: вы хотите взять?",
+	"move_to_category": "Перейти в категорию",
+	"select_category": "Выберите категорию, в которую вы хотите переместить элемент :item: .",
+	"change": "Изменить",
+
+	"duplicate": "Дублировать",
+	"duplicate_confirm": "Вы уверены, что хотите дублировать элемент :item:?",
+
+	"settings_npcmodel": "NPC модель",
+	"settings_npcmodel_desc": "Модель, которая будет использоваться для NPC",
 
 	"settings_menubind": "Клавиша меню",
 	"settings_menubind_desc": "Клавиша, открывающая меню VoidCases."

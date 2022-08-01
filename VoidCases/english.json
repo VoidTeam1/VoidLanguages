@@ -247,6 +247,8 @@
 	"change": "Change",
 	
 	"marketplace_blacklist": "Blacklist from marketplace",
+	"move_up": "Move up",
+	"move_down": "Move down",
 
 	"duplicate": "Duplicate",
 	"duplicate_confirm": "Are you sure you want to duplicate item :item:?",

@@ -235,7 +235,27 @@
 	"viewing_inventory": "Voir l'inventaire de :name:",
 	"pointshop_money": "Monnaie du Pointshop :x:",
 
+	"lua_code": "Lua Code",
+	"put_to_inventory": "Mettre dans l'inventaire",
+	"equip_all": "Tout équiper",
+	"equip_multiple": "Equiper plusieurs",
 	
+	"equip_all_confirm": "Etes-vous sur de vouloir équiper tous :item:?",
+	"equip_multiple_confirm": "Combien d' :item: voulez-vous équiper?",
+	"move_to_category": "Move to category",
+	"select_category": "Sélectionnez la catégorie dans laquelle vous souhaitez déplacer l'élément :item: .",
+	"change": "Changer",
+	
+	"marketplace_blacklist": "Blacklist du marché",
+	"move_up": "Monter",
+	"move_down": "Descendre",
+
+	"duplicate": "Dupliquer",
+	"duplicate_confirm": "Etes-vous sur de vouloir dupliquer l'élément :item:?",
+
+	"settings_npcmodel": "NPC Model",
+	"settings_npcmodel_desc": "Le modèle qui sera utilisé pour le NPC",
+
 	"settings_menubind": "Touche du menu",
 	"settings_menubind_desc": "Touche qui ouvre le menu VoidCases."
 }

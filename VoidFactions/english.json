@@ -484,5 +484,8 @@
     "wrongUsergroup" : "You have an incorrect usergroup!",
     
     "duplicate": "Duplicate",
-    "duplicate_confirm": "Are you sure you want to duplicate :faction:?"
+    "duplicate_confirm": "Are you sure you want to duplicate :faction:?",
+    
+    "name_exists": "A faction with this name/tag already exists!",
+    "invalid_characters": "Name/tag contains invalid characters!"
 }

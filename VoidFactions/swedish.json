@@ -1,0 +1,491 @@
+{
+    "profile": "Profil",
+    "level": "Nivå",
+    "rank": "Rang",
+    "deposit": "Sätt in",
+    "rewards": "Belöningar",
+    
+    "promote": "Befodra",
+    "demote": "Degradera",
+
+    "lastPromote": "Sista befodra",
+    "autoPromote": "Autobefodra",
+    "rankTemplate": "Rang mall",
+    "nextAutoPromote": "Nästa auto-befodra",
+    "joined": "Deltog",
+    "sessionPlaytime": "Sessionens speltid",
+    "totalPlaytime": "Totala speltid",
+    "factionJoined": "Fraktion deltog",
+
+    "balance": "Belopp:",
+    "itemCount": ":x:/:max: föremål",
+
+    "transactionHistory": "Transaktionshistorik",
+
+    "withdraw": "Ta ut",
+
+    "currentJob": "Nuvaranade jobb",
+    "changeJob": "Ändra jobb",
+    "changeRank": "Ändra rang",
+
+    "assets": "Tillgångar",
+
+    "createFaction": "Skapa fraktion",
+    "joinFaction": "Delta i fraktion",
+    
+    "createFactionOrJoin": "Skapa en fraktion eller delta i en",
+    "noFactionText": "Du kan antingen skapa en ny fraktion och vara chefen, eller kan du delta i en existerande.",
+    "factionCreateCost": "Skapandet av en ny fraktion kostar :color: :money:.",
+
+    "select": "Välj",
+    "create": "Skapa",
+
+    "factions": "Fraktioner",
+    "dynamic": "Dynamisk",
+    "static": "Statisk",
+
+    "setup": "Uppstart",
+    "options": "Inställningar",
+
+    "levelUp": "Nivå upp!",
+    "levelUpMsg": "Du är nu nivå :level:",
+
+    "chooseMode": "Välj ditt läge",
+    "chooseFaction": "Välj din fraktion",
+
+    "suitedForSerious": "Tillämpad för SeriösRP",
+    "suitedForNonSerious": "Tillämpad för icke-seriös RP",
+
+    "addFaction": "Lägg till ny fraktion",
+    "addRank": "Lägg till ny rang",
+    "addMember": "Lägg till ny medlem",
+
+    "newFaction": "Ny Fraktion",
+    "newRank": "Ny Rang",
+
+    "faction": "Fraktion",
+    "factionName": "Fraktion namn",
+
+    "editFaction": "Redigerar fraktion :name:",
+    "editRank": "Redigerar rang :name:",
+    "editUpgrade": "Redigerar uppgradering :name:",
+    "editReward": "Redigerar belöning :name:",
+
+    "reward": "Belöning",
+
+    "general": "Allmän",
+    "permissions": "Behörigheter",
+    "member": "Medlem",
+
+    "name": "Namn",
+    "description": "Beskrivning",
+    "factionTag": "Fraktionsmärke",
+    "subfactionOf": "Underavdelning till",
+    "factionColor": "Fraktion färg",
+    "icon": "Ikon",
+    "factionIcon": "Fraktion ikon",
+    "maxMembers": "Max medlemmar",
+
+    "canCaptureTerritory": "Kan ta över territorium",
+    "showOnBoard": "Visa ombord",
+    "inviteRequired": "Kräver inbjudan för att delta",
+    "isDefaultFaction": "Är standard fraktion",
+
+    "inviteOnly": "Endast inbjudna",
+
+    "noRanksAvailable": "Inga ranger tillgängliga!",
+    "none": "Ingen",
+
+    "rankTag": "Rangmärke",
+    "job": "Jobb",
+
+    "ranking": "Rangordning",
+    "totalUpgrades": "Totala uppgraderingar",
+
+    "showingPagination": "Visar :from:-:to:",
+    "page": "Sida",
+    "from": "Från",
+
+    "createUpgrade": "Skapa uppgradering",
+    "deleteUpgrade": "Ta bort uppgradering",
+
+    "createReward": "Skapa belöning",
+    "deleteReward": "Ta bort belöning",
+
+    "upgradeModule": "Uppgraderingsmodul",
+    "rewardModule": "Belöningsmodul",
+    "moduleValue": "Modul värde",
+
+    "tools": "Verktyg",
+
+    "upgradeCount": ":x: Uppgraderingar",
+    "rewardCount": ":x: Belöningar",
+
+    "price": "Kostnad",
+
+    "you": "Du",
+
+    "kick": "Sparka",
+    "inviteMembers": "Bjud in medlemmar",
+    "kickMembers": "Sparka medlemmar",
+
+    "promoteMembers": "Befodra medlemmar",
+    "demoteMembers": "Degradera medlemmar",
+
+    "setRanks": "Verkställ ranger",
+
+    "manageFaction": "Hantera fraktion",
+    "purchaseUpgrades": "Köp uppgraderingar",
+
+    "canWithdrawMoney": "Ta ut pengar",
+    "canDepositMoney": "Sätt in pengar",
+    "canWithdrawItems": "Ta ut föremål",
+    "canDepositItems": "Sätt in föremål",
+
+    "depositMoney": "Sätt in pengar",
+    "withdrawMoney": "Ta ut pengar",
+
+    "promoteDefaultRanks": "Befodra standard ranger",
+
+    "depositMoneyText": "Skriv in antalet pengar du skulle vilja sätta in.",
+	"withdrawMoneyText": "Skriv in antalet pengar du skulle vilja ta ut.",
+
+    "yes": "Ja",
+    "no": "Nej",
+
+    "onlyFactionMembers": "Bara fraktion medlemmar",
+    "factionAndSubfactions": "Fraktion och underavdelningar",
+    "minimumLevel": "Lägsta nivå",
+
+    "upgradeCreated": "Lyckades skapa uppgradering :name:!",
+    "upgradeDeleted": "Lyckades ta bort uppgradering :name:!",
+    "upgradeEdited": "Lyckades redigera uppgradering :name:!",
+    "deleteUpgradePrompt": "Är du säker att du vill ta bort uppgradering :upgrade:? Den här handlingen är permanent!",
+
+    "rewardCreated": "Lyckades skapa belöning :name:!",
+    "rewardDeleted": "Lyckades ta bort belöning :name:!",
+    "rewardEdited": "Lyckades redigera belöning :name:!",
+    "deleteRewardPrompt": "Är du säker att du vill ta bort belöning :reward:? Den här handlingen är permanent!",
+
+    "moveTool": "Flytt verktyg",
+    "connectorTool": "Anslutnings verktyg",
+    "addUpgrade": "Lägg ny uppgradering",
+
+    "moneyRewarded": "Pengar belönad",
+    "xpRewarded": "XP belönad",
+
+    "reward_pointscaptured": "Punkter övertagna",
+    "reward_desc_pointscaptured": "Hur många punkter ska vara övertagna totalt för att låsa upp detta?",
+
+    "reward_itemsdeposited": "Insatta föremål",
+    "reward_desc_itemsdeposited": "Hur många föremål ska vara insatta på en gång för att låsa upp detta?",
+
+    "reward_moneydeposited": "Insatta Pengar",
+    "reward_desc_moneydeposited": "Hur mycket pengar ska vara insatt för att låsa upp detta?",
+
+    "reward_upgradesdeposited": "Upplåsta Uppgraderingar",
+    "reward_desc_upgradesdeposited": "Hur många uppgraderingar ska vara upplåsta totalt för att låsa upp detta?",	
+
+    "reward_membersjoined": "Deltagande Medlemmar",
+    "reward_desc_membersjoined": "Hur många medlemmar ska vara i fraktionen på en gång för att låsa upp detta?",
+
+    "upgr_speedboost": "Fartökning",
+    "upgr_desc_speedboost": "Ökar spelarens rörelse fart.",
+    "upgr_descval_speedboost": "Hur mycket snabbare ska spelaren vara i %?",
+
+    "upgr_memberhalo": "Medlems Halo",
+    "upgr_desc_memberhalo": "Lägger till förmågan att se dina fraktion-kamrater igenom väggarna.",
+    "upgr_descval_memberhalo": "Hur många meter iväg kan spelaren se igenom väggen?",
+
+    "upgr_weapon": "Permanent Vapen",
+    "upgr_desc_weapon": "Ger ett vapen till spelaren på spawn.",
+    "upgr_descval_weapon": "Vad är vapnets klass namn?",
+
+    "upgr_jumpboost": "Hoppökning",
+    "upgr_desc_jumpboost": "Ökar spelarens hopp kraft.",
+    "upgr_descval_jumpboost": "Hur mycket högre ska spelaren hoppa i %?",
+
+    "upgr_morehp": "Mer liv",
+    "upgr_desc_morehp": "Ökar spelarens liv.",
+    "upgr_descval_morehp": "Hur mycket ska spelarens liv öka med i %?",
+
+    "upgr_morearmor": "Mer rustning",
+    "upgr_desc_morearmor": "Ökar spelarens rustning.",
+    "upgr_descval_morearmor": "Hur mycket ska spelarens rustning öka i %?",
+
+    "upgr_memberdmgreduce": "Medlems skada minskning",
+    "upgr_desc_memberdmgreduce": "Minskar vådabekämpning skada.",
+    "upgr_descval_memberdmgreduce": "Hur mycket vådabekämpning skada ska minskas i %?",
+
+    "upgr_lockpickspeed": "Snabbare dyrk",
+    "upgr_desc_lockpickspeed": "Ökar dyrkens snabbhet.",
+    "upgr_descval_lockpickspeed": "Vad ska dyrkens tid vara i %? (0-100%)",
+
+    "upgr_maxmembers": "Max medlemmar",
+    "upgr_desc_maxmembers": "Ökar antalet max medlemmar.",
+    "upgr_descval_maxmembers": "Hur mycket max medlemmar ska bli tillagda?",
+
+    "upgr_maxitems": "Max föremål",
+    "upgr_desc_maxitems": "Ökar max antalet föremål.",
+    "upgr_descval_maxitems": "Hur många max antal föremål ska bli tillagda?",
+
+    "upgr_capturetime": "Fång Tid",
+    "upgr_desc_capturetime": "Minskar punkt tids övertagande.",
+    "upgr_descval_capturetime": "Hur många sekunder att subtrahera från fång tiden?",
+
+    "upgr_longercapture": "Längre fång tid",
+    "upgr_desc_longercapture": "Dina fång punkter kommer ta längre tid att ta över.",
+    "upgr_descval_longercapture": "Hur många sekunder att lägga till på fång tiden för fienderna?",
+
+    "success": "Lyckades",
+    "error": "Error",
+    "info": "Info",
+
+    "properties": "Egenskaper",
+
+    "factionCreated": "Fraktion :name: lyckades skapas!",
+    "factionUpdated": "Fraktion :name: lyckades redigeras!",
+    "factionDeleted": "Fraktion :name: lyckadess tas bort!",
+    "memberCountDemoted": "(:count: medlemmar blev degraderade)",
+
+    "rankCreated": "Rang :name: lyckades skapas!",
+    "rankUpdated": "Rang :name: lyckades redkgeras!",
+    "rankDeleted": "Rang :name: lyckades tas bort!",
+    "maxRanksCreated": "Kunde inte skapa rang :name: för att begränsningen (:limit:) blev överstigen!",
+    "maxFactionsCreated": "Kunde inte skapa fraktion :name: för att begränsningen (:limit:) blev överstigen!",
+    "membersInRankErr": "Kunde inte ta bort rang :name: för att det finns medlemmar inuti och de kan inte degraderas!",
+
+    "memberInvited": "Spelaren :name: lyckades bli inbjuden till :faction:!",
+    "memberInvitePending": "Spelaren :name: har redan en inbjudan i väntan!",
+    "memberInviteAccepted": "Spelaren :name: accepterade din inbjudan!",
+
+    "memberJoinedFaction": "Du deltog i :faction:",
+    "memberLeftFaction": "Du lämnade :faction:",
+
+    "memberKicked": "Medlem :name: lyckades bli sparkad!",
+    "memberAdded": "Spelaren :name: lyckades bli tillagd till fraktion :faction:!",
+
+    "itemDeposited": "Lyckades sätta in föremål :name:!",
+    "itemWithdrawn": "Lyckades ta ut föremål :name:!",
+
+    "moneyDeposited": "Lyckades sätta in :money:!",
+    "moneyWithdrawn": "Lyckades ta ut :money:!",
+
+    "noFactionMoney": "Fraktionen har inte så mycket pengar!",
+
+    "memberRankChanged": ":name:'s rang blev ställd till :rank:!",
+    "memberPromoted": "Medlem :name: blev befodrad till rang :rank:!",
+    "memberDemoted": "Medlem :name: blev degraderad till rang :rank:!",
+
+    "youPromoted": "Du blev befodrad till rang :rank:!",
+    "youDemoted": "Du blev degraderad till rang :rank:!",
+    "youRankChanged": "Din rang blev ställd till :rank:!",
+
+    "nameShort": "Namnet är för kort!",
+    "nameLong": "Namnet är för lång!",
+    "tagShort": "Märket är för kort!",
+    "tagLong": "Märket är för lång!",
+    "maxMembersLimit": "Max medlemmar är för stor!",
+    "noJobs": "Det finns inga jobb som tilldelas denna rang!",
+
+    "maxMembersErr": "Fraktionen är full!",
+    "maxRankMembersErr": "Rangen är full!",
+    "minLevelErr": "Du har inte den krävda nivån!",
+
+    "nothingToShow": "Det finns inget att visa!",
+    "thereAreNoMembers": "Det finns inga medlemmar!",
+
+    "capturePoint": "Fångstpunkt",
+    "capturePointCreated": "Fångstpunkt skapad!",
+    "capturePointDeleted": "Fångstpunkt borttagen!",
+    "capturePointContested": "Omstridd",
+    "capturing": "Fångar",
+    "paused": "Pausad",
+    "claimed": "Tagen",
+    "notClaimed": "Inte tagen",
+
+    "pointCapturedByEnemies": "Din fångstpunkt blir övertagen av fiender!",
+
+    "unlockedReward": "Belöning :reward: upplåst!",
+
+    "cantJoinNoDefaultFactions": "Standard fraktioner kommer behöva bli konfigurerade innan man deltar i fraktion! Skapa en och återanslut.",
+    "noDefaultFactions": "Det finns inga standard fraktioner! Dem kommer behöva konfigureras!",
+
+    "deleteRankPrompt": "Är du säker att du vill ta bort rang :rank:? Den här handlingen är permanent!",
+    "deleteFactionPrompt": "Är du säker att du vill ta bort fraktion :faction:? Den här handlingen är permanent!",
+    "disbandFactionPrompt": "Är du säker att du vill upplösa din fraktion? Den här handlingen är permanent!",
+
+    "disbandFaction": "Upplös fraktion",
+
+    "switch": "Byt",
+    "switchType": "Byt fraktion typ",
+    "switchTypePrompt": "Är du säker att du vill byta fraktion typer? Alla fraktioner kommer bli borttagna! Din server kommer bli omstartad efter den byter typer!",
+    "restartingIn": "Startar om servern om :time: sekunder!",
+
+    "changingJobRestricted": "Du har inte tillgång till detta jobbet!",
+
+    "upgradePurchased": "Du köpte uppgradering :name:!",
+
+    "inviteMember": "Bjud in en ny medlem",
+
+    "factionInvite": "Fraktion inbjudan",
+    "invitedTo": "Du blev inbjuden till",
+
+    "memberCount": ":x:/:total: medlemmar",
+    "factionCount": ":x: fraktioner",
+
+    "unlock": "Lås upp",
+    "neededToUnlock": "Behövs till att låsa upp",
+    "details": "Detaljer",
+    "viewDetails": "Se detaljer",
+    "join": "Delta",
+    "lastSeen": "Senast sedd",
+
+    "ago": ":time: sedan",
+    "never": "Aldrig",
+    "now": "Nu",
+
+    "back": "Tillbaka",
+
+    "save": "Spara",
+    "deleteFaction": "Ta bort fraktion",
+    "deleteRank": "Ta bort rang",
+
+    "leave": "Lämna",
+    "leaveFaction": "Lämna fraktion",
+
+    "accept": "Acceptera",
+    "deny": "Neka",
+    
+    "cancel": "Avbryt",
+
+    "clickToAdd": "Klick för att lägga till",
+
+    "visual": "Visuell",
+
+    "members": "Medlemmar",
+    "actions": "Åtgärder",
+
+    "manage": "Hantera",
+    "disband": "Upplös",
+    "delete": "Ta bort",
+
+    "loading": "Laddar...",
+
+    "searchByName": "Sök med namn",
+
+    "kickMember": "Sparka medlem",
+    "kickMemberPrompt": "Är du säker att du vill sparka :name: från :faction:?",
+
+    "cantAfford": "Du har inte råd med detta!",
+
+    "staticFactionsContent": "Personal kan skapa Fraktioner och välja vem ska bli ledaren och vilka behörigheter alla ranger har.",
+    "dynamicFactionsContent": "Spelare kan skapa deras egna fraktioner och ha full kontroll över det. Inga kommer säga till dem hur de ska leda den.",
+
+    "xp_npckilled": "NPC Mord",
+    "xp_npckilled_desc": "Hur mycket XP får du från att döda en NPC",
+
+    "xp_territorycapped": "Fångstpunkt övertagen",
+    "xp_territorycapped_desc": "Hur mycket XP får du från att ta över en punkt",
+
+    "xp_territoryminute": "Hålla Fångstpunkt",
+    "xp_territoryminute_desc": "Hur mycket XP får du för varje fångstpunkt per minut",
+
+    "xp_playtime": "Speltid",
+    "xp_playtime_desc": "Hur mycket XP får du för vilken tidsperiod?",
+
+    "experience": "Erfarenhet",
+    "commands": "Kommandon",
+    "xpmodules": "XP Moduler",
+    "invites": "Inbjudningar",
+    "capturepoints": "Fångstpunkter",
+    "upgrades": "Uppgraderingar",
+    "upgradetree": "Uppgraderings Träd",
+    "upgradepoints": "Uppgraderings Poäng",
+
+    "selectPointToView": "Välj en uppgradering för att se dens info...",
+
+    "settings_language": "Språk",
+    "settings_language_desc": "Vilket språk ska VoidFactions använda?",
+
+    "settings_menucommand": "Meny kommandon",
+    "settings_menucommand_desc": "Vilket kommando ska användas för att öppna menyn?",
+
+    "settings_maxtaglength": "Största märk längd",
+    "settings_maxtaglength_desc": "Hur lång kan fraktionmärken vara?",
+
+    "settings_defaultrankname": "Standard ägare rang namn",
+    "settings_defaultrankname_desc": "Vad ska namnet vara på standard ägarens rang namn?",
+
+    "settings_defaultmaxmembers": "Standard max medlemmar",
+    "settings_defaultmaxmembers_desc": "Vad ska antal max medlemmar i en påbörjad fraktion vara?",
+
+    "settings_defaultmaxitems": "Standard max föremål",
+    "settings_defaultmaxitems_desc": "Vad ska antal max föremål i en påbörjad fraktion vara?",
+
+    "settings_factioncreatecost": "Fraktion skapande kostnad",
+    "settings_factioncreatecost_desc": "Hur mycket ska det kosta att skapa en fraktion?",
+
+    "settings_factioncreatecurrency": "Fraktion skapande valuta",
+    "settings_factioncreatecurrency_desc": "Vilken valuta ska vara använd för att skapa en fraktion?",
+
+    "settings_upgradesenabled": "Uppgraderingar aktiverad",
+    "settings_upgradesenabled_desc": "Ska fraktion uppgraderingar vara aktiverade i statiska fraktioner?",
+
+    "settings_depositenabled": "Insättningar aktiverad",
+    "settings_depositenabled_desc": "Ska fraktion insättningar vara aktiverade i statiska fraktioner?",
+
+    "settings_promotecanselect": "Välj fraktion på befodran",
+    "settings_promotecanselect_desc": "Kan välja specifik fraktion på befodran mellan fraktioner?",
+
+    "settings_menubind": "Meny nyckelbindning",
+    "settings_menubind_desc": "Vilken nyckel ska användas för att öppna menyn?",
+
+    "settings_depositcurrency": "Insättnings valuta",
+    "settings_depositcurrency_desc": "Vilken valuta ska användas för insättningar?",
+
+    "settings_depositinventory": "Insättnings lager",
+    "settings_depositinventory_desc": "Vilken lager ska användas för insättningar?",
+
+    "settings_inviteduration": "Inbjudnings tid",
+    "settings_inviteduration_desc": "Hur länge ska en inbjudan vara aktiv? (seconds)",
+
+    "settings_pointrenderdist": "Framställnings distans",
+    "settings_pointrenderdist_desc": "Hur långt bort ska fångstpunkterna bli utritade?",
+
+    "settings_showpointdistances": "Visa distanser",
+    "settings_showpointdistances_desc": "Ska fångstpunkt distanser bli visade?",
+
+    "settings_pointcaptime": "Fång tid",
+    "settings_pointcaptime_desc": "How long does it take to capture a point? (seconds)",
+
+    "settings_baselevelupxp": "Nivå upp XP",
+    "settings_baselevelupxp_desc": "Hur mycket XP behöver du för att gå upp i nivå?",
+
+    "settings_levelupmultiplier": "Nivå upp multiplikator",
+    "settings_levelupmultiplier_desc": "Hur mycket kommer den krävade erfarenheten bli ökad med?",
+
+    "settings_maxlevel": "Max nivå",
+    "settings_maxlevel_desc": "Vad är den maximala nivån man kan uppnå?",
+    
+    "settings_disablenametag" : "Inaktivera Namnmärke",
+    "settings_disablenametag_desc" : "Inaktivera fraktion namnmärke som kommer visas i chatten.",
+
+    "settings_skipfirstrank" : "Skippa första rang?",
+    "settings_skipfirstrank_desc" : "Ska den första rangen bli skippad, ifall sparkad tillbaka till en standard fraktion?",
+
+    "settings_disablexpsystem" : "Inaktivera XP systemet?",
+    "settings_disablexpsystem_desc" : "Vill du inaktivera den integrerade XP systemet?",
+    
+    "settings_nametagsdisabled" : "Inaktivera namnmärken?",
+    "settings_nametagsdisabled_desc" : "Vill du inaktivera fraktionens märke framför namnet?",
+    
+    "usergroups" : "Användargrupp Behövs",
+    "wrongUsergroup" : "Du har en inkorrekt användargrupp!",
+    
+    "duplicate": "Duplicera",
+    "duplicate_confirm": "Är du säker att du vill duplicera :faction:?",
+    
+    "name_exists": "En fraktion med detta namnet/märket existerar redan!",
+    "invalid_characters": "Namnet/märket innehåller otillåtna karaktärer!"
+}

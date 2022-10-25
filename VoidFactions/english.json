@@ -410,9 +410,6 @@
 
     "settings_menucommand": "Menu command",
     "settings_menucommand_desc": "What command will be used for opening the menu?",
-    
-    "settings_public_chances": "Show Chances?",
-    "settings_public_chances_desc": "Show item chances when purchasing a case?",
 
     "settings_maxtaglength": "Max tag length",
     "settings_maxtaglength_desc": "How long can the faction tag be?",

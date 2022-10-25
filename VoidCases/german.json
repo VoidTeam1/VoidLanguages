@@ -237,5 +237,11 @@
 	"pointshop_money": "Pointshop :x: Geld",
 
 	"settings_menubind": "Menü-Tastenbelegung",
-	"settings_menubind_desc": "Tastenbelegung zum Öffnen des Menüs VoidCases."
+	"settings_menubind_desc": "Tastenbelegung zum Öffnen des Menüs VoidCases.",
+	
+	"settings_npcmodel": "NPC Model",
+	"settings_npcmodel_desc": "Das Model welches für den NPC verwendet wird.",
+	
+	"settings_public_chances": "Gewinnchance anzeigen?",
+    	"settings_public_chances_desc": "Gewinnchance der Items anzeigen bei Kisten kauf?"
 }

@@ -257,5 +257,8 @@
 	"settings_npcmodel_desc": "The model that will be used for the NPC",
 
 	"settings_menubind": "Menu keybind",
-	"settings_menubind_desc": "Keybind that opens the VoidCases menu."
+	"settings_menubind_desc": "Keybind that opens the VoidCases menu.",
+	
+	"settings_public_chances": "Show Chances?",
+    	"settings_public_chances_desc": "Show item chances when purchasing a case?"
 }

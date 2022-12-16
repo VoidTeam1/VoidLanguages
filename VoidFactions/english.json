@@ -480,6 +480,9 @@
     "settings_nametagsdisabled" : "Disable nametags?",
     "settings_nametagsdisabled_desc" : "Do you want to disable the faction tag infront of the name?",
     
+    "settings_npcmodel": "NPC Model",
+	"settings_npcmodel_desc": "The model that will be used for the NPC",
+    
     "usergroups" : "Usergroup Needed",
     "wrongUsergroup" : "You have an incorrect usergroup!",
     

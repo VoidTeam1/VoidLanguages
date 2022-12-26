@@ -1,3 +1,10 @@
 {
-    "testPhrase": "Testing phrase!"
+    "testPhrase": "Testing phrase!",
+    "settings": {
+        "nestedOption": "Nested option testing!",
+        "anotherOption": "Hi :name:, how are you?"
+    },
+    "upgrades": {
+        "phrase": "this is my phrase"
+    }
 }

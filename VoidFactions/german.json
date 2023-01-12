@@ -295,7 +295,7 @@
 
     "unlockedReward": "Die Belohung :reward: wurde freigeschaltet!",
 
-    "cantJoinNoDefaultFactions": "Standardfraktionen mpssen konfugiriert werden, bevor du einer Fraktion beitreten kannst. Verbinde dich erneut mit dem Server.",
+    "cantJoinNoDefaultFactions": "Standardfraktionen müssen konfiguriert werden, bevor du einer Fraktion beitreten kannst. Verbinde dich erneut mit dem Server.",
     "noDefaultFactions": "Es gibt keine Standardfraktionen. Diese müssen erst eingerichtet werden!",
 
     "deleteRankPrompt": "Bist du dir sicher, dass du den Rang :rank: löschen möchtest? Diese Aktion ist unumkehrbar!",

@@ -32,7 +32,7 @@
     "concommand_type": "КОМАНДА КОНСОЛИ",
     "name": "ИМЯ",
     "trading_you": "ВЫ",
-    "creating_case": "СОЗДАТЬ НОВЫЙ КОРПУС"
+    "creating_case": "СОЗДАТЬ НОВЫЙ КОРПУС",
     "marketplace": "Магазин",
     "settings_tradetime_desc": "Через какое время (в секундах) истекает запрос на обмен?",
     "none": "Нет",

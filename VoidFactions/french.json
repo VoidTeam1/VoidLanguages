@@ -3,7 +3,7 @@
     "level": "Niveau",
     "rank": "Rang",
     "deposit": "Dépôt",
-    "rewards": "Récompenses",
+    "rewards": "Recompenses",
 
     "lastPromote": "Dernière promotion",
     "autoPromote": "Promotion automatique",
@@ -67,7 +67,7 @@
     "editUpgrade": "Éditer l'amélioration :name:",
     "editReward": "Éditer la récompense :name:",
 
-    "reward": "Récompense",
+    "reward": "Recompense",
 
     "general": "Général",
     "permissions": "Permissions",
@@ -114,7 +114,7 @@
     "tools": "Outils",
 
     "upgradeCount": ":x: Améliorations",
-    "rewardCount": ":x: Récompenses",
+    "rewardCount": ":x: Recompenses",
 
     "price": "Prix",
 
@@ -269,7 +269,7 @@
     "claimed": "Obtenu",
     "notClaimed": "Non obtenu",
 
-    "unlockedReward": "Récompense :reward: débloquée !",
+    "unlockedReward": "Recompense :reward: débloquée !",
 
     "cantJoinNoDefaultFactions": "Les factions par défaut devront être configurées avant de rejoindre une faction ! Faites-en une et reconnectez-vous.",
     "noDefaultFactions": "Il n'y a pas de factions par défaut ! Elles devront être configurées !",
@@ -298,8 +298,8 @@
     "factionCount": ":x: factions",
 
     "unlock": "Déverouiller",
-    "neededToUnlock": "Nécessaire pour déverrouiller",
-    "details": "Détails",
+    "neededToUnlock": "Prix",
+    "details": "Details",
     "viewDetails": "Voir les détails",
     "join": "Rejoindre",
     "lastSeen": "Vu en dernier",

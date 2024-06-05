@@ -260,5 +260,5 @@
 	"settings_menubind_desc": "Keybind that opens the VoidCases menu.",
 	
 	"settings_public_chances": "Show Chances?",
-    	"settings_public_chances_desc": "Show item chances when purchasing a case?"
+	"settings_public_chances_desc": "Show item chances when purchasing a case?"
 }

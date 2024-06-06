@@ -62,7 +62,7 @@
 	"inventory": "库存",
 	"plastic_key": "塑料钥匙",
 	"trading_fromply": "来自 %s",
-	"minute_short": "分。",
+	"minute_short": "分.",
 	"buy": "购买",
 	"unlocks_cases": "解锁箱子",
 	"unlocks": "解锁",
@@ -84,11 +84,11 @@
 	"settings_despawn_desc": "箱子多久后消失?(秒)",
 	"is_mystery": "是神秘物品吗?",
 	"show_if_cant_purchase": "如果不能购买则显示",
-	"settings_currency_desc": "VoidCases 使用的货币类型。",
+	"settings_currency_desc": "VoidCases 使用的货币类型.",
 	"settings_automatic_feature_desc": "首页中的物品是否应该自动特色?",
 	"trading": "交易",
 	"money_type": "货币金额",
-	"settings_command_desc": "在聊天中打开 VoidCases 菜单的命令。",
+	"settings_command_desc": "在聊天中打开 VoidCases 菜单的命令.",
 	"settings_maxequipped": "最大装备武器",
 	"case_color": "箱子颜色",
 	"settings_disabletrading": "禁用交易",
@@ -243,7 +243,7 @@
 	"equip_all_confirm": "您确定要装备所有的 :item: 吗?",
 	"equip_multiple_confirm": "您想装备多少个 :item:?",
 	"move_to_category": "移动到类别",
-	"select_category": "选择您想将物品 :item: 移动到的类别。",
+	"select_category": "选择您想将物品 :item: 移动到的类别.",
 	"change": "更改",
 
 	"marketplace_blacklist": "从市场黑名单中移除",
@@ -257,7 +257,7 @@
 	"settings_npcmodel_desc": "将用于 NPC 的模型",
 
 	"settings_menubind": "菜单快捷键",
-	"settings_menubind_desc": "打开 VoidCases 菜单的快捷键。",
+	"settings_menubind_desc": "打开 VoidCases 菜单的快捷键.",
 
 	"settings_public_chances": "显示几率?",
 	"settings_public_chances_desc": "购买箱子时是否显示物品几率?"

@@ -243,5 +243,5 @@
 	"settings_npcmodel_desc": "Das Model welches für den NPC verwendet wird.",
 	
 	"settings_public_chances": "Gewinnchance anzeigen?",
-    	"settings_public_chances_desc": "Gewinnchance der Items anzeigen bei Kisten kauf?"
+	"settings_public_chances_desc": "Gewinnchance der Items anzeigen bei Kisten kauf?"
 }

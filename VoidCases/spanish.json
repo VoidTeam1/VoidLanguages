@@ -260,5 +260,5 @@
 	"settings_menubind_desc": "Tecla que abre el menú de VoidCases.",
 	
 	"settings_public_chances": "¿Mostrar chances?",
-    	"settings_public_chances_desc": "¿Mostrar las probabilidades de cada objeto al adquirir una caja?"
+	"settings_public_chances_desc": "¿Mostrar las probabilidades de cada objeto al adquirir una caja?"
 }

@@ -86,7 +86,7 @@
     "canCaptureTerritory": "Kann Gebiet erobern",
     "showOnBoard": "Am Board anzeigen",
     "inviteRequired": "Einladung benötigt",
-    "isDefaultFaction": "Ist die Standardfraktion",
+    "isDefaultFaction": "Standardfraktion",
 
     "inviteOnly": "Nur durch Einladung",
 
@@ -349,6 +349,7 @@
     "clickToAdd": "Klicke um hinzuzufügen",
 
     "visual": "Visuell",
+    "preferences": "Erweitert",
 
     "members": "Mitglieder",
     "actions": "Aktionen",

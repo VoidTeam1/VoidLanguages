@@ -21,9 +21,9 @@
 
     "withdraw": "Auszahlen",
 
-    "currentJob": "Aktueller Beruf",
-    "changeJob": "Wechsle Beruf",
-    "changeRank": "Ändere Rang",
+    "currentJob": "Aktueller Job",
+    "changeJob": "Job wechseln",
+    "changeRank": "Rang ändern",
 
     "assets": "VERMÖGEN",
 
@@ -53,7 +53,7 @@
     "suitedForSerious": "Geeignet für SeriousRP",
     "suitedForNonSerious": "Geeignet für Non-SeriousRP",
 
-    "addFaction": "Erstelle eine neue Fraktion",
+    "addFaction": "Neue Fraktion",
     "addRank": "Neuer Rang",
     "addMember": "Mitglied hinzufügen",
 
@@ -94,7 +94,7 @@
     "none": "Nichts",
 
     "rankTag": "Rangkürzel",
-    "job": "Beruf",
+    "job": "Job",
 
     "ranking": "Rangfolge",
     "totalUpgrades": "Upgrades",
@@ -240,7 +240,7 @@
     "rankDeleted": "Rang :name: wurde erfolgreich gelöscht!",
     "maxRanksCreated": "Der Rang :name: konnte nicht erstellt werden, da das Limit (:limit:) erreicht wurde!",
     "maxFactionsCreated": "Die Fraktion :name: konnte nicht erstellt werden, da das Limit (:limit:) erreicht wurde!",
-    "membersInRankErr": "Der Rang :name: konnte nicht gelöscht werden, da Mitglieder diesen tragen und nicht degradiert werden können!",
+    "membersInRankErr": "Der Rang :name: konnte nicht gelöscht werden, da Mitglieder in diesem Rang sind und nicht degradiert werden können!",
 
     "memberInvited": "Der Spieler :name: wurde erfolgreich eingeladen, der Fraktion :faction: beizutreten!",
     "memberInvitePending": "Der Spieler :name: wurde bereits eingeladen!",
@@ -258,7 +258,7 @@
     "moneyDeposited": "Es wurden erfolgreich :money: eingezahlt!",
     "moneyWithdrawn": "Es wurden erfolgreich :money: ausgezahlt!",
 
-    "noFactionMoney": "Die Fraktion hat nicht so viel Geld!",
+    "noFactionMoney": "Die Fraktion hat nicht genügend Geld!",
 
     "memberRankChanged": ":name:' wurde auf den Rang :rank: gesetzt!",
     "memberPromoted": "Das Mitglied :name: wurde auf den Rang :rank: befördert!",
@@ -273,7 +273,7 @@
     "tagShort": "Das Kürzel ist zu kurz!",
     "tagLong": "Das Kürzel ist zu lang!",
     "maxMembersLimit": "Die maximale Mitgliederzahl ist zu groß!",
-    "noJobs": "Diesen Rang sind keine Berufe zugeordnet!",
+    "noJobs": "Diesem Rang sind keine Jobs zugeordnet!",
 
     "maxMembersErr": "Diese Fraktion ist voll!",
     "maxRankMembersErr": "Der Rang ist voll!",
@@ -295,7 +295,7 @@
 
     "unlockedReward": "Die Belohung :reward: wurde freigeschaltet!",
 
-    "cantJoinNoDefaultFactions": "Standardfraktionen müssen konfiguriert werden, bevor du einer Fraktion beitreten kannst. Verbinde dich erneut mit dem Server.",
+    "cantJoinNoDefaultFactions": "Standardfraktionen müssen konfiguriert werden, bevor du einer Fraktion beitreten kannst. Verbinde dich danach erneut mit dem Server.",
     "noDefaultFactions": "Es gibt keine Standardfraktionen. Diese müssen erst eingerichtet werden!",
 
     "deleteRankPrompt": "Bist du dir sicher, dass du den Rang :rank: löschen möchtest? Diese Aktion ist unumkehrbar!",
@@ -309,7 +309,7 @@
     "switchTypePrompt": "Bist du dir sicher, dass du den Fraktionstyp wechseln möchtest? Es werden dabei alle Fraktionen gelöscht und der Server wird neugestartet.",
     "restartingIn": "Der Server wird in :time: Sekunden neugestartet!",
 
-    "changingJobRestricted": "Du hast keinen Zugang zu diesem Beruf!",
+    "changingJobRestricted": "Du hast keinen Zugang zu diesem Job!",
 
     "upgradePurchased": "Du hast die Verbesserung :name: gekauft!",
 
@@ -329,7 +329,7 @@
     "lastSeen": "Zuletzt gesehen",
 
     "ago": "vor :time:",
-    "never": "Nie",
+    "never": "Noch nie",
     "now": "Jetzt",
 
     "back": "ZURÜCK",
@@ -371,16 +371,16 @@
     "dynamicFactionsContent": "Spieler können ihre eigene Fraktion erstellen und diese selbstständig verwalten. Dabei haben sie vollständigen Freiraum.",
 
     "xp_npckilled": "NPC Tötungen",
-    "xp_npckilled_desc": "Wie viel EXP  man für das Töten eines NPC erhält",
+    "xp_npckilled_desc": "Wie viel XP  man für das Töten eines NPC erhält",
 
     "xp_territorycapped": "Eroberungspunkt eingenommen",
-    "xp_territorycapped_desc": "Wie viel EXP man für das Einnehmen eines Eroberungspunktes erhält",
+    "xp_territorycapped_desc": "Wie viel XP man für das Einnehmen eines Eroberungspunktes erhält",
 
     "xp_territoryminute": "Eroberungspunkt halten",
-    "xp_territoryminute_desc": "Wie viel EXP pro Minute für das Halten eines Eroberungspunktes",
+    "xp_territoryminute_desc": "Wie viel XP pro Minute für das Halten eines Eroberungspunktes",
 
     "xp_playtime": "Spielzeit",
-    "xp_playtime_desc": "Wie viel EXP du für welchen Zeitraum erhälst",
+    "xp_playtime_desc": "Wie viel XP du für welchen Zeitraum erhälst",
 
     "experience": "Erfahrung",
     "commands": "Befehle",
@@ -442,7 +442,7 @@
     "settings_pointcaptime_desc": "Wie viele Sekunden dauert das Einnehmen eines Eroberungspunktes?",
 
     "settings_baselevelupxp": "Levelaufstieg - XP",
-    "settings_baselevelupxp_desc": "Wie viele EXP werden für einen Levelaufstieg benötigt?",
+    "settings_baselevelupxp_desc": "Wie viele XP werden für einen Levelaufstieg benötigt?",
 
     "settings_levelupmultiplier": "Levelaufstiegs Multiplikator",
     "settings_levelupmultiplier_desc": "Um wie viel wird die erforderliche Erfahrung erhöht?",
